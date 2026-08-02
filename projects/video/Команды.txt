@@ -1,0 +1,6 @@
+
+
+cd /d D:\AI_Project\Video
+
+
+yt-dlp -x --audio-format mp3 https://www.youtube.com/watch?v=YttzbKkdjWY -o audio.mp3

@@ -1,0 +1,20 @@
+Total PDF books: 131
+
+=== Folder structure ===
+  books                         :   5 books
+  Вождение                      :   1 books
+  Мышление, привычки, навыки    :   5 books
+  Общение, красноречие          :   6 books
+  Продажи                       :  10 books
+  Психология                    :   1 books
+  Развитие                      :  62 books
+  Спорт, питание                :   1 books
+  Тайм-менеджмент               :   6 books
+  Финансы                       :  24 books
+  свободные_книги               :  10 books
+
+=== Misplaced (example) ===
+  Финансы -> Продажи: Решетняк Владимир - Основы продаж.pdf
+
+Excel saved to: D:\AI_Project\Книги\summary\library_inventory.xlsx
+Done!

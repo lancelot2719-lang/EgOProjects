@@ -1,0 +1,113 @@
+{
+  "userName": "Andrew",
+  "permissionMode": "yolo",
+  "model": "opencode:ollama/qwen3.5:latest",
+  "thinkingBudget": "high",
+  "effortLevel": "low",
+  "serviceTier": "default",
+  "enableAutoTitleGeneration": true,
+  "titleGenerationModel": "",
+  "excludedTags": [],
+  "mediaFolder": "",
+  "systemPrompt": "",
+  "persistentExternalContextPaths": [],
+  "sharedEnvironmentVariables": "",
+  "envSnippets": [
+    {
+      "id": "snippet-1784145967634",
+      "name": "Qwen",
+      "description": "",
+      "envVars": "OPENCODE_CONFIG=D:\\AI_Project\\Obsidian\\EgO Info\\.claudian\\opencode\\config.json;OPENCODE_DISABLE_CLAUDE_CODE_PROMPT=true",
+      "scope": "provider:opencode"
+    }
+  ],
+  "customContextLimits": {},
+  "customModelAliases": {},
+  "keyboardNavigation": {
+    "scrollUpKey": "w",
+    "scrollDownKey": "s",
+    "focusInputKey": "i"
+  },
+  "requireCommandOrControlEnterToSend": false,
+  "locale": "ru",
+  "providerConfigs": {
+    "claude": {
+      "safeMode": "acceptEdits",
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "loadUserSettings": false,
+      "enableChrome": false,
+      "enableBangBash": false,
+      "customModels": "",
+      "lastModel": "haiku",
+      "environmentVariables": "",
+      "environmentHash": ""
+    },
+    "codex": {
+      "enabled": false,
+      "safeMode": "workspace-write",
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "customModels": "",
+      "modelAliases": {},
+      "visibleModels": null,
+      "reasoningSummary": "detailed",
+      "environmentVariables": "",
+      "environmentHash": "",
+      "installationMethodsByHost": {},
+      "wslDistroOverridesByHost": {}
+    },
+    "opencode": {
+      "cliPath": "D:\\AI_Project\\npm-global\\opencode.cmd",
+      "cliPathsByHost": {},
+      "enabled": true,
+      "environmentHash": "",
+      "environmentVariables": "OPENCODE_DISABLE_CLAUDE_CODE_PROMPT=true",
+      "modelAliases": {},
+      "preferredThinkingByModel": {
+        "opencode/deepseek-v4-flash-free": "high"
+      },
+      "selectedMode": "claudian-yolo",
+      "thinkingOptionsByModel": {},
+      "visibleModels": [
+        "ollama/qwen3.5:latest"
+      ]
+    },
+    "pi": {
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "discoveredModels": [],
+      "enabled": false,
+      "environmentHash": "",
+      "environmentVariables": "",
+      "modelAliases": {},
+      "preferredThinkingByModel": {},
+      "toolMode": "all",
+      "visibleModels": []
+    }
+  },
+  "settingsProvider": "opencode",
+  "savedProviderModel": {
+    "claude": "haiku",
+    "opencode": "opencode:ollama/qwen3.5:latest"
+  },
+  "savedProviderEffort": {
+    "claude": "low",
+    "opencode": "low"
+  },
+  "savedProviderServiceTier": {},
+  "savedProviderThinkingBudget": {
+    "opencode": "high"
+  },
+  "savedProviderPermissionMode": {
+    "claude": "yolo",
+    "opencode": "yolo"
+  },
+  "lastCustomModel": "",
+  "maxTabs": 3,
+  "enableAutoScroll": true,
+  "deferMathRenderingDuringStreaming": true,
+  "expandFileEditsByDefault": false,
+  "chatViewPlacement": "right-sidebar",
+  "hiddenProviderCommands": {}
+}

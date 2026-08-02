@@ -1,0 +1,57 @@
+[
+  {
+    "name": "72 часа",
+    "type": "книга",
+    "book": "Отношения\\72-casa.txt"
+  },
+  {
+    "name": "Анри Ларк",
+    "type": "автор",
+    "book": "Отношения\\72-casa.txt"
+  },
+  {
+    "name": "Ла Кантина",
+    "type": "место",
+    "book": "Отношения\\72-casa.txt"
+  },
+  {
+    "name": "Харп",
+    "type": "пиво",
+    "book": "Отношения\\72-casa.txt"
+  },
+  {
+    "name": "Леффе",
+    "type": "пиво",
+    "book": "Отношения\\72-casa.txt"
+  },
+  {
+    "name": "мужчина лет сорока пяти",
+    "type": "персонаж",
+    "book": "Отношения\\72-casa.txt"
+  },
+  {
+    "name": "С тобой я дома",
+    "type": "книга",
+    "book": "Отношения\\s-toboi-ia-doma-kniga-o-tom-kak-liubit-drug-druga-ostavaias-vernymi-sebe.txt"
+  },
+  {
+    "name": "Ольга Викторовна Примаченко",
+    "type": "автор",
+    "book": "Отношения\\s-toboi-ia-doma-kniga-o-tom-kak-liubit-drug-druga-ostavaias-vernymi-sebe.txt"
+  },
+  {
+    "name": "К себе нежно",
+    "type": "книга",
+    "book": "Отношения\\s-toboi-ia-doma-kniga-o-tom-kak-liubit-drug-druga-ostavaias-vernymi-sebe.txt"
+  },
+  {
+    "name": "А кто не горит, когда говорит о любви… невлюбленному жить гораздо проще и интереснее",
+    "type": "книга",
+    "book": "Отношения\\s-toboi-ia-doma-kniga-o-tom-kak-liubit-drug-druga-ostavaias-vernymi-sebe.txt"
+  },
+  {
+    "name": "Ксения Желудова",
+    "type": "автор",
+    "book": "Отношения\\s-toboi-ia-doma-kniga-o-tom-kak-liubit-drug-druga-ostavaias-vernymi-sebe.txt"
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1783875336147-c41tnhqp0",
+  "providerId": "claude",
+  "title": "как дела",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1783875336147,
+  "updatedAt": 1783876252370,
+  "lastResponseAt": 1783876218014,
+  "sessionId": "dfd3763f-3968-4426-9c2c-162aefbffc5f",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "dfd3763f-3968-4426-9c2c-162aefbffc5f"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}

@@ -1,0 +1,58 @@
+# === Секреты — никогда не коммитить ===
+*.key
+*.pem
+.env
+*-config.json
+settings.local.json
+
+# === Портативные приложения и рантаймы ===
+node_modules/
+npm-global/
+.venv/
+venv/
+__pycache__/
+ollama/
+
+# === Модели, эмбеддинги, векторные индексы ===
+*.gguf
+*.npy
+*.bertopic_model
+bertopic_model
+*.pkl
+*.sqlite3
+chroma_db/
+
+# === Медиа ===
+*.mp4
+*.mp3
+*.wav
+*.mkv
+*.avi
+*.mov
+*.m4a
+*.ts
+*.webm
+*.webm.part
+
+# === Тяжёлые документы (исходники, не разборы) ===
+books_raw/
+*.pdf
+*.doc
+*.docx
+
+# === Куки/базы браузера ===
+*_cookies.db
+Cookies_copy
+
+# === Бинарники ОС/приложений ===
+*.exe
+*.dll
+*.asar
+*.pak
+*.bin
+*.dat
+
+# === Игровые сейвы, случайный мусор сессий ===
+*.sav
+*_session*.json
+temp/

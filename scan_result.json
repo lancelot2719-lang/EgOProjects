@@ -1,0 +1,1393 @@
+{
+  ".": {
+    "folders": [
+      "books",
+      "converted",
+      "converted_new",
+      "outputs",
+      "summary",
+      "Вождение",
+      "Мышление, привычки, навыки",
+      "Общение, красноречие",
+      "Продажи",
+      "Психология",
+      "Развитие",
+      "Спорт, питание",
+      "Тайм-менеджмент",
+      "Финансы",
+      "свободные_книги"
+    ],
+    "files": [
+      {
+        "name": "aggregate.py",
+        "ext": ".py",
+        "size_kb": 2.7
+      },
+      {
+        "name": "analyze_books.py",
+        "ext": ".py",
+        "size_kb": 2.3
+      },
+      {
+        "name": "convert_new.py",
+        "ext": ".py",
+        "size_kb": 2.5
+      },
+      {
+        "name": "convert_pdfs.py",
+        "ext": ".py",
+        "size_kb": 1.0
+      },
+      {
+        "name": "Список нужных книг развитие.txt",
+        "ext": ".txt",
+        "size_kb": 1.4
+      },
+      {
+        "name": "Финансы план по книгам которые нужно прочитать.txt",
+        "ext": ".txt",
+        "size_kb": 8.3
+      }
+    ]
+  },
+  "books": {
+    "folders": [],
+    "files": [
+      {
+        "name": "0986-Разумный инвестор.pdf",
+        "ext": ".pdf",
+        "size_kb": 5995.0
+      },
+      {
+        "name": "robert-kiyosaki-bogatyy-papa-bednyy-papa.pdf",
+        "ext": ".pdf",
+        "size_kb": 895.1
+      },
+      {
+        "name": "Баффетт.-Эссе-об-инвестициях-страницы-1-30.pdf",
+        "ext": ".pdf",
+        "size_kb": 379.2
+      },
+      {
+        "name": "Проектный анализ.pdf",
+        "ext": ".pdf",
+        "size_kb": 2454.1
+      },
+      {
+        "name": "Против Богов. Укрощение риска.doc",
+        "ext": ".doc",
+        "size_kb": 2827.0
+      },
+      {
+        "name": "Против Богов. Укрощение риска.pdf",
+        "ext": ".pdf",
+        "size_kb": 3156.9
+      }
+    ]
+  },
+  "converted": {
+    "folders": [],
+    "files": [
+      {
+        "name": "0986-Разумный инвестор.txt",
+        "ext": ".txt",
+        "size_kb": 2222.2
+      },
+      {
+        "name": "robert-kiyosaki-bogatyy-papa-bednyy-papa.txt",
+        "ext": ".txt",
+        "size_kb": 62.1
+      },
+      {
+        "name": "Баффетт.-Эссе-об-инвестициях-страницы-1-30.txt",
+        "ext": ".txt",
+        "size_kb": 231.5
+      },
+      {
+        "name": "Проектный анализ.txt",
+        "ext": ".txt",
+        "size_kb": 377.9
+      }
+    ]
+  },
+  "converted_new": {
+    "folders": [],
+    "files": [
+      {
+        "name": "1.txt",
+        "ext": ".txt",
+        "size_kb": 2368.3
+      },
+      {
+        "name": "116100331.txt",
+        "ext": ".txt",
+        "size_kb": 95.1
+      },
+      {
+        "name": "118- Конфликтология в схемах и комментариях_Анцупов А.Я, Баклановский С.В_Уч пос_2009 -304с.txt",
+        "ext": ".txt",
+        "size_kb": 853.6
+      },
+      {
+        "name": "16.-Сапольски-Роберт.-Психология-стресса.txt",
+        "ext": ".txt",
+        "size_kb": 2378.4
+      },
+      {
+        "name": "1641907026_jessencializm_-put-k-prostote_makkeon-g_2015-254s.txt",
+        "ext": ".txt",
+        "size_kb": 660.3
+      },
+      {
+        "name": "1642052505_issledovanie-v-psihologii-metody-i-planirovanie_d-gudvin_2004-3-e-izd-558s-ser-mast-psih-1.txt",
+        "ext": ".txt",
+        "size_kb": 2520.7
+      },
+      {
+        "name": "56786282.txt",
+        "ext": ".txt",
+        "size_kb": 66.3
+      },
+      {
+        "name": "6219922.txt",
+        "ext": ".txt",
+        "size_kb": 25.6
+      },
+      {
+        "name": "70403272.txt",
+        "ext": ".txt",
+        "size_kb": 5.6
+      },
+      {
+        "name": "8653861.txt",
+        "ext": ".txt",
+        "size_kb": 121.0
+      },
+      {
+        "name": "89155726.txt",
+        "ext": ".txt",
+        "size_kb": 78.1
+      },
+      {
+        "name": "Andrey_Kurpatov_Chertogi_razuma_Ubey_v_sebe_idiota_33_2019.txt",
+        "ext": ".txt",
+        "size_kb": 909.6
+      },
+      {
+        "name": "Andrey_Kurpatov_Chetvyortaya_mirovaya_voyna.txt",
+        "ext": ".txt",
+        "size_kb": 920.6
+      },
+      {
+        "name": "Andrey_Kurpatov_Krasnaya_tabletka_Posmotri_pravde_v_glaza.txt",
+        "ext": ".txt",
+        "size_kb": 0.0
+      },
+      {
+        "name": "Andrey_Kurpatov_Troitsa_Bud_bolshe_samogo_sebya.txt",
+        "ext": ".txt",
+        "size_kb": 884.7
+      },
+      {
+        "name": "Atomnye_privychki.txt",
+        "ext": ".txt",
+        "size_kb": 728.9
+      },
+      {
+        "name": "Braian_Treisi_Vyidi_iz_zony_komforta._Izmeni_svou_chizn_ltr.txt",
+        "ext": ".txt",
+        "size_kb": 64.3
+      },
+      {
+        "name": "Daniel_Kahneman-Thinking_Fast_and_Slow-RU.txt",
+        "ext": ".txt",
+        "size_kb": 1917.4
+      },
+      {
+        "name": "Kurpatov_Andrey_-_Krasnaya_tabletka-2_-_2020.txt",
+        "ext": ".txt",
+        "size_kb": 807.0
+      },
+      {
+        "name": "Makgonigal-K.-Sila-voli.-Kak-razvit-i-ukrepit-2012.txt",
+        "ext": ".txt",
+        "size_kb": 908.7
+      },
+      {
+        "name": "Mozg-ne-otlichaet-sobytij-vneshnego-mira-ot-teh.txt",
+        "ext": ".txt",
+        "size_kb": 1015.5
+      },
+      {
+        "name": "Stiven_Kovi_-_7_navykov_vysokoeffektivnykh_lyudey_Moschnye_instrumenty_razvitia_lichnosti.txt",
+        "ext": ".txt",
+        "size_kb": 118.0
+      },
+      {
+        "name": "Tatyana_Muchickaya_Zoopark_v_tvoei_golove._25_psihologicheskih_sindromov_kotorye_meshaut_nam_chit_ltr.txt",
+        "ext": ".txt",
+        "size_kb": 70.1
+      },
+      {
+        "name": "d0bad0b0d0ba-d187d0b5d0bbd0bed0b2d0b5d0ba-d0bcd18bd181d0bbd0b8d182-d0b4d0b6d0b5d0b9d0bcd181-d0b0d0bbd0bbd0b5d0bd.txt",
+        "ext": ".txt",
+        "size_kb": 70.0
+      },
+      {
+        "name": "ff06f7b7-58e6-4f4c-bb7f-ce70c3215497.txt",
+        "ext": ".txt",
+        "size_kb": 356.3
+      },
+      {
+        "name": "mihay-chiksentmihayi-potok-psihologiya-optimalnogo-perezhivaniya.txt",
+        "ext": ".txt",
+        "size_kb": 357.4
+      },
+      {
+        "name": "Тонкое_искусство_пофигизма.txt",
+        "ext": ".txt",
+        "size_kb": 502.6
+      },
+      {
+        "name": "Чибисов_Вся_фигня_от_мозга.txt",
+        "ext": ".txt",
+        "size_kb": 713.2
+      }
+    ]
+  },
+  "outputs": {
+    "folders": [],
+    "files": [
+      {
+        "name": "0986-Разумный инвестор_analysis.md",
+        "ext": ".md",
+        "size_kb": 11.3
+      },
+      {
+        "name": "robert-kiyosaki-bogatyy-papa-bednyy-papa_analysis.md",
+        "ext": ".md",
+        "size_kb": 6.6
+      },
+      {
+        "name": "Баффетт.-Эссе-об-инвестициях-страницы-1-30_analysis.md",
+        "ext": ".md",
+        "size_kb": 6.2
+      },
+      {
+        "name": "Проектный анализ_analysis.md",
+        "ext": ".md",
+        "size_kb": 7.0
+      }
+    ]
+  },
+  "summary": {
+    "folders": [],
+    "files": [
+      {
+        "name": "final_report.md",
+        "ext": ".md",
+        "size_kb": 16.7
+      },
+      {
+        "name": "final_report.txt",
+        "ext": ".txt",
+        "size_kb": 0.1
+      },
+      {
+        "name": "library.html",
+        "ext": ".html",
+        "size_kb": 25.5
+      },
+      {
+        "name": "Развитие_summary.md",
+        "ext": ".md",
+        "size_kb": 6.0
+      }
+    ]
+  },
+  "Вождение": {
+    "folders": [],
+    "files": [
+      {
+        "name": "Малахов Денис - За рулем без страха и сомнений.fb2",
+        "ext": ".fb2",
+        "size_kb": 193.9
+      }
+    ]
+  },
+  "Мышление, привычки, навыки": {
+    "folders": [],
+    "files": [
+      {
+        "name": "Бэйли Крис - Гиперфокус.fb2",
+        "ext": ".fb2",
+        "size_kb": 359.3
+      },
+      {
+        "name": "Кинг Патрик - Как контролировать эмоции Обретите равновесие устойчивость спокойствие свободу от стресса тревожности и негатива.fb2",
+        "ext": ".fb2",
+        "size_kb": 271.9
+      },
+      {
+        "name": "Клир Джеймс - Атомные привычки Как приобрести хорошие привычки и избавиться от плохих.fb2",
+        "ext": ".fb2",
+        "size_kb": 1773.9
+      },
+      {
+        "name": "Харди Даррен - Накопительный эффект От поступка  к привычке от привычки  к выдающимся результатам.fb2",
+        "ext": ".fb2",
+        "size_kb": 334.1
+      },
+      {
+        "name": "Хилл Наполеон - Принципы изобилия Как правильное мышление помогает достигать целей и исполнять желания (1).fb2",
+        "ext": ".fb2",
+        "size_kb": 759.4
+      }
+    ]
+  },
+  "Общение, красноречие": {
+    "folders": [],
+    "files": [
+      {
+        "name": "Гоулстон Марк - Умение слушать осознанно.fb2",
+        "ext": ".fb2",
+        "size_kb": 229.9
+      },
+      {
+        "name": "Демиденко Артем - Переговоры на грани Как выигрывать сложные диалоги.fb2",
+        "ext": ".fb2",
+        "size_kb": 557.9
+      },
+      {
+        "name": "Кинг Патрик - Как быть веселым остроумным и креативным.fb2",
+        "ext": ".fb2",
+        "size_kb": 359.5
+      },
+      {
+        "name": "Кинг Патрик - Справочник мастера харизмы 174 поведенческих правила чтобы очаровывать привлекать и устанавливать раппорт.fb2",
+        "ext": ".fb2",
+        "size_kb": 296.4
+      },
+      {
+        "name": "Хьюстон Тереза - Обратная связь Как сказать все что думаешь и получить все что хочешь.fb2",
+        "ext": ".fb2",
+        "size_kb": 139.6
+      },
+      {
+        "name": "Юри Уильям - Мы можем договориться Стратегии разрешения сложных конфликтов.fb2",
+        "ext": ".fb2",
+        "size_kb": 700.2
+      }
+    ]
+  },
+  "Продажи": {
+    "folders": [],
+    "files": [
+      {
+        "name": "Вебстер Тэмсен - Упакуй и продай Как метод красной нити помогает показать уникальность продукта и влюбить в него клиентов.fb2",
+        "ext": ".fb2",
+        "size_kb": 502.5
+      },
+      {
+        "name": "Воротынцева Тамара - Переписка с клиентом по-человечески Первый принцип Проявляй уважение и внимание.fb2",
+        "ext": ".fb2",
+        "size_kb": 414.2
+      },
+      {
+        "name": "Иллиг Рэнди - Честные продажи  клиенты навсегда.fb2",
+        "ext": ".fb2",
+        "size_kb": 332.8
+      },
+      {
+        "name": "Калимуллин Камиль - Трафик и воронка 20 шагов к продажам в интернете Книга-практикум.fb2",
+        "ext": ".fb2",
+        "size_kb": 1258.2
+      },
+      {
+        "name": "Кеннеди Дэн - Жесткие продажи.fb2",
+        "ext": ".fb2",
+        "size_kb": 317.5
+      },
+      {
+        "name": "Косоруков Илья - Менеджер по продажам номер 1.fb2",
+        "ext": ".fb2",
+        "size_kb": 320.7
+      },
+      {
+        "name": "Сорокина Анна - Купить того кто продает Как добиться от менеджеров по продажам стабильного результата.fb2",
+        "ext": ".fb2",
+        "size_kb": 308.8
+      },
+      {
+        "name": "Этерингтон Боб - Эффективные продажи кратко ясно просто.fb2",
+        "ext": ".fb2",
+        "size_kb": 274.6
+      },
+      {
+        "name": "Якуба Владимир - Продажник идет в сеть Как продавать через мессенджеры и соцсети.fb2",
+        "ext": ".fb2",
+        "size_kb": 946.4
+      },
+      {
+        "name": "Яннарино Энтони - Единственное руководство по продажам которое вам теперь понадобится.fb2",
+        "ext": ".fb2",
+        "size_kb": 1016.2
+      }
+    ]
+  },
+  "Психология": {
+    "folders": [],
+    "files": [
+      {
+        "name": "Кинг Патрик - Как читать людей быстро Думай как психолог анализируй поведение и расшифровывай эмоции.fb2",
+        "ext": ".fb2",
+        "size_kb": 1455.2
+      }
+    ]
+  },
+  "Развитие": {
+    "folders": [],
+    "files": [
+      {
+        "name": "1.pdf",
+        "ext": ".pdf",
+        "size_kb": 2664.0
+      },
+      {
+        "name": "116100331.fb2",
+        "ext": ".fb2",
+        "size_kb": 663.8
+      },
+      {
+        "name": "116100331.pdf",
+        "ext": ".pdf",
+        "size_kb": 240.4
+      },
+      {
+        "name": "118- Конфликтология в схемах и комментариях_Анцупов А.Я, Баклановский С.В_Уч пос_2009 -304с.pdf",
+        "ext": ".pdf",
+        "size_kb": 11132.2
+      },
+      {
+        "name": "16.-Сапольски-Роберт.-Психология-стресса.pdf",
+        "ext": ".pdf",
+        "size_kb": 18213.9
+      },
+      {
+        "name": "1641907026_jessencializm_-put-k-prostote_makkeon-g_2015-254s.pdf",
+        "ext": ".pdf",
+        "size_kb": 6116.7
+      },
+      {
+        "name": "1642052505_issledovanie-v-psihologii-metody-i-planirovanie_d-gudvin_2004-3-e-izd-558s-ser-mast-psih-1.pdf",
+        "ext": ".pdf",
+        "size_kb": 3842.3
+      },
+      {
+        "name": "56786282.fb2",
+        "ext": ".fb2",
+        "size_kb": 1377.0
+      },
+      {
+        "name": "56786282.pdf",
+        "ext": ".pdf",
+        "size_kb": 226.9
+      },
+      {
+        "name": "6219922.fb2",
+        "ext": ".fb2",
+        "size_kb": 786.7
+      },
+      {
+        "name": "6219922.pdf",
+        "ext": ".pdf",
+        "size_kb": 163.4
+      },
+      {
+        "name": "70403272.fb2",
+        "ext": ".fb2",
+        "size_kb": 679.1
+      },
+      {
+        "name": "70403272.pdf",
+        "ext": ".pdf",
+        "size_kb": 140.9
+      },
+      {
+        "name": "71683429.fb2",
+        "ext": ".fb2",
+        "size_kb": 663.8
+      },
+      {
+        "name": "71877907.fb2",
+        "ext": ".fb2",
+        "size_kb": 664.6
+      },
+      {
+        "name": "856914.fb2",
+        "ext": ".fb2",
+        "size_kb": 1354.2
+      },
+      {
+        "name": "860921.fb2",
+        "ext": ".fb2",
+        "size_kb": 1473.2
+      },
+      {
+        "name": "8653861.fb2",
+        "ext": ".fb2",
+        "size_kb": 1343.4
+      },
+      {
+        "name": "8653861.pdf",
+        "ext": ".pdf",
+        "size_kb": 279.3
+      },
+      {
+        "name": "89155726.fb2",
+        "ext": ".fb2",
+        "size_kb": 566.7
+      },
+      {
+        "name": "89155726.pdf",
+        "ext": ".pdf",
+        "size_kb": 244.8
+      },
+      {
+        "name": "Andrey_Kurpatov_Chertogi_razuma_Ubey_v_sebe_idiota_33_2019.pdf",
+        "ext": ".pdf",
+        "size_kb": 3350.6
+      },
+      {
+        "name": "Andrey_Kurpatov_Chetvyortaya_mirovaya_voyna.pdf",
+        "ext": ".pdf",
+        "size_kb": 2108.8
+      },
+      {
+        "name": "Andrey_Kurpatov_Krasnaya_tabletka_Posmotri_pravde_v_glaza.pdf",
+        "ext": ".pdf",
+        "size_kb": 16560.2
+      },
+      {
+        "name": "Andrey_Kurpatov_Troitsa_Bud_bolshe_samogo_sebya.pdf",
+        "ext": ".pdf",
+        "size_kb": 1562.2
+      },
+      {
+        "name": "Atomnye_privychki.pdf",
+        "ext": ".pdf",
+        "size_kb": 3581.4
+      },
+      {
+        "name": "Braian_Treisi_Vyidi_iz_zony_komforta._Izmeni_svou_chizn_ltr.epub",
+        "ext": ".epub",
+        "size_kb": 991.8
+      },
+      {
+        "name": "Braian_Treisi_Vyidi_iz_zony_komforta._Izmeni_svou_chizn_ltr.pdf",
+        "ext": ".pdf",
+        "size_kb": 187.0
+      },
+      {
+        "name": "Daniel_Kahneman-Thinking_Fast_and_Slow-RU.pdf",
+        "ext": ".pdf",
+        "size_kb": 3032.7
+      },
+      {
+        "name": "Dukhovny_marketing.doc",
+        "ext": ".doc",
+        "size_kb": 365.5
+      },
+      {
+        "name": "Dukhovny_marketing.pdf",
+        "ext": ".pdf",
+        "size_kb": 697.7
+      },
+      {
+        "name": "Kumar_Zoopark-v-tvoey-golove-25-psihologicheskih-sindromov-kotorye-meshayut-nam-zhit_RuLit_Me.pdf",
+        "ext": ".pdf",
+        "size_kb": 293.0
+      },
+      {
+        "name": "Kumar_Zoopark-v-tvoey-golove-25-psihologicheskih-sindromov-kotorye-meshayut-nam-zhit_RuLit_Me.txt",
+        "ext": ".txt",
+        "size_kb": 134.6
+      },
+      {
+        "name": "Kurpatov_Andrey_-_Krasnaya_tabletka-2_-_2020.pdf",
+        "ext": ".pdf",
+        "size_kb": 3120.6
+      },
+      {
+        "name": "Makgonigal-K.-Sila-voli.-Kak-razvit-i-ukrepit-2012.pdf",
+        "ext": ".pdf",
+        "size_kb": 1723.2
+      },
+      {
+        "name": "Mozg-ne-otlichaet-sobytij-vneshnego-mira-ot-teh.pdf",
+        "ext": ".pdf",
+        "size_kb": 4770.4
+      },
+      {
+        "name": "Stiven_Kovi_-_7_navykov_vysokoeffektivnykh_lyudey_Moschnye_instrumenty_razvitia_lichnosti.fb2",
+        "ext": ".fb2",
+        "size_kb": 472.5
+      },
+      {
+        "name": "Stiven_Kovi_-_7_navykov_vysokoeffektivnykh_lyudey_Moschnye_instrumenty_razvitia_lichnosti.pdf",
+        "ext": ".pdf",
+        "size_kb": 258.7
+      },
+      {
+        "name": "Tatyana_Muchickaya_Zoopark_v_tvoei_golove._25_psihologicheskih_sindromov_kotorye_meshaut_nam_chit_ltr.epub",
+        "ext": ".epub",
+        "size_kb": 1875.0
+      },
+      {
+        "name": "Tatyana_Muchickaya_Zoopark_v_tvoei_golove._25_psihologicheskih_sindromov_kotorye_meshaut_nam_chit_ltr.pdf",
+        "ext": ".pdf",
+        "size_kb": 175.6
+      },
+      {
+        "name": "Zastav_sebya_dumat_33_Andrey_Kurpatov__kopia.pdf",
+        "ext": ".pdf",
+        "size_kb": 26710.1
+      },
+      {
+        "name": "_.pdf",
+        "ext": ".pdf",
+        "size_kb": 1835.7
+      },
+      {
+        "name": "avidreaders.ru__kak-reshayut-problemy-silnye-lyudi.fb2",
+        "ext": ".fb2",
+        "size_kb": 671.4
+      },
+      {
+        "name": "avidreaders.ru__kak-reshayut-problemy-silnye-lyudi.fb2.zip",
+        "ext": ".zip",
+        "size_kb": 253.0
+      },
+      {
+        "name": "d0bad0b0d0ba-d187d0b5d0bbd0bed0b2d0b5d0ba-d0bcd18bd181d0bbd0b8d182-d0b4d0b6d0b5d0b9d0bcd181-d0b0d0bbd0bbd0b5d0bd.pdf",
+        "ext": ".pdf",
+        "size_kb": 123.1
+      },
+      {
+        "name": "dalay-lama-otkrytoye-serdtse-pdf.zip",
+        "ext": ".zip",
+        "size_kb": 625.7
+      },
+      {
+        "name": "dokumen.pub_1cc6d055c94f3be697ce260371995686 (1).fb2",
+        "ext": ".fb2",
+        "size_kb": 1582.6
+      },
+      {
+        "name": "dokumen.pub_1cc6d055c94f3be697ce260371995686.fb2",
+        "ext": ".fb2",
+        "size_kb": 1582.6
+      },
+      {
+        "name": "elena-petrovna-blavatskaya-samopoznaniye-volya-i-zhelaniye-pdf.zip",
+        "ext": ".zip",
+        "size_kb": 312.9
+      },
+      {
+        "name": "ernst-kholms-sila-razuma-pdf.zip",
+        "ext": ".zip",
+        "size_kb": 572.8
+      },
+      {
+        "name": "ff06f7b7-58e6-4f4c-bb7f-ce70c3215497.pdf",
+        "ext": ".pdf",
+        "size_kb": 2230.0
+      },
+      {
+        "name": "germes-trismegist-aforizmy-pdf.zip",
+        "ext": ".zip",
+        "size_kb": 597.2
+      },
+      {
+        "name": "mihay-chiksentmihayi-potok-psihologiya-optimalnogo-perezhivaniya.pdf",
+        "ext": ".pdf",
+        "size_kb": 1042.9
+      },
+      {
+        "name": "problem_people.doc",
+        "ext": ".doc",
+        "size_kb": 573.5
+      },
+      {
+        "name": "psixologiia-stressa.txt",
+        "ext": ".txt",
+        "size_kb": 2196.8
+      },
+      {
+        "name": "rayan-kholidey-kak-reshayut-problemy-silnyye-lyudi-pdf.zip",
+        "ext": ".zip",
+        "size_kb": 850.0
+      },
+      {
+        "name": "shri-aurobindo-mysli-i-aforizmy-pdf.zip",
+        "ext": ".zip",
+        "size_kb": 684.1
+      },
+      {
+        "name": "Бекенва Ольга - Чакры и характер или Как жить в ресурсе.fb2",
+        "ext": ".fb2",
+        "size_kb": 1598.7
+      },
+      {
+        "name": "Брегман Питер - Эмоциональная смелость.fb2",
+        "ext": ".fb2",
+        "size_kb": 411.5
+      },
+      {
+        "name": "Василий Чибисов – Вся фигня – от мозга_!.fb2",
+        "ext": ".fb2",
+        "size_kb": 6717.3
+      },
+      {
+        "name": "Василий Чибисов – Вся фигня – от мозга_!.pdf",
+        "ext": ".pdf",
+        "size_kb": 877.8
+      },
+      {
+        "name": "Вонг Майкл - Искусство маленьких шагов Заботливое руководство по обретению радости для тех кто устал.fb2",
+        "ext": ".fb2",
+        "size_kb": 755.9
+      },
+      {
+        "name": "Гамильтон Дэвид - Безграничная сила разума Как ваше сознание может исцелить ваше тело.fb2",
+        "ext": ".fb2",
+        "size_kb": 1186.2
+      },
+      {
+        "name": "Гоулман Дэниел - Социальный интеллект Новая наука о человеческих отношениях.fb2",
+        "ext": ".fb2",
+        "size_kb": 1247.7
+      },
+      {
+        "name": "Гоулман Дэниел - Фокус внимания.fb2",
+        "ext": ".fb2",
+        "size_kb": 216.8
+      },
+      {
+        "name": "Гоулман Дэниел - Эмоциональная устойчивость Снизить тревожность и избавиться от навязчивых мыслей с помощью медитации.fb2",
+        "ext": ".fb2",
+        "size_kb": 354.1
+      },
+      {
+        "name": "Гоулман Дэниел - Эмоциональный интеллект вбизнесе.fb2",
+        "ext": ".fb2",
+        "size_kb": 501.3
+      },
+      {
+        "name": "Демиденко Артем - Никакой инерционной фигни Руководство по жизни на своих условиях.fb2",
+        "ext": ".fb2",
+        "size_kb": 467.2
+      },
+      {
+        "name": "Джозеф Джебелли – Займись ничем_ система долгосрочной продуктивности.fb2",
+        "ext": ".fb2",
+        "size_kb": 1260.6
+      },
+      {
+        "name": "КПТ расстройств личности, Бек А. (2002).pdf",
+        "ext": ".pdf",
+        "size_kb": 1617.2
+      },
+      {
+        "name": "Кинг Патрик - Учитесь думать с помощью мысленных экспериментов Как расширить горизонты мышления понять смысл метапознания активно проявлять любознательность и думать как истинный философ.fb2",
+        "ext": ".fb2",
+        "size_kb": 167.9
+      },
+      {
+        "name": "Кинслоу Фрэнк - Секрет мгновенного исцеления Квантовая синхронизация здоровья.fb2",
+        "ext": ".fb2",
+        "size_kb": 420.7
+      },
+      {
+        "name": "Короткий С - Жизнь как квест или Путе-Шествие канатоходца.fb2",
+        "ext": ".fb2",
+        "size_kb": 376.3
+      },
+      {
+        "name": "Лещенко Елена - Саммари книги Тони Шварца То как мы работаем не работает Проверенные методы управления жизненной энергией.fb2",
+        "ext": ".fb2",
+        "size_kb": 717.5
+      },
+      {
+        "name": "Льюис Харви - Принципы успеха Эффективные приемы розенкрейцеров для бизнеса и жизни.fb2",
+        "ext": ".fb2",
+        "size_kb": 1194.5
+      },
+      {
+        "name": "Манган Джеймс - Умение продвигать себя.fb2",
+        "ext": ".fb2",
+        "size_kb": 1210.1
+      },
+      {
+        "name": "Мужицкая Татьяна - Зоопарк в твоей голове 20 Еще 25 психологических синдромов которые мешают нам жить.fb2",
+        "ext": ".fb2",
+        "size_kb": 1894.1
+      },
+      {
+        "name": "Мужицкая Татьяна - Зоопарк в твоей голове 20 Еще 25 психологических синдромов которые мешают нам жить.pdf",
+        "ext": ".pdf",
+        "size_kb": 192.1
+      },
+      {
+        "name": "Найду Ума - Беспокойный мозг Полезный гайд по снижению тревожности и стресса Как бороться с депрессией тревожным расстройством посттравматическим синдромом ОКР и СДВГ.fb2",
+        "ext": ".fb2",
+        "size_kb": 1477.0
+      },
+      {
+        "name": "Ньето-Родригес Антонио - Цель как проект Как успешно решать любые задачи с помощью проектного подхода.fb2",
+        "ext": ".fb2",
+        "size_kb": 760.0
+      },
+      {
+        "name": "Райан Холидей - Как решают проблемы сильные люди.pdf",
+        "ext": ".pdf",
+        "size_kb": 918.2
+      },
+      {
+        "name": "Тонкое_искусство_пофигизма_Парадоксальный_способ_жить_счастливо.pdf",
+        "ext": ".pdf",
+        "size_kb": 888.6
+      },
+      {
+        "name": "Херман Тодд - Эффект альтер эго Ваш скрытый ресурс на пути к большим целям.fb2",
+        "ext": ".fb2",
+        "size_kb": 497.5
+      },
+      {
+        "name": "Хилл Наполеон - Принципы изобилия Как правильное мышление помогает достигать целей и исполнять желания.fb2",
+        "ext": ".fb2",
+        "size_kb": 759.4
+      },
+      {
+        "name": "Ялом-И.-Экзистенциальная-психотерапия.pdf",
+        "ext": ".pdf",
+        "size_kb": 1744.5
+      },
+      {
+        "name": "анализ_Аллен_Как_человек_мыслит.md",
+        "ext": ".md",
+        "size_kb": 3.6
+      },
+      {
+        "name": "анализ_Грант_Подумайте_ещё_раз.md",
+        "ext": ".md",
+        "size_kb": 3.7
+      },
+      {
+        "name": "анализ_Грант_Скрытый_потенциал.md",
+        "ext": ".md",
+        "size_kb": 3.5
+      },
+      {
+        "name": "анализ_Гудвин_Исследование_в_психологии.md",
+        "ext": ".md",
+        "size_kb": 3.4
+      },
+      {
+        "name": "анализ_Диспенза_Сила_подсознания.md",
+        "ext": ".md",
+        "size_kb": 4.7
+      },
+      {
+        "name": "анализ_Канеман_Думай_медленно.md",
+        "ext": ".md",
+        "size_kb": 4.1
+      },
+      {
+        "name": "анализ_Клир_Атомные_привычки.md",
+        "ext": ".md",
+        "size_kb": 4.1
+      },
+      {
+        "name": "анализ_Кови_7_навыков.md",
+        "ext": ".md",
+        "size_kb": 4.1
+      },
+      {
+        "name": "анализ_Конфликтология_Анцупов.md",
+        "ext": ".md",
+        "size_kb": 2.5
+      },
+      {
+        "name": "анализ_Курпатов_Красная_таблетка_2.md",
+        "ext": ".md",
+        "size_kb": 2.9
+      },
+      {
+        "name": "анализ_Курпатов_Троица.md",
+        "ext": ".md",
+        "size_kb": 2.8
+      },
+      {
+        "name": "анализ_Курпатов_Чертоги_разума.md",
+        "ext": ".md",
+        "size_kb": 3.9
+      },
+      {
+        "name": "анализ_Курпатов_Четвертая_мировая_война.md",
+        "ext": ".md",
+        "size_kb": 2.9
+      },
+      {
+        "name": "анализ_Макгонигал_Сила_воли.md",
+        "ext": ".md",
+        "size_kb": 4.0
+      },
+      {
+        "name": "анализ_Маккеон_Эссенциализм.md",
+        "ext": ".md",
+        "size_kb": 3.5
+      },
+      {
+        "name": "анализ_Мужицкая_Зоопарк_в_голове.md",
+        "ext": ".md",
+        "size_kb": 5.2
+      },
+      {
+        "name": "анализ_Нагоски_Выгорание.md",
+        "ext": ".md",
+        "size_kb": 3.4
+      },
+      {
+        "name": "анализ_Сапольски_Психология_стресса.md",
+        "ext": ".md",
+        "size_kb": 3.7
+      },
+      {
+        "name": "анализ_Тонкое_искусство_пофигизма.md",
+        "ext": ".md",
+        "size_kb": 3.7
+      },
+      {
+        "name": "анализ_Трейси_Выйди_из_зоны_комфорта.md",
+        "ext": ".md",
+        "size_kb": 3.3
+      },
+      {
+        "name": "анализ_Фрейд_Введение_в_психоанализ.md",
+        "ext": ".md",
+        "size_kb": 6.7
+      },
+      {
+        "name": "анализ_Чибисов_Вся_фигня_от_мозга.md",
+        "ext": ".md",
+        "size_kb": 3.9
+      },
+      {
+        "name": "анализ_Чиксентмихайи_Поток.md",
+        "ext": ".md",
+        "size_kb": 3.9
+      }
+    ]
+  },
+  "свободные_книги": {
+    "folders": [],
+    "files": [
+      {
+        "name": "01_wealth_of_nations_adam_smith.pdf",
+        "ext": ".pdf",
+        "size_kb": 4928.5
+      },
+      {
+        "name": "01_wealth_of_nations_adam_smith.txt",
+        "ext": ".txt",
+        "size_kb": 2391.7
+      },
+      {
+        "name": "01_wealth_of_nations_analysis.md",
+        "ext": ".md",
+        "size_kb": 18.1
+      },
+      {
+        "name": "02_reminiscences_stock_operator_lefevre.pdf",
+        "ext": ".pdf",
+        "size_kb": 2419.4
+      },
+      {
+        "name": "02_reminiscences_stock_operator_lefevre.txt",
+        "ext": ".txt",
+        "size_kb": 616.8
+      },
+      {
+        "name": "02_stock_operator_analysis.md",
+        "ext": ".md",
+        "size_kb": 19.1
+      },
+      {
+        "name": "03_economic_consequences_of_peace_keynes.pdf",
+        "ext": ".pdf",
+        "size_kb": 1690.9
+      },
+      {
+        "name": "03_economic_consequences_of_peace_keynes.txt",
+        "ext": ".txt",
+        "size_kb": 449.9
+      },
+      {
+        "name": "03_economic_consequences_peace_analysis.md",
+        "ext": ".md",
+        "size_kb": 11.3
+      },
+      {
+        "name": "04_lombard_street_analysis.md",
+        "ext": ".md",
+        "size_kb": 11.5
+      },
+      {
+        "name": "04_lombard_street_bagehot.pdf",
+        "ext": ".pdf",
+        "size_kb": 1760.8
+      },
+      {
+        "name": "04_lombard_street_bagehot.txt",
+        "ext": ".txt",
+        "size_kb": 474.5
+      },
+      {
+        "name": "05_other_peoples_money_analysis.md",
+        "ext": ".md",
+        "size_kb": 12.1
+      },
+      {
+        "name": "05_other_peoples_money_brandeis.pdf",
+        "ext": ".pdf",
+        "size_kb": 1271.9
+      },
+      {
+        "name": "05_other_peoples_money_brandeis.txt",
+        "ext": ".txt",
+        "size_kb": 296.7
+      },
+      {
+        "name": "06_fifty_years_wall_street_analysis.md",
+        "ext": ".md",
+        "size_kb": 12.7
+      },
+      {
+        "name": "06_fifty_years_wall_street_clews.pdf",
+        "ext": ".pdf",
+        "size_kb": 5012.8
+      },
+      {
+        "name": "06_fifty_years_wall_street_clews.txt",
+        "ext": ".txt",
+        "size_kb": 2171.4
+      },
+      {
+        "name": "07_random_reminiscences_analysis.md",
+        "ext": ".md",
+        "size_kb": 12.8
+      },
+      {
+        "name": "07_random_reminiscences_rockefeller.pdf",
+        "ext": ".pdf",
+        "size_kb": 653.8
+      },
+      {
+        "name": "07_random_reminiscences_rockefeller.txt",
+        "ext": ".txt",
+        "size_kb": 234.8
+      },
+      {
+        "name": "08_art_of_money_getting_analysis.md",
+        "ext": ".md",
+        "size_kb": 12.7
+      },
+      {
+        "name": "08_art_of_money_getting_barnum.pdf",
+        "ext": ".pdf",
+        "size_kb": 341.3
+      },
+      {
+        "name": "08_art_of_money_getting_barnum.txt",
+        "ext": ".txt",
+        "size_kb": 94.0
+      },
+      {
+        "name": "09_how_to_invest_money_analysis.md",
+        "ext": ".md",
+        "size_kb": 12.9
+      },
+      {
+        "name": "09_how_to_invest_money_henry.pdf",
+        "ext": ".pdf",
+        "size_kb": 458.4
+      },
+      {
+        "name": "09_how_to_invest_money_henry.txt",
+        "ext": ".txt",
+        "size_kb": 151.4
+      },
+      {
+        "name": "10_tract_on_monetary_reform_analysis.md",
+        "ext": ".md",
+        "size_kb": 15.2
+      },
+      {
+        "name": "10_tract_on_monetary_reform_keynes.pdf",
+        "ext": ".pdf",
+        "size_kb": 948.7
+      },
+      {
+        "name": "10_tract_on_monetary_reform_keynes.txt",
+        "ext": ".txt",
+        "size_kb": 363.0
+      },
+      {
+        "name": "mso44E8.tmp",
+        "ext": ".tmp",
+        "size_kb": 4009.5
+      },
+      {
+        "name": "общий итог.md",
+        "ext": ".md",
+        "size_kb": 15.2
+      },
+      {
+        "name": "общий итог.xlsx",
+        "ext": ".xlsx",
+        "size_kb": 13.1
+      }
+    ]
+  },
+  "Спорт, питание": {
+    "folders": [],
+    "files": [
+      {
+        "name": "Константинов Юрий - Быстрое похудение в домашних условиях Самые эффективные средства.fb2",
+        "ext": ".fb2",
+        "size_kb": 654.5
+      }
+    ]
+  },
+  "Тайм-менеджмент": {
+    "folders": [],
+    "files": [
+      {
+        "name": "6880608.fb2",
+        "ext": ".fb2",
+        "size_kb": 705.6
+      },
+      {
+        "name": "arhangelskii_g-_taim-draiv_ipod.pdf",
+        "ext": ".pdf",
+        "size_kb": 1511.7
+      },
+      {
+        "name": "Архангельский Глеб - Время Большая книга тайм-менеджмента.fb2",
+        "ext": ".fb2",
+        "size_kb": 978.8
+      },
+      {
+        "name": "Архангельский Глеб - Организация времени От личной эффективности к развитию фирмы.fb2",
+        "ext": ".fb2",
+        "size_kb": 5244.7
+      },
+      {
+        "name": "Фрайд Джейсон - Не сходите с ума на работе.fb2",
+        "ext": ".fb2",
+        "size_kb": 594.9
+      },
+      {
+        "name": "Фридман Александр - Пожиратели времени Как избавить от лишней работы себя и сотрудников.fb2",
+        "ext": ".fb2",
+        "size_kb": 478.2
+      }
+    ]
+  },
+  "Финансы": {
+    "folders": [],
+    "files": [
+      {
+        "name": "0986-Разумный инвестор.md",
+        "ext": ".md",
+        "size_kb": 11.3
+      },
+      {
+        "name": "0986-Разумный инвестор.pdf",
+        "ext": ".pdf",
+        "size_kb": 5995.0
+      },
+      {
+        "name": "128830698.fb2",
+        "ext": ".fb2",
+        "size_kb": 782.8
+      },
+      {
+        "name": "54360265.fb2",
+        "ext": ".fb2",
+        "size_kb": 2158.6
+      },
+      {
+        "name": "54360265.pdf",
+        "ext": ".pdf",
+        "size_kb": 108.3
+      },
+      {
+        "name": "70017967.fb2",
+        "ext": ".fb2",
+        "size_kb": 518.9
+      },
+      {
+        "name": "70017967.pdf",
+        "ext": ".pdf",
+        "size_kb": 89.4
+      },
+      {
+        "name": "Pattanaik Devdutt - Богатый как бог 12 финансовых уроков из священных текстов Индии.fb2",
+        "ext": ".fb2",
+        "size_kb": 1536.4
+      },
+      {
+        "name": "kuda_uchodyat_dengi_kak_gramotno_upravlyat_semejjnym_byudzhetom.u.txt",
+        "ext": ".txt",
+        "size_kb": 640.6
+      },
+      {
+        "name": "robert-kiyosaki-bogatyy-papa-bednyy-papa.md",
+        "ext": ".md",
+        "size_kb": 13.0
+      },
+      {
+        "name": "robert-kiyosaki-bogatyy-papa-bednyy-papa.pdf",
+        "ext": ".pdf",
+        "size_kb": 895.1
+      },
+      {
+        "name": "Баффетт.-Эссе-об-инвестициях-страницы-1-30.md",
+        "ext": ".md",
+        "size_kb": 10.0
+      },
+      {
+        "name": "Баффетт.-Эссе-об-инвестициях-страницы-1-30.pdf",
+        "ext": ".pdf",
+        "size_kb": 379.2
+      },
+      {
+        "name": "Беляев Алексей - Магия финансов.pdf",
+        "ext": ".pdf",
+        "size_kb": 2983.3
+      },
+      {
+        "name": "Бенито Кристина - Финансовая осознанность Как зарабатывать экономить и приумножать деньги.fb2",
+        "ext": ".fb2",
+        "size_kb": 394.8
+      },
+      {
+        "name": "Волк Николай - Код денег Сила простых денежных действий Как определить свой денежный архитип повысить уровень финансовой обеспеченности и выявить ключевые действия для решения финансовых проблем.fb2",
+        "ext": ".fb2",
+        "size_kb": 360.0
+      },
+      {
+        "name": "Волков Павел - Первые шаги к финансовой независимости.fb2",
+        "ext": ".fb2",
+        "size_kb": 578.1
+      },
+      {
+        "name": "Демиденко Артем - Деньги под контроль Финансовая стратегия для бизнеса.fb2",
+        "ext": ".fb2",
+        "size_kb": 480.0
+      },
+      {
+        "name": "Десаи Михир - Разумный финансист Знает что стоит за цифрами управляет рисками получает прибыль.fb2",
+        "ext": ".fb2",
+        "size_kb": 1348.1
+      },
+      {
+        "name": "Короткий С - Терминаторный менеджмент.fb2",
+        "ext": ".fb2",
+        "size_kb": 481.4
+      },
+      {
+        "name": "Кун Яо - 200 способов сэкономить улучшая качество жизни.fb2",
+        "ext": ".fb2",
+        "size_kb": 640.6
+      },
+      {
+        "name": "Легеза Наталья - Где деньги.fb2",
+        "ext": ".fb2",
+        "size_kb": 216.2
+      },
+      {
+        "name": "Моттола М., Котни М. - Экономика  удаленки.pdf",
+        "ext": ".pdf",
+        "size_kb": 1761.8
+      },
+      {
+        "name": "Мягкова Екатерина - Шпаргалка по финансам и кредиту.fb2",
+        "ext": ".fb2",
+        "size_kb": 546.8
+      },
+      {
+        "name": "План по книгам которые нужно прочитать.txt",
+        "ext": ".txt",
+        "size_kb": 4.1
+      },
+      {
+        "name": "Проектный анализ.md",
+        "ext": ".md",
+        "size_kb": 8.9
+      },
+      {
+        "name": "Проектный анализ.pdf",
+        "ext": ".pdf",
+        "size_kb": 2454.1
+      },
+      {
+        "name": "Против Богов. Укрощение риска.doc",
+        "ext": ".doc",
+        "size_kb": 2827.0
+      },
+      {
+        "name": "Против Богов. Укрощение риска.md",
+        "ext": ".md",
+        "size_kb": 10.1
+      },
+      {
+        "name": "Против Богов. Укрощение риска.pdf",
+        "ext": ".pdf",
+        "size_kb": 3156.9
+      },
+      {
+        "name": "Решетняк Владимир - Основы продаж.fb2",
+        "ext": ".fb2",
+        "size_kb": 244.4
+      },
+      {
+        "name": "Хилл Наполеон - Золотой стандарт успеха и богатства 52 правила.fb2",
+        "ext": ".fb2",
+        "size_kb": 654.1
+      },
+      {
+        "name": "Хилл Наполеон - Механизмы работы мозга которые делают нас богатыми Понять освоить применить.fb2",
+        "ext": ".fb2",
+        "size_kb": 1308.7
+      },
+      {
+        "name": "Хилл Наполеон - Самое главное Думай и богатей.fb2",
+        "ext": ".fb2",
+        "size_kb": 320.6
+      },
+      {
+        "name": "общий итог.md",
+        "ext": ".md",
+        "size_kb": 14.4
+      },
+      {
+        "name": "общий итог.xlsx",
+        "ext": ".xlsx",
+        "size_kb": 19.9
+      }
+    ]
+  }
+}

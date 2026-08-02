@@ -1,0 +1,25 @@
+{
+  "id": "conv-1784148981661-cpaamhja5",
+  "providerId": "opencode",
+  "title": "Привет",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1784148981676,
+  "updatedAt": 1784149033770,
+  "lastResponseAt": 1784149033770,
+  "sessionId": "ses_0986f0209ffeh1RqV1G0hrh8Zr",
+  "selectedModel": "opencode:ollama/qwen3.5:latest",
+  "providerState": {
+    "databasePath": "C:\\Users\\x2\\AppData\\Roaming\\opencode\\opencode.db"
+  },
+  "currentNote": "polka/Размеры обьектов в квартире.md",
+  "usage": {
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextTokens": 2255,
+    "contextWindow": 0,
+    "contextWindowIsAuthoritative": false,
+    "inputTokens": 2050,
+    "model": "opencode:ollama/qwen3.5:latest",
+    "percentage": 0
+  }
+}

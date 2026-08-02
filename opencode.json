@@ -1,0 +1,53 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "instructions": ["AGENTS.md"],
+  "model": "ollama/qwen3.5:latest",
+  "mcp": {
+    "obsidian": {
+      "type": "local",
+      "command": ["D:\\AI_Project\\npm-global\\obsidian-mcp-server.cmd"],
+      "enabled": true,
+      "environment": {
+        "OBSIDIAN_API_KEY": "2fda89f1843c614667f350e37a39fdfb1caccf961d410bd5f725cc9b7e086efd"
+      }
+    }
+  },
+  "permission": {
+    "bash": "allow",
+    "edit": "allow",
+    "read": "allow",
+    "glob": "allow",
+    "grep": "allow",
+    "list": "allow",
+    "task": "allow",
+    "webfetch": "allow",
+    "websearch": "allow",
+    "external_directory": { "*": "allow" },
+    "question": "allow",
+    "todowrite": "allow",
+    "skill": "allow"
+  },
+  "provider": {
+    "ollama": {
+      "npm": "@ai-sdk/openai-compatible",
+      "name": "Ollama (local)",
+      "options": {
+        "baseURL": "http://localhost:11434/v1"
+      },
+      "models": {
+        "qwen3.5:latest": {
+          "name": "Qwen 3.5 (local)",
+          "options": {
+            "num_ctx": 2048
+          }
+        },
+        "mistral:latest": {
+          "name": "Mistral (local)"
+        },
+        "qwen3-coder:latest": {
+          "name": "Qwen 3 Coder (local)"
+        }
+      }
+    }
+  }
+}

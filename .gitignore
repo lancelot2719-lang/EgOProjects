@@ -1,0 +1,86 @@
+﻿# модели и рантаймы
+ollama/
+hf-cache/
+*.gguf
+*.exe
+*.dll
+# npm/node
+npm-global/
+node_modules/
+# python окружения
+.venv/
+venv/
+__pycache__/
+# видео/аудио (Мафия и другие медиа)
+*.mp4
+*.mp3
+*.wav
+*.ts
+*.webm
+*.webm.part
+# кэши и бинарные дампы
+*.pkl
+*.sqlite3
+projects/knowledge-base/chroma_db/
+# отдельные вложенные репозитории — не нужны как содержимое
+tech/llm-council/
+# секреты
+.claude/settings.local.json
+*.key
+*.pem
+.env
+tech/aitek-xray-config.json
+temp/
+# рабочий стол Windows — не часть второго мозга
+Рабочий стол/
+# игровые сейвы
+Сэйвы Kings Bounty Crossworlds/
+# сторонние склонированные репозитории
+tech/markitdown-main/
+tech/opencode-parser-main/
+# сами PDF/DOC книги
+projects/knigi/books/
+projects/knowledge-base/books_raw/
+
+
+
+*.mkv
+*.avi
+*.mov
+*.m4a
+*.flac
+*.ogg
+
+
+# портативные приложения — не часть контента
+Git/
+WezTerm/
+Obsidian/*.exe
+Obsidian/*.dll
+Obsidian/*.pak
+Obsidian/*.asar
+Obsidian/*.bin
+Obsidian/*.dat
+Obsidian/locales/
+Obsidian/resources/
+Obsidian/LICENSES.chromium.html
+Obsidian/LICENSE.electron.txt
+
+
+# книги в health/ — тоже исключаем PDF/DOC
+health/books/*.pdf
+health/books/*.doc
+
+# векторные эмбеддинги
+*.npy
+bertopic_model
+
+# куки/базы браузера
+*_cookies.db
+Cookies_copy
+
+# конкретный тяжёлый файл-мусор
+historical_analysis_session.json
+
+# картинки плагинов Obsidian
+Obsidian/**/*.png

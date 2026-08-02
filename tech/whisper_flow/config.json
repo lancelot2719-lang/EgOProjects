@@ -1,0 +1,11 @@
+{
+  "hotkey": "right alt",
+  "model": "small",
+  "language": "ru",
+  "vad_threshold": 0.5,
+  "min_silence_ms": 400,
+  "compute_type": "int8",
+  "device": "cpu",
+  "beam_size": 1,
+  "insert_space": true
+}

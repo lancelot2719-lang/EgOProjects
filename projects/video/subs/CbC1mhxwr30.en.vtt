@@ -1,0 +1,3744 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.120 --> 00:00:02.950 align:start position:0%
+ 
+I've <00:00:00.410><c>been </c><00:00:00.700><c>using </c><00:00:00.990><c>Linux </c><00:00:01.280><c>for </c><00:00:01.570><c>about </c><00:00:01.860><c>2,600 </c><00:00:02.150><c>days </c><00:00:02.440><c>now.</c>
+
+00:00:02.950 --> 00:00:02.960 align:start position:0%
+I've been using Linux for about 2,600 days now.
+ 
+
+00:00:02.960 --> 00:00:04.670 align:start position:0%
+I've been using Linux for about 2,600 days now.
+And <00:00:03.165><c>during </c><00:00:03.370><c>this </c><00:00:03.575><c>time </c><00:00:03.780><c>I </c><00:00:03.985><c>have </c><00:00:04.190><c>tried </c><00:00:04.395><c>a</c>
+
+00:00:04.670 --> 00:00:04.680 align:start position:0%
+And during this time I have tried a
+ 
+
+00:00:04.680 --> 00:00:06.510 align:start position:0%
+And during this time I have tried a
+ton <00:00:05.050><c>of </c><00:00:05.420><c>open </c><00:00:05.790><c>and </c><00:00:06.160><c>closed</c>
+
+00:00:06.510 --> 00:00:06.520 align:start position:0%
+ton of open and closed
+ 
+
+00:00:06.520 --> 00:00:08.589 align:start position:0%
+ton of open and closed
+source <00:00:06.771><c>applications.  </c><00:00:07.022><c>In </c><00:00:07.273><c>this </c><00:00:07.524><c>video, </c><00:00:07.775><c>I'll </c><00:00:08.026><c>show </c><00:00:08.277><c>you</c>
+
+00:00:08.589 --> 00:00:08.599 align:start position:0%
+source applications.  In this video, I'll show you
+ 
+
+00:00:08.599 --> 00:00:10.270 align:start position:0%
+source applications.  In this video, I'll show you
+the <00:00:08.949><c>top </c><00:00:09.299><c>apps </c><00:00:09.649><c>that </c><00:00:09.999><c>are</c>
+
+00:00:10.270 --> 00:00:10.280 align:start position:0%
+the top apps that are
+ 
+
+00:00:10.280 --> 00:00:12.110 align:start position:0%
+the top apps that are
+relevant <00:00:10.616><c>right </c><00:00:10.952><c>now </c><00:00:11.288><c>and </c><00:00:11.624><c>that </c><00:00:11.960><c>I</c>
+
+00:00:12.110 --> 00:00:12.120 align:start position:0%
+relevant right now and that I
+ 
+
+00:00:12.120 --> 00:00:14.190 align:start position:0%
+relevant right now and that I
+like <00:00:12.440><c>the </c><00:00:12.760><c>most.  </c><00:00:13.080><c>First </c><00:00:13.400><c>things </c><00:00:13.720><c>first, </c><00:00:14.040><c>what</c>
+
+00:00:14.190 --> 00:00:14.200 align:start position:0%
+like the most.  First things first, what
+ 
+
+00:00:14.200 --> 00:00:16.230 align:start position:0%
+like the most.  First things first, what
+is <00:00:14.417><c>source </c><00:00:14.634><c>code </c><00:00:14.851><c>and </c><00:00:15.068><c>why </c><00:00:15.285><c>is </c><00:00:15.502><c>it </c><00:00:15.719><c>cool?</c>
+
+00:00:16.230 --> 00:00:16.240 align:start position:0%
+is source code and why is it cool?
+ 
+
+00:00:16.240 --> 00:00:17.870 align:start position:0%
+is source code and why is it cool?
+Many <00:00:16.740><c>people </c><00:00:17.240><c>use</c>
+
+00:00:17.870 --> 00:00:17.880 align:start position:0%
+Many people use
+ 
+
+00:00:17.880 --> 00:00:19.990 align:start position:0%
+Many people use
+closed <00:00:18.330><c>source </c><00:00:18.780><c>programs </c><00:00:19.230><c>like </c><00:00:19.680><c>Adobe</c>
+
+00:00:19.990 --> 00:00:20.000 align:start position:0%
+closed source programs like Adobe
+ 
+
+00:00:20.000 --> 00:00:21.830 align:start position:0%
+closed source programs like Adobe
+and <00:00:20.215><c>others.  </c><00:00:20.430><c>And </c><00:00:20.645><c>the </c><00:00:20.860><c>problem </c><00:00:21.075><c>is </c><00:00:21.290><c>not </c><00:00:21.505><c>even </c><00:00:21.720><c>that</c>
+
+00:00:21.830 --> 00:00:21.840 align:start position:0%
+and others.  And the problem is not even that
+ 
+
+00:00:21.840 --> 00:00:23.630 align:start position:0%
+and others.  And the problem is not even that
+the <00:00:21.999><c>code </c><00:00:22.158><c>is </c><00:00:22.317><c>closed, </c><00:00:22.476><c>but </c><00:00:22.635><c>that </c><00:00:22.794><c>you </c><00:00:22.953><c>actually </c><00:00:23.112><c>have</c>
+
+00:00:23.630 --> 00:00:23.640 align:start position:0%
+the code is closed, but that you actually have
+ 
+
+00:00:23.640 --> 00:00:25.470 align:start position:0%
+the code is closed, but that you actually have
+no <00:00:23.960><c>control </c><00:00:24.280><c>over </c><00:00:24.600><c>your </c><00:00:24.920><c>data.  </c><00:00:25.240><c>If</c>
+
+00:00:25.470 --> 00:00:25.480 align:start position:0%
+no control over your data.  If
+ 
+
+00:00:25.480 --> 00:00:27.310 align:start position:0%
+no control over your data.  If
+the <00:00:25.752><c>application </c><00:00:26.024><c>closes, </c><00:00:26.296><c>you </c><00:00:26.568><c>will </c><00:00:26.840><c>lose</c>
+
+00:00:27.310 --> 00:00:27.320 align:start position:0%
+the application closes, you will lose
+ 
+
+00:00:27.320 --> 00:00:29.150 align:start position:0%
+the application closes, you will lose
+all <00:00:27.568><c>the </c><00:00:27.816><c>data </c><00:00:28.064><c>you </c><00:00:28.312><c>stored </c><00:00:28.560><c>there.</c>
+
+00:00:29.150 --> 00:00:29.160 align:start position:0%
+all the data you stored there.
+ 
+
+00:00:29.160 --> 00:00:31.390 align:start position:0%
+all the data you stored there.
+This <00:00:29.390><c>happened </c><00:00:29.620><c>with </c><00:00:29.850><c>the </c><00:00:30.080><c>Notion </c><00:00:30.310><c>app.  </c><00:00:30.540><c>I </c><00:00:30.770><c>made </c><00:00:31.000><c>a</c>
+
+00:00:31.390 --> 00:00:31.400 align:start position:0%
+This happened with the Notion app.  I made a
+ 
+
+00:00:31.400 --> 00:00:33.150 align:start position:0%
+This happened with the Notion app.  I made a
+video <00:00:31.633><c>about </c><00:00:31.866><c>Obsidian.  </c><00:00:32.099><c>There </c><00:00:32.332><c>I </c><00:00:32.565><c>also </c><00:00:32.798><c>said</c>
+
+00:00:33.150 --> 00:00:33.160 align:start position:0%
+video about Obsidian.  There I also said
+ 
+
+00:00:33.160 --> 00:00:35.229 align:start position:0%
+video about Obsidian.  There I also said
+why <00:00:33.426><c>I </c><00:00:33.692><c>chose </c><00:00:33.958><c>him </c><00:00:34.224><c>and </c><00:00:34.490><c>not </c><00:00:34.756><c>Ntion.</c>
+
+00:00:35.229 --> 00:00:35.239 align:start position:0%
+why I chose him and not Ntion.
+ 
+
+00:00:35.239 --> 00:00:36.510 align:start position:0%
+why I chose him and not Ntion.
+Of <00:00:35.463><c>course, </c><00:00:35.687><c>many </c><00:00:35.911><c>people </c><00:00:36.135><c>did </c><00:00:36.359><c>not</c>
+
+00:00:36.510 --> 00:00:36.520 align:start position:0%
+Of course, many people did not
+ 
+
+00:00:36.520 --> 00:00:38.750 align:start position:0%
+Of course, many people did not
+listen <00:00:36.737><c>to </c><00:00:36.954><c>me, </c><00:00:37.171><c>because </c><00:00:37.388><c>it </c><00:00:37.605><c>was </c><00:00:37.822><c>more </c><00:00:38.039><c>convenient </c><00:00:38.256><c>for </c><00:00:38.473><c>them</c>
+
+00:00:38.750 --> 00:00:38.760 align:start position:0%
+listen to me, because it was more convenient for them
+ 
+
+00:00:38.760 --> 00:00:40.630 align:start position:0%
+listen to me, because it was more convenient for them
+.  <00:00:38.955><c>Everything </c><00:00:39.150><c>there </c><00:00:39.345><c>is </c><00:00:39.540><c>on </c><00:00:39.735><c>the </c><00:00:39.930><c>web, </c><00:00:40.125><c>stored </c><00:00:40.320><c>on </c><00:00:40.515><c>the</c>
+
+00:00:40.630 --> 00:00:40.640 align:start position:0%
+.  Everything there is on the web, stored on the
+ 
+
+00:00:40.640 --> 00:00:42.910 align:start position:0%
+.  Everything there is on the web, stored on the
+developers' <00:00:40.973><c>servers, </c><00:00:41.306><c>and </c><00:00:41.639><c>so </c><00:00:41.972><c>on.  </c><00:00:42.305><c>But </c><00:00:42.638><c>then,</c>
+
+00:00:42.910 --> 00:00:42.920 align:start position:0%
+developers' servers, and so on.  But then,
+ 
+
+00:00:42.920 --> 00:00:44.750 align:start position:0%
+developers' servers, and so on.  But then,
+literally <00:00:43.373><c>a </c><00:00:43.826><c>month </c><00:00:44.279><c>later,</c>
+
+00:00:44.750 --> 00:00:44.760 align:start position:0%
+literally a month later,
+ 
+
+00:00:44.760 --> 00:00:46.510 align:start position:0%
+literally a month later,
+sanctions <00:00:44.999><c>arrive, </c><00:00:45.238><c>and </c><00:00:45.477><c>the </c><00:00:45.716><c>company </c><00:00:45.955><c>begins </c><00:00:46.194><c>actively</c>
+
+00:00:46.510 --> 00:00:46.520 align:start position:0%
+sanctions arrive, and the company begins actively
+ 
+
+00:00:46.520 --> 00:00:48.229 align:start position:0%
+sanctions arrive, and the company begins actively
+deleting <00:00:47.180><c>accounts, </c><00:00:47.840><c>data,</c>
+
+00:00:48.229 --> 00:00:48.239 align:start position:0%
+deleting accounts, data,
+ 
+
+00:00:48.239 --> 00:00:49.830 align:start position:0%
+deleting accounts, data,
+notes, <00:00:48.527><c>and </c><00:00:48.815><c>everything </c><00:00:49.103><c>else.  </c><00:00:49.391><c>I </c><00:00:49.679><c>still</c>
+
+00:00:49.830 --> 00:00:49.840 align:start position:0%
+notes, and everything else.  I still
+ 
+
+00:00:49.840 --> 00:00:51.470 align:start position:0%
+notes, and everything else.  I still
+remember <00:00:50.056><c>all </c><00:00:50.272><c>these </c><00:00:50.488><c>people </c><00:00:50.704><c>coming </c><00:00:50.920><c>back</c>
+
+00:00:51.470 --> 00:00:51.480 align:start position:0%
+remember all these people coming back
+ 
+
+00:00:51.480 --> 00:00:53.229 align:start position:0%
+remember all these people coming back
+to <00:00:51.808><c>my </c><00:00:52.136><c>video, </c><00:00:52.464><c>saying </c><00:00:52.792><c>I </c><00:00:53.120><c>was</c>
+
+00:00:53.229 --> 00:00:53.239 align:start position:0%
+to my video, saying I was
+ 
+
+00:00:53.239 --> 00:00:55.189 align:start position:0%
+to my video, saying I was
+right, <00:00:53.525><c>switching </c><00:00:53.811><c>to </c><00:00:54.097><c>open </c><00:00:54.383><c>source </c><00:00:54.669><c>software, </c><00:00:54.955><c>or</c>
+
+00:00:55.189 --> 00:00:55.199 align:start position:0%
+right, switching to open source software, or
+ 
+
+00:00:55.199 --> 00:00:57.069 align:start position:0%
+right, switching to open source software, or
+at <00:00:55.359><c>least </c><00:00:55.519><c>to </c><00:00:55.679><c>software </c><00:00:55.839><c>where </c><00:00:55.999><c>you </c><00:00:56.159><c>have </c><00:00:56.319><c>control </c><00:00:56.479><c>over</c>
+
+00:00:57.069 --> 00:00:57.079 align:start position:0%
+at least to software where you have control over
+ 
+
+00:00:57.079 --> 00:00:58.910 align:start position:0%
+at least to software where you have control over
+your <00:00:57.319><c>data.  </c><00:00:57.559><c>The </c><00:00:57.799><c>second </c><00:00:58.039><c>problem </c><00:00:58.279><c>with </c><00:00:58.519><c>closed</c>
+
+00:00:58.910 --> 00:00:58.920 align:start position:0%
+your data.  The second problem with closed
+ 
+
+00:00:58.920 --> 00:01:01.029 align:start position:0%
+your data.  The second problem with closed
+source <00:00:59.420><c>code </c><00:00:59.920><c>in </c><00:01:00.420><c>some </c><00:01:00.920><c>cases</c>
+
+00:01:01.029 --> 00:01:01.039 align:start position:0%
+source code in some cases
+ 
+
+00:01:01.039 --> 00:01:02.869 align:start position:0%
+source code in some cases
+is <00:01:01.222><c>that </c><00:01:01.405><c>you </c><00:01:01.588><c>have </c><00:01:01.771><c>to </c><00:01:01.954><c>pay </c><00:01:02.137><c>for </c><00:01:02.320><c>it,</c>
+
+00:01:02.869 --> 00:01:02.879 align:start position:0%
+is that you have to pay for it,
+ 
+
+00:01:02.879 --> 00:01:05.509 align:start position:0%
+is that you have to pay for it,
+say, <00:01:03.135><c>to </c><00:01:03.391><c>take </c><00:01:03.647><c>it </c><00:01:03.903><c>from </c><00:01:04.159><c>Autoob </c><00:01:04.415><c>and </c><00:01:04.671><c>all </c><00:01:04.927><c>the </c><00:01:05.183><c>rest.  </c><00:01:05.439><c>And</c>
+
+00:01:05.509 --> 00:01:05.519 align:start position:0%
+say, to take it from Autoob and all the rest.  And
+ 
+
+00:01:05.519 --> 00:01:07.350 align:start position:0%
+say, to take it from Autoob and all the rest.  And
+ultimately, <00:01:05.772><c>in </c><00:01:06.025><c>this </c><00:01:06.278><c>video, </c><00:01:06.531><c>I'll </c><00:01:06.784><c>show </c><00:01:07.037><c>you</c>
+
+00:01:07.350 --> 00:01:07.360 align:start position:0%
+ultimately, in this video, I'll show you
+ 
+
+00:01:07.360 --> 00:01:09.429 align:start position:0%
+ultimately, in this video, I'll show you
+the <00:01:07.666><c>most </c><00:01:07.972><c>convenient </c><00:01:08.278><c>programs </c><00:01:08.584><c>that </c><00:01:08.890><c>I </c><00:01:09.196><c>personally</c>
+
+00:01:09.429 --> 00:01:09.439 align:start position:0%
+the most convenient programs that I personally
+ 
+
+00:01:09.439 --> 00:01:11.270 align:start position:0%
+the most convenient programs that I personally
+use <00:01:09.705><c>on </c><00:01:09.971><c>a </c><00:01:10.237><c>regular </c><00:01:10.503><c>basis </c><00:01:10.769><c>and </c><00:01:11.035><c>that</c>
+
+00:01:11.270 --> 00:01:11.280 align:start position:0%
+use on a regular basis and that
+ 
+
+00:01:11.280 --> 00:01:12.910 align:start position:0%
+use on a regular basis and that
+have <00:01:11.536><c>replaced </c><00:01:11.792><c>closed-source </c><00:01:12.048><c>programs </c><00:01:12.304><c>for </c><00:01:12.560><c>me</c>
+
+00:01:12.910 --> 00:01:12.920 align:start position:0%
+have replaced closed-source programs for me
+ 
+
+00:01:12.920 --> 00:01:14.990 align:start position:0%
+have replaced closed-source programs for me
+.  <00:01:13.149><c>And </c><00:01:13.378><c>first </c><00:01:13.607><c>of </c><00:01:13.836><c>all, </c><00:01:14.065><c>I </c><00:01:14.294><c>would </c><00:01:14.523><c>like </c><00:01:14.752><c>to</c>
+
+00:01:14.990 --> 00:01:15.000 align:start position:0%
+.  And first of all, I would like to
+ 
+
+00:01:15.000 --> 00:01:17.070 align:start position:0%
+.  And first of all, I would like to
+talk <00:01:15.470><c>about </c><00:01:15.940><c>the </c><00:01:16.410><c>system, </c><00:01:16.880><c>because</c>
+
+00:01:17.070 --> 00:01:17.080 align:start position:0%
+talk about the system, because
+ 
+
+00:01:17.080 --> 00:01:19.350 align:start position:0%
+talk about the system, because
+this <00:01:17.287><c>is </c><00:01:17.494><c>the </c><00:01:17.701><c>basis.  </c><00:01:17.908><c>This </c><00:01:18.115><c>is </c><00:01:18.322><c>where </c><00:01:18.529><c>I </c><00:01:18.736><c>install </c><00:01:18.943><c>all </c><00:01:19.150><c>the</c>
+
+00:01:19.350 --> 00:01:19.360 align:start position:0%
+this is the basis.  This is where I install all the
+ 
+
+00:01:19.360 --> 00:01:21.350 align:start position:0%
+this is the basis.  This is where I install all the
+open <00:01:20.259><c>source </c><00:01:21.158><c>programs,</c>
+
+00:01:21.350 --> 00:01:21.360 align:start position:0%
+open source programs,
+ 
+
+00:01:21.360 --> 00:01:23.350 align:start position:0%
+open source programs,
+test <00:01:21.564><c>them </c><00:01:21.768><c>all, </c><00:01:21.972><c>and </c><00:01:22.176><c>so </c><00:01:22.380><c>on.  </c><00:01:22.584><c>So, </c><00:01:22.788><c>now </c><00:01:22.992><c>I </c><00:01:23.196><c>am</c>
+
+00:01:23.350 --> 00:01:23.360 align:start position:0%
+test them all, and so on.  So, now I am
+ 
+
+00:01:23.360 --> 00:01:25.149 align:start position:0%
+test them all, and so on.  So, now I am
+sitting <00:01:23.550><c>on </c><00:01:23.740><c>Arch </c><00:01:23.930><c>Linux </c><00:01:24.120><c>and </c><00:01:24.310><c>also </c><00:01:24.500><c>on </c><00:01:24.690><c>the </c><00:01:24.880><c>second</c>
+
+00:01:25.149 --> 00:01:25.159 align:start position:0%
+sitting on Arch Linux and also on the second
+ 
+
+00:01:25.159 --> 00:01:27.510 align:start position:0%
+sitting on Arch Linux and also on the second
+one <00:01:25.852><c>I </c><00:01:26.545><c>have </c><00:01:27.238><c>NXOS.</c>
+
+00:01:27.510 --> 00:01:27.520 align:start position:0%
+one I have NXOS.
+ 
+
+00:01:27.520 --> 00:01:29.749 align:start position:0%
+one I have NXOS.
+I <00:01:27.751><c>use </c><00:01:27.982><c>bevm </c><00:01:28.213><c>directly </c><00:01:28.444><c>on </c><00:01:28.675><c>this </c><00:01:28.906><c>distribution.  </c><00:01:29.137><c>This </c><00:01:29.368><c>is </c><00:01:29.599><c>a</c>
+
+00:01:29.749 --> 00:01:29.759 align:start position:0%
+I use bevm directly on this distribution.  This is a
+ 
+
+00:01:29.759 --> 00:01:31.510 align:start position:0%
+I use bevm directly on this distribution.  This is a
+taylor <00:01:30.379><c>window </c><00:01:30.999><c>manager</c>
+
+00:01:31.510 --> 00:01:31.520 align:start position:0%
+taylor window manager
+ 
+
+00:01:31.520 --> 00:01:33.109 align:start position:0%
+taylor window manager
+that <00:01:31.760><c>can </c><00:01:32.000><c>be </c><00:01:32.240><c>completely </c><00:01:32.480><c>customized </c><00:01:32.720><c>to </c><00:01:32.960><c>suit</c>
+
+00:01:33.109 --> 00:01:33.119 align:start position:0%
+that can be completely customized to suit
+ 
+
+00:01:33.119 --> 00:01:35.670 align:start position:0%
+that can be completely customized to suit
+your <00:01:33.519><c>needs.  </c><00:01:33.919><c>All </c><00:01:34.319><c>these </c><00:01:34.719><c>bars, </c><00:01:35.119><c>browsers, </c><00:01:35.519><c>everything</c>
+
+00:01:35.670 --> 00:01:35.680 align:start position:0%
+your needs.  All these bars, browsers, everything
+ 
+
+00:01:35.680 --> 00:01:37.789 align:start position:0%
+your needs.  All these bars, browsers, everything
+else, <00:01:35.959><c>everything </c><00:01:36.238><c>is </c><00:01:36.517><c>completely </c><00:01:36.796><c>customizable.</c>
+
+00:01:37.789 --> 00:01:37.799 align:start position:0%
+else, everything is completely customizable.
+ 
+
+00:01:37.799 --> 00:01:39.990 align:start position:0%
+else, everything is completely customizable.
+By <00:01:37.999><c>the </c><00:01:38.199><c>way, </c><00:01:38.399><c>here </c><00:01:38.599><c>is </c><00:01:38.799><c>my </c><00:01:38.999><c>video </c><00:01:39.199><c>in </c><00:01:39.399><c>search.  </c><00:01:39.599><c>This </c><00:01:39.799><c>is</c>
+
+00:01:39.990 --> 00:01:40.000 align:start position:0%
+By the way, here is my video in search.  This is
+ 
+
+00:01:40.000 --> 00:01:41.950 align:start position:0%
+By the way, here is my video in search.  This is
+roughly <00:01:40.195><c>what </c><00:01:40.390><c>the </c><00:01:40.585><c>system </c><00:01:40.780><c>itself </c><00:01:40.975><c>looks </c><00:01:41.170><c>like.  </c><00:01:41.365><c>This </c><00:01:41.560><c>means </c><00:01:41.755><c>that</c>
+
+00:01:41.950 --> 00:01:41.960 align:start position:0%
+roughly what the system itself looks like.  This means that
+ 
+
+00:01:41.960 --> 00:01:43.670 align:start position:0%
+roughly what the system itself looks like.  This means that
+all <00:01:42.319><c>absolute </c><00:01:42.678><c>components </c><00:01:43.037><c>can </c><00:01:43.396><c>be</c>
+
+00:01:43.670 --> 00:01:43.680 align:start position:0%
+all absolute components can be
+ 
+
+00:01:43.680 --> 00:01:45.389 align:start position:0%
+all absolute components can be
+customized <00:01:43.885><c>to </c><00:01:44.090><c>suit </c><00:01:44.295><c>your </c><00:01:44.500><c>needs.  </c><00:01:44.705><c>And </c><00:01:44.910><c>everything </c><00:01:45.115><c>is </c><00:01:45.320><c>also</c>
+
+00:01:45.389 --> 00:01:45.399 align:start position:0%
+customized to suit your needs.  And everything is also
+ 
+
+00:01:45.399 --> 00:01:47.190 align:start position:0%
+customized to suit your needs.  And everything is also
+open <00:01:45.759><c>source.  </c><00:01:46.119><c>Also </c><00:01:46.479><c>about </c><00:01:46.839><c>the</c>
+
+00:01:47.190 --> 00:01:47.200 align:start position:0%
+open source.  Also about the
+ 
+
+00:01:47.200 --> 00:01:49.069 align:start position:0%
+open source.  Also about the
+arch <00:01:47.411><c>itself.  </c><00:01:47.622><c>For </c><00:01:47.833><c>some </c><00:01:48.044><c>reason, </c><00:01:48.255><c>people </c><00:01:48.466><c>often </c><00:01:48.677><c>say</c>
+
+00:01:49.069 --> 00:01:49.079 align:start position:0%
+arch itself.  For some reason, people often say
+ 
+
+00:01:49.079 --> 00:01:51.030 align:start position:0%
+arch itself.  For some reason, people often say
+that <00:01:49.332><c>it </c><00:01:49.585><c>is </c><00:01:49.838><c>unstable, </c><00:01:50.091><c>constantly </c><00:01:50.344><c>breaks </c><00:01:50.597><c>down,</c>
+
+00:01:51.030 --> 00:01:51.040 align:start position:0%
+that it is unstable, constantly breaks down,
+ 
+
+00:01:51.040 --> 00:01:52.709 align:start position:0%
+that it is unstable, constantly breaks down,
+and <00:01:51.257><c>so </c><00:01:51.474><c>on.  </c><00:01:51.691><c>But </c><00:01:51.908><c>when </c><00:01:52.125><c>I </c><00:01:52.342><c>was </c><00:01:52.559><c>using</c>
+
+00:01:52.709 --> 00:01:52.719 align:start position:0%
+and so on.  But when I was using
+ 
+
+00:01:52.719 --> 00:01:54.310 align:start position:0%
+and so on.  But when I was using
+Manjarom, <00:01:53.009><c>my </c><00:01:53.299><c>system </c><00:01:53.589><c>would </c><00:01:53.879><c>consistently</c>
+
+00:01:54.310 --> 00:01:54.320 align:start position:0%
+Manjarom, my system would consistently
+ 
+
+00:01:54.320 --> 00:01:56.029 align:start position:0%
+Manjarom, my system would consistently
+crash <00:01:54.580><c>every </c><00:01:54.840><c>time </c><00:01:55.100><c>after </c><00:01:55.360><c>an </c><00:01:55.620><c>update.  </c><00:01:55.880><c>But</c>
+
+00:01:56.029 --> 00:01:56.039 align:start position:0%
+crash every time after an update.  But
+ 
+
+00:01:56.039 --> 00:01:58.389 align:start position:0%
+crash every time after an update.  But
+using <00:01:56.352><c>Arch, </c><00:01:56.665><c>such </c><00:01:56.978><c>problems </c><00:01:57.291><c>simply </c><00:01:57.604><c>don’t </c><00:01:57.917><c>exist.</c>
+
+00:01:58.389 --> 00:01:58.399 align:start position:0%
+using Arch, such problems simply don’t exist.
+ 
+
+00:01:58.399 --> 00:02:00.350 align:start position:0%
+using Arch, such problems simply don’t exist.
+I'll <00:01:58.672><c>leave </c><00:01:58.945><c>the </c><00:01:59.218><c>entire </c><00:01:59.491><c>global </c><00:01:59.764><c>updates.  </c><00:02:00.037><c>Moreover,</c>
+
+00:02:00.350 --> 00:02:00.360 align:start position:0%
+I'll leave the entire global updates.  Moreover,
+ 
+
+00:02:00.360 --> 00:02:02.230 align:start position:0%
+I'll leave the entire global updates.  Moreover,
+he <00:02:00.620><c>even </c><00:02:00.880><c>left </c><00:02:01.140><c>such </c><00:02:01.400><c>updates </c><00:02:01.660><c>after </c><00:02:01.920><c>which</c>
+
+00:02:02.230 --> 00:02:02.240 align:start position:0%
+he even left such updates after which
+ 
+
+00:02:02.240 --> 00:02:04.109 align:start position:0%
+he even left such updates after which
+everything <00:02:02.491><c>literally </c><00:02:02.742><c>could </c><00:02:02.993><c>not </c><00:02:03.244><c>help </c><00:02:03.495><c>but </c><00:02:03.746><c>fall, </c><00:02:03.997><c>but</c>
+
+00:02:04.109 --> 00:02:04.119 align:start position:0%
+everything literally could not help but fall, but
+ 
+
+00:02:04.119 --> 00:02:06.149 align:start position:0%
+everything literally could not help but fall, but
+surprisingly <00:02:04.359><c>it </c><00:02:04.599><c>did </c><00:02:04.839><c>not </c><00:02:05.079><c>fall.  </c><00:02:05.319><c>I </c><00:02:05.559><c>reboot</c>
+
+00:02:06.149 --> 00:02:06.159 align:start position:0%
+surprisingly it did not fall.  I reboot
+ 
+
+00:02:06.159 --> 00:02:08.389 align:start position:0%
+surprisingly it did not fall.  I reboot
+the <00:02:06.487><c>system, </c><00:02:06.815><c>expecting </c><00:02:07.143><c>everything </c><00:02:07.471><c>to </c><00:02:07.799><c>crash,</c>
+
+00:02:08.389 --> 00:02:08.399 align:start position:0%
+the system, expecting everything to crash,
+ 
+
+00:02:08.399 --> 00:02:10.109 align:start position:0%
+the system, expecting everything to crash,
+but <00:02:08.659><c>it </c><00:02:08.919><c>works </c><00:02:09.179><c>fine.  </c><00:02:09.439><c>And </c><00:02:09.699><c>the </c><00:02:09.959><c>same</c>
+
+00:02:10.109 --> 00:02:10.119 align:start position:0%
+but it works fine.  And the same
+ 
+
+00:02:10.119 --> 00:02:12.190 align:start position:0%
+but it works fine.  And the same
+story <00:02:10.329><c>with </c><00:02:10.539><c>Nxos.  </c><00:02:10.749><c>But </c><00:02:10.959><c>why </c><00:02:11.169><c>am </c><00:02:11.379><c>I </c><00:02:11.589><c>starting </c><00:02:11.799><c>to</c>
+
+00:02:12.190 --> 00:02:12.200 align:start position:0%
+story with Nxos.  But why am I starting to
+ 
+
+00:02:12.200 --> 00:02:14.190 align:start position:0%
+story with Nxos.  But why am I starting to
+move <00:02:12.560><c>to </c><00:02:12.920><c>NXOS?  </c><00:02:13.280><c>It's </c><00:02:13.640><c>not </c><00:02:14.000><c>because</c>
+
+00:02:14.190 --> 00:02:14.200 align:start position:0%
+move to NXOS?  It's not because
+ 
+
+00:02:14.200 --> 00:02:15.869 align:start position:0%
+move to NXOS?  It's not because
+Arch <00:02:14.411><c>is </c><00:02:14.622><c>bad.  </c><00:02:14.833><c>This </c><00:02:15.044><c>is </c><00:02:15.255><c>actually </c><00:02:15.466><c>a </c><00:02:15.677><c>very</c>
+
+00:02:15.869 --> 00:02:15.879 align:start position:0%
+Arch is bad.  This is actually a very
+ 
+
+00:02:15.879 --> 00:02:17.990 align:start position:0%
+Arch is bad.  This is actually a very
+cool <00:02:16.101><c>system.  </c><00:02:16.323><c>And </c><00:02:16.545><c>the </c><00:02:16.767><c>cool </c><00:02:16.989><c>thing </c><00:02:17.211><c>about </c><00:02:17.433><c>NKS </c><00:02:17.655><c>is </c><00:02:17.877><c>that</c>
+
+00:02:17.990 --> 00:02:18.000 align:start position:0%
+cool system.  And the cool thing about NKS is that
+ 
+
+00:02:18.000 --> 00:02:19.670 align:start position:0%
+cool system.  And the cool thing about NKS is that
+while <00:02:18.200><c>on </c><00:02:18.400><c>Arch </c><00:02:18.600><c>I </c><00:02:18.800><c>wrote </c><00:02:19.000><c>everything </c><00:02:19.200><c>in </c><00:02:19.400><c>my</c>
+
+00:02:19.670 --> 00:02:19.680 align:start position:0%
+while on Arch I wrote everything in my
+ 
+
+00:02:19.680 --> 00:02:21.470 align:start position:0%
+while on Arch I wrote everything in my
+own <00:02:19.960><c>scripts, </c><00:02:20.240><c>I </c><00:02:20.520><c>had </c><00:02:20.800><c>a </c><00:02:21.080><c>builder</c>
+
+00:02:21.470 --> 00:02:21.480 align:start position:0%
+own scripts, I had a builder
+ 
+
+00:02:21.480 --> 00:02:23.430 align:start position:0%
+own scripts, I had a builder
+for <00:02:21.780><c>my </c><00:02:22.080><c>system, </c><00:02:22.380><c>and </c><00:02:22.680><c>so </c><00:02:22.980><c>on, </c><00:02:23.280><c>to</c>
+
+00:02:23.430 --> 00:02:23.440 align:start position:0%
+for my system, and so on, to
+ 
+
+00:02:23.440 --> 00:02:25.710 align:start position:0%
+for my system, and so on, to
+install <00:02:23.799><c>it </c><00:02:24.158><c>all </c><00:02:24.517><c>automatically, </c><00:02:24.876><c>in </c><00:02:25.235><c>Nxos </c><00:02:25.594><c>we</c>
+
+00:02:25.710 --> 00:02:25.720 align:start position:0%
+install it all automatically, in Nxos we
+ 
+
+00:02:25.720 --> 00:02:27.630 align:start position:0%
+install it all automatically, in Nxos we
+simply <00:02:26.013><c>use </c><00:02:26.306><c>a </c><00:02:26.599><c>ready-made </c><00:02:26.892><c>language </c><00:02:27.185><c>that </c><00:02:27.478><c>the</c>
+
+00:02:27.630 --> 00:02:27.640 align:start position:0%
+simply use a ready-made language that the
+ 
+
+00:02:27.640 --> 00:02:29.350 align:start position:0%
+simply use a ready-made language that the
+system <00:02:27.952><c>runs </c><00:02:28.264><c>on.  </c><00:02:28.576><c>We </c><00:02:28.888><c>enter </c><00:02:29.200><c>everything</c>
+
+00:02:29.350 --> 00:02:29.360 align:start position:0%
+system runs on.  We enter everything
+ 
+
+00:02:29.360 --> 00:02:31.110 align:start position:0%
+system runs on.  We enter everything
+once, <00:02:29.600><c>then </c><00:02:29.840><c>we </c><00:02:30.080><c>get </c><00:02:30.320><c>all </c><00:02:30.560><c>the </c><00:02:30.800><c>bars,</c>
+
+00:02:31.110 --> 00:02:31.120 align:start position:0%
+once, then we get all the bars,
+ 
+
+00:02:31.120 --> 00:02:33.190 align:start position:0%
+once, then we get all the bars,
+terminal <00:02:31.559><c>settings, </c><00:02:31.998><c>settings </c><00:02:32.437><c>for </c><00:02:32.876><c>other</c>
+
+00:02:33.190 --> 00:02:33.200 align:start position:0%
+terminal settings, settings for other
+ 
+
+00:02:33.200 --> 00:02:35.150 align:start position:0%
+terminal settings, settings for other
+utilities, <00:02:33.653><c>and </c><00:02:34.106><c>so </c><00:02:34.559><c>on.</c>
+
+00:02:35.150 --> 00:02:35.160 align:start position:0%
+utilities, and so on.
+ 
+
+00:02:35.160 --> 00:02:36.910 align:start position:0%
+utilities, and so on.
+You <00:02:35.288><c>can </c><00:02:35.416><c>completely </c><00:02:35.544><c>configure </c><00:02:35.672><c>it </c><00:02:35.800><c>directly </c><00:02:35.928><c>in </c><00:02:36.056><c>the </c><00:02:36.184><c>config </c><00:02:36.312><c>file</c>
+
+00:02:36.910 --> 00:02:36.920 align:start position:0%
+You can completely configure it directly in the config file
+ 
+
+00:02:36.920 --> 00:02:38.509 align:start position:0%
+You can completely configure it directly in the config file
+so <00:02:37.018><c>that </c><00:02:37.116><c>you </c><00:02:37.214><c>get </c><00:02:37.312><c>the </c><00:02:37.410><c>browser </c><00:02:37.508><c>extension </c><00:02:37.606><c>you </c><00:02:37.704><c>need </c><00:02:37.802><c>right </c><00:02:37.900><c>out </c><00:02:37.998><c>of </c><00:02:38.096><c>the </c><00:02:38.194><c>box</c>
+
+00:02:38.509 --> 00:02:38.519 align:start position:0%
+so that you get the browser extension you need right out of the box
+ 
+
+00:02:38.519 --> 00:02:40.149 align:start position:0%
+so that you get the browser extension you need right out of the box
+.  <00:02:39.139><c>You </c><00:02:39.759><c>install</c>
+
+00:02:40.149 --> 00:02:40.159 align:start position:0%
+.  You install
+ 
+
+00:02:40.159 --> 00:02:42.149 align:start position:0%
+.  You install
+the <00:02:40.425><c>system </c><00:02:40.691><c>and </c><00:02:40.957><c>immediately </c><00:02:41.223><c>receive </c><00:02:41.489><c>these </c><00:02:41.755><c>extensions</c>
+
+00:02:42.149 --> 00:02:42.159 align:start position:0%
+the system and immediately receive these extensions
+ 
+
+00:02:42.159 --> 00:02:43.949 align:start position:0%
+the system and immediately receive these extensions
+in <00:02:42.364><c>your </c><00:02:42.569><c>browser.  </c><00:02:42.774><c>This </c><00:02:42.979><c>is </c><00:02:43.184><c>why </c><00:02:43.389><c>I </c><00:02:43.594><c>like</c>
+
+00:02:43.949 --> 00:02:43.959 align:start position:0%
+in your browser.  This is why I like
+ 
+
+00:02:43.959 --> 00:02:46.149 align:start position:0%
+in your browser.  This is why I like
+NXOS.  <00:02:44.265><c>And </c><00:02:44.571><c>also, </c><00:02:44.877><c>although </c><00:02:45.183><c>I'm </c><00:02:45.489><c>currently </c><00:02:45.795><c>using</c>
+
+00:02:46.149 --> 00:02:46.159 align:start position:0%
+NXOS.  And also, although I'm currently using
+ 
+
+00:02:46.159 --> 00:02:48.030 align:start position:0%
+NXOS.  And also, although I'm currently using
+BSPVM, <00:02:46.445><c>I </c><00:02:46.731><c>still </c><00:02:47.017><c>want </c><00:02:47.303><c>to </c><00:02:47.589><c>switch </c><00:02:47.875><c>to</c>
+
+00:02:48.030 --> 00:02:48.040 align:start position:0%
+BSPVM, I still want to switch to
+ 
+
+00:02:48.040 --> 00:02:49.509 align:start position:0%
+BSPVM, I still want to switch to
+Hyperland <00:02:48.350><c>because </c><00:02:48.660><c>it's </c><00:02:48.970><c>a </c><00:02:49.280><c>more</c>
+
+00:02:49.509 --> 00:02:49.519 align:start position:0%
+Hyperland because it's a more
+ 
+
+00:02:49.519 --> 00:02:51.229 align:start position:0%
+Hyperland because it's a more
+modern <00:02:50.012><c>composer </c><00:02:50.505><c>that's </c><00:02:50.998><c>more</c>
+
+00:02:51.229 --> 00:02:51.239 align:start position:0%
+modern composer that's more
+ 
+
+00:02:51.239 --> 00:02:53.270 align:start position:0%
+modern composer that's more
+flexible.  <00:02:51.649><c>It </c><00:02:52.059><c>supports </c><00:02:52.469><c>various </c><00:02:52.879><c>top</c>
+
+00:02:53.270 --> 00:02:53.280 align:start position:0%
+flexible.  It supports various top
+ 
+
+00:02:53.280 --> 00:02:55.229 align:start position:0%
+flexible.  It supports various top
+animations, <00:02:53.510><c>it </c><00:02:53.740><c>has </c><00:02:53.970><c>a </c><00:02:54.200><c>lot </c><00:02:54.430><c>of </c><00:02:54.660><c>plugins, </c><00:02:54.890><c>and </c><00:02:55.120><c>so</c>
+
+00:02:55.229 --> 00:02:55.239 align:start position:0%
+animations, it has a lot of plugins, and so
+ 
+
+00:02:55.239 --> 00:02:57.309 align:start position:0%
+animations, it has a lot of plugins, and so
+on.  <00:02:55.552><c>And </c><00:02:55.865><c>those </c><00:02:56.178><c>who </c><00:02:56.491><c>installed </c><00:02:56.804><c>Hyperland, </c><00:02:57.117><c>they</c>
+
+00:02:57.309 --> 00:02:57.319 align:start position:0%
+on.  And those who installed Hyperland, they
+ 
+
+00:02:57.319 --> 00:02:59.149 align:start position:0%
+on.  And those who installed Hyperland, they
+then <00:02:57.599><c>set </c><00:02:57.879><c>it </c><00:02:58.159><c>up </c><00:02:58.439><c>very </c><00:02:58.719><c>well </c><00:02:58.999><c>and</c>
+
+00:02:59.149 --> 00:02:59.159 align:start position:0%
+then set it up very well and
+ 
+
+00:02:59.159 --> 00:03:00.790 align:start position:0%
+then set it up very well and
+get <00:02:59.429><c>a </c><00:02:59.699><c>truly </c><00:02:59.969><c>beautiful </c><00:03:00.239><c>system</c>
+
+00:03:00.790 --> 00:03:00.800 align:start position:0%
+get a truly beautiful system
+ 
+
+00:03:00.800 --> 00:03:02.550 align:start position:0%
+get a truly beautiful system
+that <00:03:01.190><c>works </c><00:03:01.580><c>exactly </c><00:03:01.970><c>as </c><00:03:02.360><c>you</c>
+
+00:03:02.550 --> 00:03:02.560 align:start position:0%
+that works exactly as you
+ 
+
+00:03:02.560 --> 00:03:04.509 align:start position:0%
+that works exactly as you
+need.  <00:03:02.775><c>Then, </c><00:03:02.990><c>if </c><00:03:03.205><c>we </c><00:03:03.420><c>go </c><00:03:03.635><c>further, </c><00:03:03.850><c>there </c><00:03:04.065><c>are </c><00:03:04.280><c>also</c>
+
+00:03:04.509 --> 00:03:04.519 align:start position:0%
+need.  Then, if we go further, there are also
+ 
+
+00:03:04.519 --> 00:03:06.390 align:start position:0%
+need.  Then, if we go further, there are also
+browsers.  <00:03:04.855><c>So, </c><00:03:05.191><c>initially </c><00:03:05.527><c>it </c><00:03:05.863><c>is </c><00:03:06.199><c>a</c>
+
+00:03:06.390 --> 00:03:06.400 align:start position:0%
+browsers.  So, initially it is a
+ 
+
+00:03:06.400 --> 00:03:08.750 align:start position:0%
+browsers.  So, initially it is a
+Firefox <00:03:06.697><c>browser, </c><00:03:06.994><c>but </c><00:03:07.291><c>although </c><00:03:07.588><c>it </c><00:03:07.885><c>is </c><00:03:08.182><c>not </c><00:03:08.479><c>Open</c>
+
+00:03:08.750 --> 00:03:08.760 align:start position:0%
+Firefox browser, but although it is not Open
+ 
+
+00:03:08.760 --> 00:03:10.190 align:start position:0%
+Firefox browser, but although it is not Open
+Source.  <00:03:09.010><c>I </c><00:03:09.260><c>also </c><00:03:09.510><c>have </c><00:03:09.760><c>a</c>
+
+00:03:10.190 --> 00:03:10.200 align:start position:0%
+Source.  I also have a
+ 
+
+00:03:10.200 --> 00:03:12.030 align:start position:0%
+Source.  I also have a
+Chromium <00:03:10.451><c>browser, </c><00:03:10.702><c>so </c><00:03:10.953><c>I </c><00:03:11.204><c>have </c><00:03:11.455><c>two </c><00:03:11.706><c>browsers </c><00:03:11.957><c>in</c>
+
+00:03:12.030 --> 00:03:12.040 align:start position:0%
+Chromium browser, so I have two browsers in
+ 
+
+00:03:12.040 --> 00:03:13.910 align:start position:0%
+Chromium browser, so I have two browsers in
+which <00:03:12.400><c>I </c><00:03:12.760><c>have </c><00:03:13.120><c>divided </c><00:03:13.480><c>responsibilities.  </c><00:03:13.840><c>And</c>
+
+00:03:13.910 --> 00:03:13.920 align:start position:0%
+which I have divided responsibilities.  And
+ 
+
+00:03:13.920 --> 00:03:15.589 align:start position:0%
+which I have divided responsibilities.  And
+essentially <00:03:14.232><c>you </c><00:03:14.544><c>get </c><00:03:14.856><c>the </c><00:03:15.168><c>same </c><00:03:15.480><c>Chrome,</c>
+
+00:03:15.589 --> 00:03:15.599 align:start position:0%
+essentially you get the same Chrome,
+ 
+
+00:03:15.599 --> 00:03:17.430 align:start position:0%
+essentially you get the same Chrome,
+which <00:03:15.844><c>will </c><00:03:16.089><c>be </c><00:03:16.334><c>open </c><00:03:16.579><c>source.  </c><00:03:16.824><c>That </c><00:03:17.069><c>is, </c><00:03:17.314><c>you</c>
+
+00:03:17.430 --> 00:03:17.440 align:start position:0%
+which will be open source.  That is, you
+ 
+
+00:03:17.440 --> 00:03:19.229 align:start position:0%
+which will be open source.  That is, you
+can <00:03:17.830><c>take </c><00:03:18.220><c>open </c><00:03:18.610><c>source </c><00:03:19.000><c>code,</c>
+
+00:03:19.229 --> 00:03:19.239 align:start position:0%
+can take open source code,
+ 
+
+00:03:19.239 --> 00:03:21.309 align:start position:0%
+can take open source code,
+read <00:03:19.499><c>it, </c><00:03:19.759><c>modify </c><00:03:20.019><c>it, </c><00:03:20.279><c>and </c><00:03:20.539><c>so </c><00:03:20.799><c>on.</c>
+
+00:03:21.309 --> 00:03:21.319 align:start position:0%
+read it, modify it, and so on.
+ 
+
+00:03:21.319 --> 00:03:22.670 align:start position:0%
+read it, modify it, and so on.
+This <00:03:21.567><c>is </c><00:03:21.815><c>great </c><00:03:22.063><c>because </c><00:03:22.311><c>it </c><00:03:22.559><c>doesn’t</c>
+
+00:03:22.670 --> 00:03:22.680 align:start position:0%
+This is great because it doesn’t
+ 
+
+00:03:22.680 --> 00:03:24.910 align:start position:0%
+This is great because it doesn’t
+track <00:03:23.033><c>you, </c><00:03:23.386><c>like, </c><00:03:23.739><c>say, </c><00:03:24.092><c>Yandex </c><00:03:24.445><c>Browser </c><00:03:24.798><c>and</c>
+
+00:03:24.910 --> 00:03:24.920 align:start position:0%
+track you, like, say, Yandex Browser and
+ 
+
+00:03:24.920 --> 00:03:26.710 align:start position:0%
+track you, like, say, Yandex Browser and
+other <00:03:25.260><c>browsers </c><00:03:25.600><c>that </c><00:03:25.940><c>have </c><00:03:26.280><c>tracking,</c>
+
+00:03:26.710 --> 00:03:26.720 align:start position:0%
+other browsers that have tracking,
+ 
+
+00:03:26.720 --> 00:03:28.509 align:start position:0%
+other browsers that have tracking,
+telemetry, <00:03:26.942><c>and </c><00:03:27.164><c>so </c><00:03:27.386><c>on.  </c><00:03:27.608><c>Since </c><00:03:27.830><c>this </c><00:03:28.052><c>is </c><00:03:28.274><c>the</c>
+
+00:03:28.509 --> 00:03:28.519 align:start position:0%
+telemetry, and so on.  Since this is the
+ 
+
+00:03:28.519 --> 00:03:30.149 align:start position:0%
+telemetry, and so on.  Since this is the
+same <00:03:28.945><c>Chrome </c><00:03:29.371><c>browser, </c><00:03:29.797><c>only</c>
+
+00:03:30.149 --> 00:03:30.159 align:start position:0%
+same Chrome browser, only
+ 
+
+00:03:30.159 --> 00:03:31.830 align:start position:0%
+same Chrome browser, only
+open, <00:03:30.412><c>you </c><00:03:30.665><c>can </c><00:03:30.918><c>easily </c><00:03:31.171><c>install </c><00:03:31.424><c>all </c><00:03:31.677><c>the</c>
+
+00:03:31.830 --> 00:03:31.840 align:start position:0%
+open, you can easily install all the
+ 
+
+00:03:31.840 --> 00:03:34.030 align:start position:0%
+open, you can easily install all the
+plugins, <00:03:32.493><c>use </c><00:03:33.146><c>them </c><00:03:33.799><c>directly,</c>
+
+00:03:34.030 --> 00:03:34.040 align:start position:0%
+plugins, use them directly,
+ 
+
+00:03:34.040 --> 00:03:36.030 align:start position:0%
+plugins, use them directly,
+configure <00:03:34.204><c>the </c><00:03:34.368><c>browser </c><00:03:34.532><c>in </c><00:03:34.696><c>the </c><00:03:34.860><c>same </c><00:03:35.024><c>way, </c><00:03:35.188><c>and </c><00:03:35.352><c>everything </c><00:03:35.516><c>else.</c>
+
+00:03:36.030 --> 00:03:36.040 align:start position:0%
+configure the browser in the same way, and everything else.
+ 
+
+00:03:36.040 --> 00:03:37.830 align:start position:0%
+configure the browser in the same way, and everything else.
+That <00:03:36.250><c>is, </c><00:03:36.460><c>the </c><00:03:36.670><c>differences </c><00:03:36.880><c>are </c><00:03:37.090><c>minimal.  </c><00:03:37.300><c>If </c><00:03:37.510><c>you </c><00:03:37.720><c>really</c>
+
+00:03:37.830 --> 00:03:37.840 align:start position:0%
+That is, the differences are minimal.  If you really
+ 
+
+00:03:37.840 --> 00:03:39.229 align:start position:0%
+That is, the differences are minimal.  If you really
+need <00:03:38.879><c>to</c>
+
+00:03:39.229 --> 00:03:39.239 align:start position:0%
+need to
+ 
+
+00:03:39.239 --> 00:03:40.990 align:start position:0%
+need to
+get <00:03:39.433><c>really </c><00:03:39.627><c>high, </c><00:03:39.821><c>you </c><00:03:40.015><c>can </c><00:03:40.209><c>use </c><00:03:40.403><c>a </c><00:03:40.597><c>browser</c>
+
+00:03:40.990 --> 00:03:41.000 align:start position:0%
+get really high, you can use a browser
+ 
+
+00:03:41.000 --> 00:03:43.030 align:start position:0%
+get really high, you can use a browser
+like <00:03:41.439><c>Helum, </c><00:03:41.878><c>which </c><00:03:42.317><c>automatically</c>
+
+00:03:43.030 --> 00:03:43.040 align:start position:0%
+like Helum, which automatically
+ 
+
+00:03:43.040 --> 00:03:45.309 align:start position:0%
+like Helum, which automatically
+blocks <00:03:43.679><c>ads.  </c><00:03:44.318><c>It </c><00:03:44.957><c>also</c>
+
+00:03:45.309 --> 00:03:45.319 align:start position:0%
+blocks ads.  It also
+ 
+
+00:03:45.319 --> 00:03:47.350 align:start position:0%
+blocks ads.  It also
+has <00:03:45.663><c>a </c><00:03:46.007><c>huge </c><00:03:46.351><c>number </c><00:03:46.695><c>of </c><00:03:47.039><c>different</c>
+
+00:03:47.350 --> 00:03:47.360 align:start position:0%
+has a huge number of different
+ 
+
+00:03:47.360 --> 00:03:49.789 align:start position:0%
+has a huge number of different
+features <00:03:47.746><c>to </c><00:03:48.132><c>protect </c><00:03:48.518><c>against </c><00:03:48.904><c>surveillance.  </c><00:03:49.290><c>Overall, </c><00:03:49.676><c>it's</c>
+
+00:03:49.789 --> 00:03:49.799 align:start position:0%
+features to protect against surveillance.  Overall, it's
+ 
+
+00:03:49.799 --> 00:03:51.789 align:start position:0%
+features to protect against surveillance.  Overall, it's
+very <00:03:50.229><c>similar </c><00:03:50.659><c>to </c><00:03:51.089><c>Liberwolf, </c><00:03:51.519><c>which</c>
+
+00:03:51.789 --> 00:03:51.799 align:start position:0%
+very similar to Liberwolf, which
+ 
+
+00:03:51.799 --> 00:03:53.509 align:start position:0%
+very similar to Liberwolf, which
+simply <00:03:52.169><c>uses </c><00:03:52.539><c>Firefox </c><00:03:52.909><c>but </c><00:03:53.279><c>also</c>
+
+00:03:53.509 --> 00:03:53.519 align:start position:0%
+simply uses Firefox but also
+ 
+
+00:03:53.519 --> 00:03:55.630 align:start position:0%
+simply uses Firefox but also
+automatically <00:03:54.399><c>disables </c><00:03:55.279><c>tracking,</c>
+
+00:03:55.630 --> 00:03:55.640 align:start position:0%
+automatically disables tracking,
+ 
+
+00:03:55.640 --> 00:03:57.229 align:start position:0%
+automatically disables tracking,
+sponsored <00:03:55.960><c>content, </c><00:03:56.280><c>and </c><00:03:56.600><c>all </c><00:03:56.920><c>other</c>
+
+00:03:57.229 --> 00:03:57.239 align:start position:0%
+sponsored content, and all other
+ 
+
+00:03:57.239 --> 00:03:59.229 align:start position:0%
+sponsored content, and all other
+things.  <00:03:57.444><c>If </c><00:03:57.649><c>they </c><00:03:57.854><c>find </c><00:03:58.059><c>a </c><00:03:58.264><c>vulnerability </c><00:03:58.469><c>in </c><00:03:58.674><c>the </c><00:03:58.879><c>browser</c>
+
+00:03:59.229 --> 00:03:59.239 align:start position:0%
+things.  If they find a vulnerability in the browser
+ 
+
+00:03:59.239 --> 00:04:00.869 align:start position:0%
+things.  If they find a vulnerability in the browser
+, <00:03:59.619><c>they </c><00:03:59.999><c>fix </c><00:04:00.379><c>it </c><00:04:00.759><c>and</c>
+
+00:04:00.869 --> 00:04:00.879 align:start position:0%
+, they fix it and
+ 
+
+00:04:00.879 --> 00:04:02.550 align:start position:0%
+, they fix it and
+make <00:04:01.099><c>a </c><00:04:01.319><c>very </c><00:04:01.539><c>quick </c><00:04:01.759><c>update.  </c><00:04:01.979><c>That's </c><00:04:02.199><c>why</c>
+
+00:04:02.550 --> 00:04:02.560 align:start position:0%
+make a very quick update.  That's why
+ 
+
+00:04:02.560 --> 00:04:04.190 align:start position:0%
+make a very quick update.  That's why
+we <00:04:02.800><c>use </c><00:04:03.040><c>it </c><00:04:03.280><c>specifically </c><00:04:03.520><c>for </c><00:04:03.760><c>hardcore</c>
+
+00:04:04.190 --> 00:04:04.200 align:start position:0%
+we use it specifically for hardcore
+ 
+
+00:04:04.200 --> 00:04:06.789 align:start position:0%
+we use it specifically for hardcore
+.  <00:04:04.539><c>Also, </c><00:04:04.878><c>many </c><00:04:05.217><c>people </c><00:04:05.556><c>liked </c><00:04:05.895><c>the </c><00:04:06.234><c>browser.</c>
+
+00:04:06.789 --> 00:04:06.799 align:start position:0%
+.  Also, many people liked the browser.
+ 
+
+00:04:06.799 --> 00:04:08.789 align:start position:0%
+.  Also, many people liked the browser.
+This <00:04:07.039><c>is </c><00:04:07.279><c>essentially </c><00:04:07.519><c>a </c><00:04:07.759><c>fork </c><00:04:07.999><c>of </c><00:04:08.239><c>Firefox, </c><00:04:08.479><c>but </c><00:04:08.719><c>with</c>
+
+00:04:08.789 --> 00:04:08.799 align:start position:0%
+This is essentially a fork of Firefox, but with
+ 
+
+00:04:08.799 --> 00:04:10.390 align:start position:0%
+This is essentially a fork of Firefox, but with
+support <00:04:09.039><c>for </c><00:04:09.279><c>vertical </c><00:04:09.519><c>tabs </c><00:04:09.759><c>and</c>
+
+00:04:10.390 --> 00:04:10.400 align:start position:0%
+support for vertical tabs and
+ 
+
+00:04:10.400 --> 00:04:12.910 align:start position:0%
+support for vertical tabs and
+various <00:04:10.767><c>hotkeys, </c><00:04:11.134><c>which </c><00:04:11.501><c>are </c><00:04:11.868><c>very </c><00:04:12.235><c>convenient.</c>
+
+00:04:12.910 --> 00:04:12.920 align:start position:0%
+various hotkeys, which are very convenient.
+ 
+
+00:04:12.920 --> 00:04:14.670 align:start position:0%
+various hotkeys, which are very convenient.
+Also <00:04:13.199><c>pinning </c><00:04:13.478><c>sites </c><00:04:13.757><c>and </c><00:04:14.036><c>so </c><00:04:14.315><c>on.  </c><00:04:14.594><c>And</c>
+
+00:04:14.670 --> 00:04:14.680 align:start position:0%
+Also pinning sites and so on.  And
+ 
+
+00:04:14.680 --> 00:04:16.110 align:start position:0%
+Also pinning sites and so on.  And
+also <00:04:15.079><c>open </c><00:04:15.478><c>source.  </c><00:04:15.877><c>There's</c>
+
+00:04:16.110 --> 00:04:16.120 align:start position:0%
+also open source.  There's
+ 
+
+00:04:16.120 --> 00:04:17.789 align:start position:0%
+also open source.  There's
+some <00:04:16.266><c>real </c><00:04:16.412><c>hype </c><00:04:16.558><c>going </c><00:04:16.704><c>on </c><00:04:16.850><c>around </c><00:04:16.996><c>this </c><00:04:17.142><c>browser </c><00:04:17.288><c>right </c><00:04:17.434><c>now</c>
+
+00:04:17.789 --> 00:04:17.799 align:start position:0%
+some real hype going on around this browser right now
+ 
+
+00:04:17.799 --> 00:04:20.030 align:start position:0%
+some real hype going on around this browser right now
+, <00:04:18.349><c>19 </c><00:04:18.899><c>million </c><00:04:19.449><c>installations.  </c><00:04:19.999><c>And</c>
+
+00:04:20.030 --> 00:04:20.040 align:start position:0%
+, 19 million installations.  And
+ 
+
+00:04:20.040 --> 00:04:21.710 align:start position:0%
+, 19 million installations.  And
+overall, <00:04:20.310><c>it </c><00:04:20.580><c>looks </c><00:04:20.850><c>more </c><00:04:21.120><c>modern</c>
+
+00:04:21.710 --> 00:04:21.720 align:start position:0%
+overall, it looks more modern
+ 
+
+00:04:21.720 --> 00:04:24.469 align:start position:0%
+overall, it looks more modern
+than <00:04:22.229><c>regular </c><00:04:22.738><c>browsers </c><00:04:23.247><c>like </c><00:04:23.756><c>Safari,</c>
+
+00:04:24.469 --> 00:04:24.479 align:start position:0%
+than regular browsers like Safari,
+ 
+
+00:04:24.479 --> 00:04:26.790 align:start position:0%
+than regular browsers like Safari,
+Chrome, <00:04:24.845><c>Firefox, </c><00:04:25.211><c>and </c><00:04:25.577><c>the </c><00:04:25.943><c>rest.  </c><00:04:26.309><c>All </c><00:04:26.675><c>of</c>
+
+00:04:26.790 --> 00:04:26.800 align:start position:0%
+Chrome, Firefox, and the rest.  All of
+ 
+
+00:04:26.800 --> 00:04:28.950 align:start position:0%
+Chrome, Firefox, and the rest.  All of
+these <00:04:27.200><c>browsers, </c><00:04:27.600><c>including </c><00:04:28.000><c>Chrome, </c><00:04:28.400><c>Firefox, </c><00:04:28.800><c>and</c>
+
+00:04:28.950 --> 00:04:28.960 align:start position:0%
+these browsers, including Chrome, Firefox, and
+ 
+
+00:04:28.960 --> 00:04:31.070 align:start position:0%
+these browsers, including Chrome, Firefox, and
+Zen <00:04:29.390><c>Browser, </c><00:04:29.820><c>are </c><00:04:30.250><c>very </c><00:04:30.680><c>large</c>
+
+00:04:31.070 --> 00:04:31.080 align:start position:0%
+Zen Browser, are very large
+ 
+
+00:04:31.080 --> 00:04:32.870 align:start position:0%
+Zen Browser, are very large
+applications <00:04:31.586><c>that </c><00:04:32.092><c>require </c><00:04:32.598><c>proper</c>
+
+00:04:32.870 --> 00:04:32.880 align:start position:0%
+applications that require proper
+ 
+
+00:04:32.880 --> 00:04:34.830 align:start position:0%
+applications that require proper
+code <00:04:33.142><c>writing </c><00:04:33.404><c>to </c><00:04:33.666><c>ensure </c><00:04:33.928><c>that </c><00:04:34.190><c>they </c><00:04:34.452><c>are </c><00:04:34.714><c>scalable,</c>
+
+00:04:34.830 --> 00:04:34.840 align:start position:0%
+code writing to ensure that they are scalable,
+ 
+
+00:04:34.840 --> 00:04:36.670 align:start position:0%
+code writing to ensure that they are scalable,
+well-maintained, <00:04:35.413><c>updated, </c><00:04:35.986><c>and </c><00:04:36.559><c>so</c>
+
+00:04:36.670 --> 00:04:36.680 align:start position:0%
+well-maintained, updated, and so
+ 
+
+00:04:36.680 --> 00:04:38.310 align:start position:0%
+well-maintained, updated, and so
+on.  <00:04:37.186><c>I </c><00:04:37.692><c>have </c><00:04:38.198><c>a</c>
+
+00:04:38.310 --> 00:04:38.320 align:start position:0%
+on.  I have a
+ 
+
+00:04:38.320 --> 00:04:40.150 align:start position:0%
+on.  I have a
+separate <00:04:38.448><c>AVP </c><00:04:38.576><c>course </c><00:04:38.704><c>on </c><00:04:38.832><c>these </c><00:04:38.960><c>topics </c><00:04:39.088><c>and </c><00:04:39.216><c>also </c><00:04:39.344><c>a </c><00:04:39.472><c>Private </c><00:04:39.600><c>Channel</c>
+
+00:04:40.150 --> 00:04:40.160 align:start position:0%
+separate AVP course on these topics and also a Private Channel
+ 
+
+00:04:40.160 --> 00:04:42.070 align:start position:0%
+separate AVP course on these topics and also a Private Channel
+as <00:04:40.520><c>a </c><00:04:40.880><c>separate </c><00:04:41.240><c>product.  </c><00:04:41.600><c>Recently </c><00:04:41.960><c>I</c>
+
+00:04:42.070 --> 00:04:42.080 align:start position:0%
+as a separate product.  Recently I
+ 
+
+00:04:42.080 --> 00:04:43.870 align:start position:0%
+as a separate product.  Recently I
+logged <00:04:42.265><c>into </c><00:04:42.450><c>the </c><00:04:42.635><c>channel </c><00:04:42.820><c>admin </c><00:04:43.005><c>panel </c><00:04:43.190><c>and </c><00:04:43.375><c>received </c><00:04:43.560><c>a</c>
+
+00:04:43.870 --> 00:04:43.880 align:start position:0%
+logged into the channel admin panel and received a
+ 
+
+00:04:43.880 --> 00:04:45.950 align:start position:0%
+logged into the channel admin panel and received a
+notification <00:04:44.248><c>that </c><00:04:44.616><c>the </c><00:04:44.984><c>channel </c><00:04:45.352><c>was </c><00:04:45.720><c>6</c>
+
+00:04:45.950 --> 00:04:45.960 align:start position:0%
+notification that the channel was 6
+ 
+
+00:04:45.960 --> 00:04:48.350 align:start position:0%
+notification that the channel was 6
+years <00:04:46.160><c>old.  </c><00:04:46.360><c>I've </c><00:04:46.560><c>been </c><00:04:46.760><c>making </c><00:04:46.960><c>videos </c><00:04:47.160><c>for </c><00:04:47.360><c>6 </c><00:04:47.560><c>years.  </c><00:04:47.760><c>Therefore, </c><00:04:47.960><c>in</c>
+
+00:04:48.350 --> 00:04:48.360 align:start position:0%
+years old.  I've been making videos for 6 years.  Therefore, in
+ 
+
+00:04:48.360 --> 00:04:49.990 align:start position:0%
+years old.  I've been making videos for 6 years.  Therefore, in
+honor <00:04:48.540><c>of </c><00:04:48.720><c>this </c><00:04:48.900><c>event, </c><00:04:49.080><c>I </c><00:04:49.260><c>am </c><00:04:49.440><c>also </c><00:04:49.620><c>offering </c><00:04:49.800><c>an</c>
+
+00:04:49.990 --> 00:04:50.000 align:start position:0%
+honor of this event, I am also offering an
+ 
+
+00:04:50.000 --> 00:04:52.070 align:start position:0%
+honor of this event, I am also offering an
+additional <00:04:50.344><c>discount </c><00:04:50.688><c>on </c><00:04:51.032><c>the </c><00:04:51.376><c>private </c><00:04:51.720><c>course.</c>
+
+00:04:52.070 --> 00:04:52.080 align:start position:0%
+additional discount on the private course.
+ 
+
+00:04:52.080 --> 00:04:54.390 align:start position:0%
+additional discount on the private course.
+You <00:04:52.366><c>get </c><00:04:52.652><c>two </c><00:04:52.938><c>products </c><00:04:53.224><c>at </c><00:04:53.510><c>once </c><00:04:53.796><c>forever</c>
+
+00:04:54.390 --> 00:04:54.400 align:start position:0%
+You get two products at once forever
+ 
+
+00:04:54.400 --> 00:04:56.550 align:start position:0%
+You get two products at once forever
+with <00:04:54.693><c>all </c><00:04:54.986><c>future </c><00:04:55.279><c>updates.  </c><00:04:55.572><c>I </c><00:04:55.865><c>am </c><00:04:56.158><c>planning</c>
+
+00:04:56.550 --> 00:04:56.560 align:start position:0%
+with all future updates.  I am planning
+ 
+
+00:04:56.560 --> 00:04:58.230 align:start position:0%
+with all future updates.  I am planning
+to <00:04:56.771><c>create </c><00:04:56.982><c>a </c><00:04:57.193><c>separate </c><00:04:57.404><c>school.  </c><00:04:57.615><c>I </c><00:04:57.826><c>also </c><00:04:58.037><c>make</c>
+
+00:04:58.230 --> 00:04:58.240 align:start position:0%
+to create a separate school.  I also make
+ 
+
+00:04:58.240 --> 00:04:59.909 align:start position:0%
+to create a separate school.  I also make
+individual <00:04:58.462><c>videos </c><00:04:58.684><c>for </c><00:04:58.906><c>Private, </c><00:04:59.128><c>just </c><00:04:59.350><c>like </c><00:04:59.572><c>on </c><00:04:59.794><c>my</c>
+
+00:04:59.909 --> 00:04:59.919 align:start position:0%
+individual videos for Private, just like on my
+ 
+
+00:04:59.919 --> 00:05:01.070 align:start position:0%
+individual videos for Private, just like on my
+YouTube <00:05:00.087><c>channel.  </c><00:05:00.255><c>I </c><00:05:00.423><c>have </c><00:05:00.591><c>a </c><00:05:00.759><c>huge</c>
+
+00:05:01.070 --> 00:05:01.080 align:start position:0%
+YouTube channel.  I have a huge
+ 
+
+00:05:01.080 --> 00:05:02.710 align:start position:0%
+YouTube channel.  I have a huge
+number <00:05:01.352><c>of </c><00:05:01.624><c>reviews.  </c><00:05:01.896><c>You </c><00:05:02.168><c>also </c><00:05:02.440><c>get</c>
+
+00:05:02.710 --> 00:05:02.720 align:start position:0%
+number of reviews.  You also get
+ 
+
+00:05:02.720 --> 00:05:04.790 align:start position:0%
+number of reviews.  You also get
+our <00:05:02.915><c>Private </c><00:05:03.110><c>Chat, </c><00:05:03.305><c>where </c><00:05:03.500><c>the </c><00:05:03.695><c>top </c><00:05:03.890><c>guys </c><00:05:04.085><c>hang </c><00:05:04.280><c>out.</c>
+
+00:05:04.790 --> 00:05:04.800 align:start position:0%
+our Private Chat, where the top guys hang out.
+ 
+
+00:05:04.800 --> 00:05:06.629 align:start position:0%
+our Private Chat, where the top guys hang out.
+We <00:05:05.219><c>talk </c><00:05:05.638><c>about </c><00:05:06.057><c>programming </c><00:05:06.476><c>and</c>
+
+00:05:06.629 --> 00:05:06.639 align:start position:0%
+We talk about programming and
+ 
+
+00:05:06.639 --> 00:05:08.870 align:start position:0%
+We talk about programming and
+them, <00:05:06.894><c>Linux </c><00:05:07.149><c>and </c><00:05:07.404><c>everything </c><00:05:07.659><c>else.  </c><00:05:07.914><c>In </c><00:05:08.169><c>the </c><00:05:08.424><c>OP </c><00:05:08.679><c>course,</c>
+
+00:05:08.870 --> 00:05:08.880 align:start position:0%
+them, Linux and everything else.  In the OP course,
+ 
+
+00:05:08.880 --> 00:05:10.150 align:start position:0%
+them, Linux and everything else.  In the OP course,
+I <00:05:09.040><c>show </c><00:05:09.200><c>you </c><00:05:09.360><c>how </c><00:05:09.520><c>to </c><00:05:09.680><c>write </c><00:05:09.840><c>proper</c>
+
+00:05:10.150 --> 00:05:10.160 align:start position:0%
+I show you how to write proper
+ 
+
+00:05:10.160 --> 00:05:12.110 align:start position:0%
+I show you how to write proper
+applications <00:05:10.460><c>so </c><00:05:10.760><c>they </c><00:05:11.060><c>are </c><00:05:11.360><c>stable,</c>
+
+00:05:12.110 --> 00:05:12.120 align:start position:0%
+applications so they are stable,
+ 
+
+00:05:12.120 --> 00:05:13.870 align:start position:0%
+applications so they are stable,
+so <00:05:12.408><c>you </c><00:05:12.696><c>write </c><00:05:12.984><c>high-quality </c><00:05:13.272><c>code, </c><00:05:13.560><c>can</c>
+
+00:05:13.870 --> 00:05:13.880 align:start position:0%
+so you write high-quality code, can
+ 
+
+00:05:13.880 --> 00:05:15.430 align:start position:0%
+so you write high-quality code, can
+optimize <00:05:14.539><c>resources, </c><00:05:15.198><c>install</c>
+
+00:05:15.430 --> 00:05:15.440 align:start position:0%
+optimize resources, install
+ 
+
+00:05:15.440 --> 00:05:17.390 align:start position:0%
+optimize resources, install
+programs <00:05:15.702><c>that </c><00:05:15.964><c>use </c><00:05:16.226><c>less </c><00:05:16.488><c>PC </c><00:05:16.750><c>resources, </c><00:05:17.012><c>and </c><00:05:17.274><c>so</c>
+
+00:05:17.390 --> 00:05:17.400 align:start position:0%
+programs that use less PC resources, and so
+ 
+
+00:05:17.400 --> 00:05:19.230 align:start position:0%
+programs that use less PC resources, and so
+on.  <00:05:17.664><c>And </c><00:05:17.928><c>in </c><00:05:18.192><c>private, </c><00:05:18.456><c>you </c><00:05:18.720><c>get</c>
+
+00:05:19.230 --> 00:05:19.240 align:start position:0%
+on.  And in private, you get
+ 
+
+00:05:19.240 --> 00:05:21.029 align:start position:0%
+on.  And in private, you get
+a <00:05:19.543><c>ton </c><00:05:19.846><c>of </c><00:05:20.149><c>different </c><00:05:20.452><c>videos </c><00:05:20.755><c>on</c>
+
+00:05:21.029 --> 00:05:21.039 align:start position:0%
+a ton of different videos on
+ 
+
+00:05:21.039 --> 00:05:23.189 align:start position:0%
+a ton of different videos on
+Iinux, <00:05:21.939><c>including </c><00:05:22.839><c>backups,</c>
+
+00:05:23.189 --> 00:05:23.199 align:start position:0%
+Iinux, including backups,
+ 
+
+00:05:23.199 --> 00:05:24.870 align:start position:0%
+Iinux, including backups,
+program <00:05:23.469><c>protection, </c><00:05:23.739><c>and </c><00:05:24.009><c>individual </c><00:05:24.279><c>mini-courses</c>
+
+00:05:24.870 --> 00:05:24.880 align:start position:0%
+program protection, and individual mini-courses
+ 
+
+00:05:24.880 --> 00:05:26.590 align:start position:0%
+program protection, and individual mini-courses
+within <00:05:25.099><c>the </c><00:05:25.318><c>private, </c><00:05:25.537><c>and </c><00:05:25.756><c>you </c><00:05:25.975><c>get </c><00:05:26.194><c>constant</c>
+
+00:05:26.590 --> 00:05:26.600 align:start position:0%
+within the private, and you get constant
+ 
+
+00:05:26.600 --> 00:05:28.350 align:start position:0%
+within the private, and you get constant
+access <00:05:26.848><c>and </c><00:05:27.096><c>updates.  </c><00:05:27.344><c>So </c><00:05:27.592><c>sign </c><00:05:27.840><c>up</c>
+
+00:05:28.350 --> 00:05:28.360 align:start position:0%
+access and updates.  So sign up
+ 
+
+00:05:28.360 --> 00:05:29.870 align:start position:0%
+access and updates.  So sign up
+for <00:05:28.839><c>the </c><00:05:29.318><c>course</c>
+
+00:05:29.870 --> 00:05:29.880 align:start position:0%
+for the course
+ 
+
+00:05:29.880 --> 00:05:31.749 align:start position:0%
+for the course
+and <00:05:30.102><c>get </c><00:05:30.324><c>a </c><00:05:30.546><c>private </c><00:05:30.768><c>channel, </c><00:05:30.990><c>chat, </c><00:05:31.212><c>constant </c><00:05:31.434><c>updates,</c>
+
+00:05:31.749 --> 00:05:31.759 align:start position:0%
+and get a private channel, chat, constant updates,
+ 
+
+00:05:31.759 --> 00:05:33.469 align:start position:0%
+and get a private channel, chat, constant updates,
+and <00:05:31.924><c>lifetime </c><00:05:32.089><c>access.  </c><00:05:32.254><c>I </c><00:05:32.419><c>added </c><00:05:32.584><c>the </c><00:05:32.749><c>promo </c><00:05:32.914><c>code </c><00:05:33.079><c>automatically</c>
+
+00:05:33.469 --> 00:05:33.479 align:start position:0%
+and lifetime access.  I added the promo code automatically
+ 
+
+00:05:33.479 --> 00:05:35.110 align:start position:0%
+and lifetime access.  I added the promo code automatically
+.  <00:05:33.679><c>By </c><00:05:33.879><c>submitting </c><00:05:34.079><c>a </c><00:05:34.279><c>request, </c><00:05:34.479><c>you </c><00:05:34.679><c>automatically</c>
+
+00:05:35.110 --> 00:05:35.120 align:start position:0%
+.  By submitting a request, you automatically
+ 
+
+00:05:35.120 --> 00:05:36.950 align:start position:0%
+.  By submitting a request, you automatically
+receive <00:05:35.408><c>the </c><00:05:35.696><c>entire </c><00:05:35.984><c>package </c><00:05:36.272><c>of </c><00:05:36.560><c>discounts.</c>
+
+00:05:36.950 --> 00:05:36.960 align:start position:0%
+receive the entire package of discounts.
+ 
+
+00:05:36.960 --> 00:05:38.749 align:start position:0%
+receive the entire package of discounts.
+As <00:05:37.115><c>always, </c><00:05:37.270><c>we're </c><00:05:37.425><c>recruiting </c><00:05:37.580><c>20 </c><00:05:37.735><c>people </c><00:05:37.890><c>so </c><00:05:38.045><c>that </c><00:05:38.200><c>I </c><00:05:38.355><c>can</c>
+
+00:05:38.749 --> 00:05:38.759 align:start position:0%
+As always, we're recruiting 20 people so that I can
+ 
+
+00:05:38.759 --> 00:05:41.909 align:start position:0%
+As always, we're recruiting 20 people so that I can
+check <00:05:39.009><c>homework </c><00:05:39.259><c>and </c><00:05:39.509><c>everything </c><00:05:39.759><c>else.</c>
+
+00:05:41.909 --> 00:05:41.919 align:start position:0%
+check homework and everything else.
+ 
+
+00:05:41.919 --> 00:05:43.270 align:start position:0%
+check homework and everything else.
+Next, <00:05:42.499><c>what </c><00:05:43.079><c>about</c>
+
+00:05:43.270 --> 00:05:43.280 align:start position:0%
+Next, what about
+ 
+
+00:05:43.280 --> 00:05:45.070 align:start position:0%
+Next, what about
+productivity <00:05:43.506><c>programs?  </c><00:05:43.732><c>And </c><00:05:43.958><c>here </c><00:05:44.184><c>I </c><00:05:44.410><c>will </c><00:05:44.636><c>add</c>
+
+00:05:45.070 --> 00:05:45.080 align:start position:0%
+productivity programs?  And here I will add
+ 
+
+00:05:45.080 --> 00:05:47.150 align:start position:0%
+productivity programs?  And here I will add
+obsidian.  <00:05:45.337><c>Although </c><00:05:45.594><c>I </c><00:05:45.851><c>know </c><00:05:46.108><c>it </c><00:05:46.365><c>is </c><00:05:46.622><c>not </c><00:05:46.879><c>open</c>
+
+00:05:47.150 --> 00:05:47.160 align:start position:0%
+obsidian.  Although I know it is not open
+ 
+
+00:05:47.160 --> 00:05:48.909 align:start position:0%
+obsidian.  Although I know it is not open
+source, <00:05:47.366><c>why </c><00:05:47.572><c>did </c><00:05:47.778><c>I </c><00:05:47.984><c>add </c><00:05:48.190><c>it </c><00:05:48.396><c>here?</c>
+
+00:05:48.909 --> 00:05:48.919 align:start position:0%
+source, why did I add it here?
+ 
+
+00:05:48.919 --> 00:05:51.070 align:start position:0%
+source, why did I add it here?
+Because <00:05:49.585><c>unlike </c><00:05:50.251><c>Notion, </c><00:05:50.917><c>we</c>
+
+00:05:51.070 --> 00:05:51.080 align:start position:0%
+Because unlike Notion, we
+ 
+
+00:05:51.080 --> 00:05:53.070 align:start position:0%
+Because unlike Notion, we
+receive <00:05:51.420><c>all </c><00:05:51.760><c>of </c><00:05:52.100><c>our </c><00:05:52.440><c>notes</c>
+
+00:05:53.070 --> 00:05:53.080 align:start position:0%
+receive all of our notes
+ 
+
+00:05:53.080 --> 00:05:54.550 align:start position:0%
+receive all of our notes
+completely <00:05:53.440><c>locally.  </c><00:05:53.800><c>If </c><00:05:54.160><c>obsidian</c>
+
+00:05:54.550 --> 00:05:54.560 align:start position:0%
+completely locally.  If obsidian
+ 
+
+00:05:54.560 --> 00:05:56.350 align:start position:0%
+completely locally.  If obsidian
+closes <00:05:54.840><c>or </c><00:05:55.120><c>something </c><00:05:55.400><c>else </c><00:05:55.680><c>happens, </c><00:05:55.960><c>we </c><00:05:56.240><c>don't</c>
+
+00:05:56.350 --> 00:05:56.360 align:start position:0%
+closes or something else happens, we don't
+ 
+
+00:05:56.360 --> 00:05:57.950 align:start position:0%
+closes or something else happens, we don't
+lose <00:05:56.608><c>our </c><00:05:56.856><c>data.  </c><00:05:57.104><c>Our </c><00:05:57.352><c>data </c><00:05:57.600><c>is</c>
+
+00:05:57.950 --> 00:05:57.960 align:start position:0%
+lose our data.  Our data is
+ 
+
+00:05:57.960 --> 00:06:00.150 align:start position:0%
+lose our data.  Our data is
+completely <00:05:58.211><c>in </c><00:05:58.462><c>our </c><00:05:58.713><c>hands.  </c><00:05:58.964><c>But </c><00:05:59.215><c>we </c><00:05:59.466><c>get </c><00:05:59.717><c>a</c>
+
+00:06:00.150 --> 00:06:00.160 align:start position:0%
+completely in our hands.  But we get a
+ 
+
+00:06:00.160 --> 00:06:01.950 align:start position:0%
+completely in our hands.  But we get a
+mega-convenient <00:06:00.586><c>system </c><00:06:01.012><c>for </c><00:06:01.438><c>managing</c>
+
+00:06:01.950 --> 00:06:01.960 align:start position:0%
+mega-convenient system for managing
+ 
+
+00:06:01.960 --> 00:06:03.710 align:start position:0%
+mega-convenient system for managing
+our <00:06:02.216><c>knowledge.  </c><00:06:02.472><c>We </c><00:06:02.728><c>add </c><00:06:02.984><c>notes </c><00:06:03.240><c>and</c>
+
+00:06:03.710 --> 00:06:03.720 align:start position:0%
+our knowledge.  We add notes and
+ 
+
+00:06:03.720 --> 00:06:05.830 align:start position:0%
+our knowledge.  We add notes and
+draw <00:06:04.046><c>different </c><00:06:04.372><c>templates.  </c><00:06:04.698><c>There </c><00:06:05.024><c>are </c><00:06:05.350><c>also </c><00:06:05.676><c>a</c>
+
+00:06:05.830 --> 00:06:05.840 align:start position:0%
+draw different templates.  There are also a
+ 
+
+00:06:05.840 --> 00:06:07.510 align:start position:0%
+draw different templates.  There are also a
+huge <00:06:06.086><c>number </c><00:06:06.332><c>of </c><00:06:06.578><c>plugins </c><00:06:06.824><c>here.  </c><00:06:07.070><c>These </c><00:06:07.316><c>are</c>
+
+00:06:07.510 --> 00:06:07.520 align:start position:0%
+huge number of plugins here.  These are
+ 
+
+00:06:07.520 --> 00:06:09.309 align:start position:0%
+huge number of plugins here.  These are
+convenient <00:06:08.000><c>plugins </c><00:06:08.480><c>for </c><00:06:08.960><c>drawing</c>
+
+00:06:09.309 --> 00:06:09.319 align:start position:0%
+convenient plugins for drawing
+ 
+
+00:06:09.319 --> 00:06:11.270 align:start position:0%
+convenient plugins for drawing
+various <00:06:09.759><c>diagrams.  </c><00:06:10.199><c>Also </c><00:06:10.639><c>plugins </c><00:06:11.079><c>for</c>
+
+00:06:11.270 --> 00:06:11.280 align:start position:0%
+various diagrams.  Also plugins for
+ 
+
+00:06:11.280 --> 00:06:13.230 align:start position:0%
+various diagrams.  Also plugins for
+voice <00:06:11.640><c>dictation.  </c><00:06:12.000><c>We </c><00:06:12.360><c>can </c><00:06:12.720><c>write </c><00:06:13.080><c>not</c>
+
+00:06:13.230 --> 00:06:13.240 align:start position:0%
+voice dictation.  We can write not
+ 
+
+00:06:13.240 --> 00:06:14.510 align:start position:0%
+voice dictation.  We can write not
+only <00:06:13.460><c>text, </c><00:06:13.680><c>we </c><00:06:13.900><c>can </c><00:06:14.120><c>insert</c>
+
+00:06:14.510 --> 00:06:14.520 align:start position:0%
+only text, we can insert
+ 
+
+00:06:14.520 --> 00:06:17.110 align:start position:0%
+only text, we can insert
+an <00:06:14.976><c>image.  </c><00:06:15.432><c>video, </c><00:06:15.888><c>also </c><00:06:16.344><c>audio, </c><00:06:16.800><c>write</c>
+
+00:06:17.110 --> 00:06:17.120 align:start position:0%
+an image.  video, also audio, write
+ 
+
+00:06:17.120 --> 00:06:19.110 align:start position:0%
+an image.  video, also audio, write
+voice <00:06:17.472><c>messages </c><00:06:17.824><c>and </c><00:06:18.176><c>everything </c><00:06:18.528><c>else.  </c><00:06:18.880><c>It</c>
+
+00:06:19.110 --> 00:06:19.120 align:start position:0%
+voice messages and everything else.  It
+ 
+
+00:06:19.120 --> 00:06:21.189 align:start position:0%
+voice messages and everything else.  It
+connects <00:06:19.599><c>directly </c><00:06:20.078><c>here.  </c><00:06:20.557><c>All </c><00:06:21.036><c>this</c>
+
+00:06:21.189 --> 00:06:21.199 align:start position:0%
+connects directly here.  All this
+ 
+
+00:06:21.199 --> 00:06:23.070 align:start position:0%
+connects directly here.  All this
+can <00:06:21.404><c>be </c><00:06:21.609><c>written </c><00:06:21.814><c>using </c><00:06:22.019><c>a </c><00:06:22.224><c>neuron.  </c><00:06:22.429><c>We </c><00:06:22.634><c>receive</c>
+
+00:06:23.070 --> 00:06:23.080 align:start position:0%
+can be written using a neuron.  We receive
+ 
+
+00:06:23.080 --> 00:06:25.070 align:start position:0%
+can be written using a neuron.  We receive
+notes <00:06:23.424><c>like </c><00:06:23.768><c>these.  </c><00:06:24.112><c>We </c><00:06:24.456><c>can </c><00:06:24.800><c>divide</c>
+
+00:06:25.070 --> 00:06:25.080 align:start position:0%
+notes like these.  We can divide
+ 
+
+00:06:25.080 --> 00:06:26.790 align:start position:0%
+notes like these.  We can divide
+all <00:06:25.352><c>this </c><00:06:25.624><c>into </c><00:06:25.896><c>chapters </c><00:06:26.168><c>and </c><00:06:26.440><c>insert</c>
+
+00:06:26.790 --> 00:06:26.800 align:start position:0%
+all this into chapters and insert
+ 
+
+00:06:26.800 --> 00:06:28.350 align:start position:0%
+all this into chapters and insert
+code <00:06:27.040><c>examples.  </c><00:06:27.280><c>We </c><00:06:27.520><c>also </c><00:06:27.760><c>receive </c><00:06:28.000><c>different</c>
+
+00:06:28.350 --> 00:06:28.360 align:start position:0%
+code examples.  We also receive different
+ 
+
+00:06:28.360 --> 00:06:30.189 align:start position:0%
+code examples.  We also receive different
+formatting.  <00:06:28.730><c>You </c><00:06:29.100><c>can </c><00:06:29.470><c>leave </c><00:06:29.840><c>different</c>
+
+00:06:30.189 --> 00:06:30.199 align:start position:0%
+formatting.  You can leave different
+ 
+
+00:06:30.199 --> 00:06:31.990 align:start position:0%
+formatting.  You can leave different
+formulas <00:06:30.495><c>from </c><00:06:30.791><c>mathematics </c><00:06:31.087><c>and </c><00:06:31.383><c>give </c><00:06:31.679><c>tasks</c>
+
+00:06:31.990 --> 00:06:32.000 align:start position:0%
+formulas from mathematics and give tasks
+ 
+
+00:06:32.000 --> 00:06:34.270 align:start position:0%
+formulas from mathematics and give tasks
+to <00:06:32.626><c>complete.  </c><00:06:33.252><c>Also </c><00:06:33.878><c>tables,</c>
+
+00:06:34.270 --> 00:06:34.280 align:start position:0%
+to complete.  Also tables,
+ 
+
+00:06:34.280 --> 00:06:36.950 align:start position:0%
+to complete.  Also tables,
+code <00:06:34.624><c>blocks, </c><00:06:34.968><c>blocks </c><00:06:35.312><c>for </c><00:06:35.656><c>mathematical </c><00:06:36.000><c>formulas.</c>
+
+00:06:36.950 --> 00:06:36.960 align:start position:0%
+code blocks, blocks for mathematical formulas.
+ 
+
+00:06:36.960 --> 00:06:38.710 align:start position:0%
+code blocks, blocks for mathematical formulas.
+Separately, <00:06:37.194><c>here </c><00:06:37.428><c>are </c><00:06:37.662><c>some </c><00:06:37.896><c>footnotes.  </c><00:06:38.130><c>It </c><00:06:38.364><c>seems </c><00:06:38.598><c>we</c>
+
+00:06:38.710 --> 00:06:38.720 align:start position:0%
+Separately, here are some footnotes.  It seems we
+ 
+
+00:06:38.720 --> 00:06:40.390 align:start position:0%
+Separately, here are some footnotes.  It seems we
+wrote <00:06:39.480><c>some </c><00:06:40.240><c>text.</c>
+
+00:06:40.390 --> 00:06:40.400 align:start position:0%
+wrote some text.
+ 
+
+00:06:40.400 --> 00:06:42.070 align:start position:0%
+wrote some text.
+We <00:06:40.513><c>will </c><00:06:40.626><c>refer </c><00:06:40.739><c>to </c><00:06:40.852><c>it </c><00:06:40.965><c>further.  </c><00:06:41.078><c>And </c><00:06:41.191><c>overall </c><00:06:41.304><c>it </c><00:06:41.417><c>is </c><00:06:41.530><c>a </c><00:06:41.643><c>very </c><00:06:41.756><c>powerful</c>
+
+00:06:42.070 --> 00:06:42.080 align:start position:0%
+We will refer to it further.  And overall it is a very powerful
+ 
+
+00:06:42.080 --> 00:06:43.830 align:start position:0%
+We will refer to it further.  And overall it is a very powerful
+application.  <00:06:42.599><c>I'll </c><00:06:43.118><c>leave </c><00:06:43.637><c>my</c>
+
+00:06:43.830 --> 00:06:43.840 align:start position:0%
+application.  I'll leave my
+ 
+
+00:06:43.840 --> 00:06:45.350 align:start position:0%
+application.  I'll leave my
+videos <00:06:43.982><c>about </c><00:06:44.124><c>it </c><00:06:44.266><c>in </c><00:06:44.408><c>the </c><00:06:44.550><c>description, </c><00:06:44.692><c>because </c><00:06:44.834><c>it's </c><00:06:44.976><c>a </c><00:06:45.118><c>truly</c>
+
+00:06:45.350 --> 00:06:45.360 align:start position:0%
+videos about it in the description, because it's a truly
+ 
+
+00:06:45.360 --> 00:06:47.230 align:start position:0%
+videos about it in the description, because it's a truly
+brutal <00:06:45.720><c>machine </c><00:06:46.080><c>for </c><00:06:46.440><c>pumping </c><00:06:46.800><c>up</c>
+
+00:06:47.230 --> 00:06:47.240 align:start position:0%
+brutal machine for pumping up
+ 
+
+00:06:47.240 --> 00:06:48.990 align:start position:0%
+brutal machine for pumping up
+your <00:06:47.568><c>knowledge, </c><00:06:47.896><c>memorizing </c><00:06:48.224><c>better, </c><00:06:48.552><c>and </c><00:06:48.880><c>so</c>
+
+00:06:48.990 --> 00:06:49.000 align:start position:0%
+your knowledge, memorizing better, and so
+ 
+
+00:06:49.000 --> 00:06:50.909 align:start position:0%
+your knowledge, memorizing better, and so
+on.  <00:06:49.280><c>But </c><00:06:49.560><c>if </c><00:06:49.840><c>you </c><00:06:50.120><c>prefer </c><00:06:50.400><c>Notion,</c>
+
+00:06:50.909 --> 00:06:50.919 align:start position:0%
+on.  But if you prefer Notion,
+ 
+
+00:06:50.919 --> 00:06:52.510 align:start position:0%
+on.  But if you prefer Notion,
+you <00:06:51.159><c>prefer </c><00:06:51.399><c>the </c><00:06:51.639><c>principle </c><00:06:51.879><c>of </c><00:06:52.119><c>entering</c>
+
+00:06:52.510 --> 00:06:52.520 align:start position:0%
+you prefer the principle of entering
+ 
+
+00:06:52.520 --> 00:06:55.469 align:start position:0%
+you prefer the principle of entering
+notes, <00:06:52.906><c>creating </c><00:06:53.292><c>goals </c><00:06:53.678><c>and </c><00:06:54.064><c>everything </c><00:06:54.450><c>else, </c><00:06:54.836><c>and</c>
+
+00:06:55.469 --> 00:06:55.479 align:start position:0%
+notes, creating goals and everything else, and
+ 
+
+00:06:55.479 --> 00:06:57.390 align:start position:0%
+notes, creating goals and everything else, and
+you <00:06:55.741><c>also </c><00:06:56.003><c>value </c><00:06:56.265><c>full </c><00:06:56.527><c>open </c><00:06:56.789><c>source, </c><00:06:57.051><c>and </c><00:06:57.313><c>not</c>
+
+00:06:57.390 --> 00:06:57.400 align:start position:0%
+you also value full open source, and not
+ 
+
+00:06:57.400 --> 00:06:58.869 align:start position:0%
+you also value full open source, and not
+half-open <00:06:57.620><c>source </c><00:06:57.840><c>like </c><00:06:58.060><c>in </c><00:06:58.280><c>Obsidian, </c><00:06:58.500><c>then </c><00:06:58.720><c>let</c>
+
+00:06:58.869 --> 00:06:58.879 align:start position:0%
+half-open source like in Obsidian, then let
+ 
+
+00:06:58.879 --> 00:07:00.710 align:start position:0%
+half-open source like in Obsidian, then let
+'s <00:06:59.124><c>use </c><00:06:59.369><c>it.  </c><00:06:59.614><c>You </c><00:06:59.859><c>can </c><00:07:00.104><c>deploy </c><00:07:00.349><c>it </c><00:07:00.594><c>on</c>
+
+00:07:00.710 --> 00:07:00.720 align:start position:0%
+'s use it.  You can deploy it on
+ 
+
+00:07:00.720 --> 00:07:02.469 align:start position:0%
+'s use it.  You can deploy it on
+your <00:07:01.000><c>server, </c><00:07:01.280><c>get </c><00:07:01.560><c>a </c><00:07:01.840><c>system </c><00:07:02.120><c>like </c><00:07:02.400><c>in</c>
+
+00:07:02.469 --> 00:07:02.479 align:start position:0%
+your server, get a system like in
+ 
+
+00:07:02.479 --> 00:07:04.309 align:start position:0%
+your server, get a system like in
+Ntion, <00:07:02.689><c>completely </c><00:07:02.899><c>free </c><00:07:03.109><c>of </c><00:07:03.319><c>charge.  </c><00:07:03.529><c>All </c><00:07:03.739><c>of </c><00:07:03.949><c>this </c><00:07:04.159><c>is</c>
+
+00:07:04.309 --> 00:07:04.319 align:start position:0%
+Ntion, completely free of charge.  All of this is
+ 
+
+00:07:04.319 --> 00:07:06.589 align:start position:0%
+Ntion, completely free of charge.  All of this is
+deployed <00:07:04.659><c>on </c><00:07:04.999><c>your </c><00:07:05.339><c>PC, </c><00:07:05.679><c>on </c><00:07:06.019><c>a </c><00:07:06.359><c>server,</c>
+
+00:07:06.589 --> 00:07:06.599 align:start position:0%
+deployed on your PC, on a server,
+ 
+
+00:07:06.599 --> 00:07:08.550 align:start position:0%
+deployed on your PC, on a server,
+or <00:07:06.833><c>on </c><00:07:07.067><c>a </c><00:07:07.301><c>purchased </c><00:07:07.535><c>VPS.  </c><00:07:07.769><c>You </c><00:07:08.003><c>can </c><00:07:08.237><c>also</c>
+
+00:07:08.550 --> 00:07:08.560 align:start position:0%
+or on a purchased VPS.  You can also
+ 
+
+00:07:08.560 --> 00:07:10.430 align:start position:0%
+or on a purchased VPS.  You can also
+draw, <00:07:08.946><c>create </c><00:07:09.332><c>different </c><00:07:09.718><c>diagrams,</c>
+
+00:07:10.430 --> 00:07:10.440 align:start position:0%
+draw, create different diagrams,
+ 
+
+00:07:10.440 --> 00:07:12.830 align:start position:0%
+draw, create different diagrams,
+graphs <00:07:10.940><c>and </c><00:07:11.440><c>tables, </c><00:07:11.940><c>different </c><00:07:12.440><c>databases,</c>
+
+00:07:12.830 --> 00:07:12.840 align:start position:0%
+graphs and tables, different databases,
+ 
+
+00:07:12.840 --> 00:07:15.110 align:start position:0%
+graphs and tables, different databases,
+projects, <00:07:13.479><c>set </c><00:07:14.118><c>goals </c><00:07:14.757><c>and</c>
+
+00:07:15.110 --> 00:07:15.120 align:start position:0%
+projects, set goals and
+ 
+
+00:07:15.120 --> 00:07:16.869 align:start position:0%
+projects, set goals and
+keep <00:07:15.297><c>all </c><00:07:15.474><c>your </c><00:07:15.651><c>data </c><00:07:15.828><c>in </c><00:07:16.005><c>full </c><00:07:16.182><c>control.  </c><00:07:16.359><c>Here </c><00:07:16.536><c>it </c><00:07:16.713><c>will</c>
+
+00:07:16.869 --> 00:07:16.879 align:start position:0%
+keep all your data in full control.  Here it will
+ 
+
+00:07:16.879 --> 00:07:19.189 align:start position:0%
+keep all your data in full control.  Here it will
+not <00:07:17.159><c>close </c><00:07:17.439><c>anymore, </c><00:07:17.719><c>because </c><00:07:17.999><c>all </c><00:07:18.279><c>of </c><00:07:18.559><c>this </c><00:07:18.839><c>is</c>
+
+00:07:19.189 --> 00:07:19.199 align:start position:0%
+not close anymore, because all of this is
+ 
+
+00:07:19.199 --> 00:07:21.189 align:start position:0%
+not close anymore, because all of this is
+deployed <00:07:19.439><c>on </c><00:07:19.679><c>your </c><00:07:19.919><c>PC.  </c><00:07:20.159><c>If </c><00:07:20.399><c>you </c><00:07:20.639><c>are </c><00:07:20.879><c>familiar</c>
+
+00:07:21.189 --> 00:07:21.199 align:start position:0%
+deployed on your PC.  If you are familiar
+ 
+
+00:07:21.199 --> 00:07:23.189 align:start position:0%
+deployed on your PC.  If you are familiar
+with <00:07:21.505><c>Proxmox, </c><00:07:21.811><c>then </c><00:07:22.117><c>all </c><00:07:22.423><c>similar </c><00:07:22.729><c>solutions </c><00:07:23.035><c>are</c>
+
+00:07:23.189 --> 00:07:23.199 align:start position:0%
+with Proxmox, then all similar solutions are
+ 
+
+00:07:23.199 --> 00:07:25.070 align:start position:0%
+with Proxmox, then all similar solutions are
+available <00:07:23.472><c>here </c><00:07:23.745><c>too.  </c><00:07:24.018><c>That </c><00:07:24.291><c>is, </c><00:07:24.564><c>it's </c><00:07:24.837><c>all</c>
+
+00:07:25.070 --> 00:07:25.080 align:start position:0%
+available here too.  That is, it's all
+ 
+
+00:07:25.080 --> 00:07:26.749 align:start position:0%
+available here too.  That is, it's all
+loaded <00:07:25.266><c>right </c><00:07:25.452><c>here </c><00:07:25.638><c>because </c><00:07:25.824><c>it's </c><00:07:26.010><c>a </c><00:07:26.196><c>free</c>
+
+00:07:26.749 --> 00:07:26.759 align:start position:0%
+loaded right here because it's a free
+ 
+
+00:07:26.759 --> 00:07:28.510 align:start position:0%
+loaded right here because it's a free
+note-taking <00:07:27.292><c>program.  </c><00:07:27.825><c>We </c><00:07:28.358><c>just</c>
+
+00:07:28.510 --> 00:07:28.520 align:start position:0%
+note-taking program.  We just
+ 
+
+00:07:28.520 --> 00:07:30.869 align:start position:0%
+note-taking program.  We just
+click <00:07:29.000><c>here, </c><00:07:29.480><c>then </c><00:07:29.960><c>scroll </c><00:07:30.440><c>down.</c>
+
+00:07:30.869 --> 00:07:30.879 align:start position:0%
+click here, then scroll down.
+ 
+
+00:07:30.879 --> 00:07:32.550 align:start position:0%
+click here, then scroll down.
+We <00:07:31.159><c>copy </c><00:07:31.439><c>just </c><00:07:31.719><c>one </c><00:07:31.999><c>command,</c>
+
+00:07:32.550 --> 00:07:32.560 align:start position:0%
+We copy just one command,
+ 
+
+00:07:32.560 --> 00:07:35.230 align:start position:0%
+We copy just one command,
+call <00:07:32.848><c>Prox </c><00:07:33.136><c>and </c><00:07:33.424><c>that's </c><00:07:33.712><c>it, </c><00:07:34.000><c>it's </c><00:07:34.288><c>deployed.  </c><00:07:34.576><c>And </c><00:07:34.864><c>this </c><00:07:35.152><c>is</c>
+
+00:07:35.230 --> 00:07:35.240 align:start position:0%
+call Prox and that's it, it's deployed.  And this is
+ 
+
+00:07:35.240 --> 00:07:37.670 align:start position:0%
+call Prox and that's it, it's deployed.  And this is
+just <00:07:35.500><c>a </c><00:07:35.760><c>piece </c><00:07:36.020><c>of </c><00:07:36.280><c>cake.  </c><00:07:36.540><c>Also, </c><00:07:36.800><c>besides,</c>
+
+00:07:37.670 --> 00:07:37.680 align:start position:0%
+just a piece of cake.  Also, besides,
+ 
+
+00:07:37.680 --> 00:07:39.550 align:start position:0%
+just a piece of cake.  Also, besides,
+there <00:07:37.920><c>is </c><00:07:38.160><c>this </c><00:07:38.400><c>program.  </c><00:07:38.640><c>This </c><00:07:38.880><c>is </c><00:07:39.120><c>already </c><00:07:39.360><c>app</c>
+
+00:07:39.550 --> 00:07:39.560 align:start position:0%
+there is this program.  This is already app
+ 
+
+00:07:39.560 --> 00:07:42.029 align:start position:0%
+there is this program.  This is already app
+flovy.  <00:07:39.822><c>And </c><00:07:40.084><c>in </c><00:07:40.346><c>fact, </c><00:07:40.608><c>it </c><00:07:40.870><c>is </c><00:07:41.132><c>already </c><00:07:41.394><c>exactly </c><00:07:41.656><c>the </c><00:07:41.918><c>same</c>
+
+00:07:42.029 --> 00:07:42.039 align:start position:0%
+flovy.  And in fact, it is already exactly the same
+ 
+
+00:07:42.039 --> 00:07:43.950 align:start position:0%
+flovy.  And in fact, it is already exactly the same
+.  <00:07:42.249><c>It </c><00:07:42.459><c>is </c><00:07:42.669><c>open </c><00:07:42.879><c>source.  </c><00:07:43.089><c>We </c><00:07:43.299><c>get </c><00:07:43.509><c>the </c><00:07:43.719><c>same</c>
+
+00:07:43.950 --> 00:07:43.960 align:start position:0%
+.  It is open source.  We get the same
+ 
+
+00:07:43.960 --> 00:07:46.149 align:start position:0%
+.  It is open source.  We get the same
+pages, <00:07:44.453><c>the </c><00:07:44.946><c>same </c><00:07:45.439><c>Wikipedia,</c>
+
+00:07:46.149 --> 00:07:46.159 align:start position:0%
+pages, the same Wikipedia,
+ 
+
+00:07:46.159 --> 00:07:48.189 align:start position:0%
+pages, the same Wikipedia,
+task <00:07:46.666><c>tracker, </c><00:07:47.173><c>different </c><00:07:47.680><c>databases,</c>
+
+00:07:48.189 --> 00:07:48.199 align:start position:0%
+task tracker, different databases,
+ 
+
+00:07:48.199 --> 00:07:50.830 align:start position:0%
+task tracker, different databases,
+Mardowns <00:07:48.499><c>and </c><00:07:48.799><c>everything </c><00:07:49.099><c>else.  </c><00:07:49.399><c>There </c><00:07:49.699><c>is </c><00:07:49.999><c>a </c><00:07:50.299><c>lot </c><00:07:50.599><c>of</c>
+
+00:07:50.830 --> 00:07:50.840 align:start position:0%
+Mardowns and everything else.  There is a lot of
+ 
+
+00:07:50.840 --> 00:07:52.869 align:start position:0%
+Mardowns and everything else.  There is a lot of
+functionality <00:07:51.102><c>here.  </c><00:07:51.364><c>The </c><00:07:51.626><c>application </c><00:07:51.888><c>is </c><00:07:52.150><c>open </c><00:07:52.412><c>source </c><00:07:52.674><c>and</c>
+
+00:07:52.869 --> 00:07:52.879 align:start position:0%
+functionality here.  The application is open source and
+ 
+
+00:07:52.879 --> 00:07:55.189 align:start position:0%
+functionality here.  The application is open source and
+can <00:07:53.145><c>be </c><00:07:53.411><c>easily </c><00:07:53.677><c>deployed </c><00:07:53.943><c>on </c><00:07:54.209><c>your </c><00:07:54.475><c>server</c>
+
+00:07:55.189 --> 00:07:55.199 align:start position:0%
+can be easily deployed on your server
+ 
+
+00:07:55.199 --> 00:07:57.309 align:start position:0%
+can be easily deployed on your server
+or <00:07:55.589><c>directly </c><00:07:55.979><c>on </c><00:07:56.369><c>your </c><00:07:56.759><c>PC,</c>
+
+00:07:57.309 --> 00:07:57.319 align:start position:0%
+or directly on your PC,
+ 
+
+00:07:57.319 --> 00:07:59.230 align:start position:0%
+or directly on your PC,
+making <00:07:57.619><c>use </c><00:07:57.919><c>of </c><00:07:58.219><c>its </c><00:07:58.519><c>capabilities.  </c><00:07:58.819><c>Personally, </c><00:07:59.119><c>I</c>
+
+00:07:59.230 --> 00:07:59.240 align:start position:0%
+making use of its capabilities.  Personally, I
+ 
+
+00:07:59.240 --> 00:08:00.830 align:start position:0%
+making use of its capabilities.  Personally, I
+continue <00:07:59.706><c>to </c><00:08:00.172><c>use </c><00:08:00.638><c>Obsidian</c>
+
+00:08:00.830 --> 00:08:00.840 align:start position:0%
+continue to use Obsidian
+ 
+
+00:08:00.840 --> 00:08:02.749 align:start position:0%
+continue to use Obsidian
+because <00:08:01.035><c>it </c><00:08:01.230><c>is </c><00:08:01.425><c>more </c><00:08:01.620><c>than </c><00:08:01.815><c>enough </c><00:08:02.010><c>for </c><00:08:02.205><c>me.  </c><00:08:02.400><c>If </c><00:08:02.595><c>you</c>
+
+00:08:02.749 --> 00:08:02.759 align:start position:0%
+because it is more than enough for me.  If you
+ 
+
+00:08:02.759 --> 00:08:04.710 align:start position:0%
+because it is more than enough for me.  If you
+prefer <00:08:03.292><c>Notion </c><00:08:03.825><c>and </c><00:08:04.358><c>want</c>
+
+00:08:04.710 --> 00:08:04.720 align:start position:0%
+prefer Notion and want
+ 
+
+00:08:04.720 --> 00:08:06.670 align:start position:0%
+prefer Notion and want
+more <00:08:05.140><c>security, </c><00:08:05.560><c>we'll </c><00:08:05.980><c>install </c><00:08:06.400><c>either</c>
+
+00:08:06.670 --> 00:08:06.680 align:start position:0%
+more security, we'll install either
+ 
+
+00:08:06.680 --> 00:08:08.990 align:start position:0%
+more security, we'll install either
+Appflow <00:08:06.977><c>or </c><00:08:07.274><c>Fine.  </c><00:08:07.571><c>This </c><00:08:07.868><c>will </c><00:08:08.165><c>be </c><00:08:08.462><c>a </c><00:08:08.759><c>truly</c>
+
+00:08:08.990 --> 00:08:09.000 align:start position:0%
+Appflow or Fine.  This will be a truly
+ 
+
+00:08:09.000 --> 00:08:10.990 align:start position:0%
+Appflow or Fine.  This will be a truly
+top-notch <00:08:09.351><c>solution.  </c><00:08:09.702><c>Next, </c><00:08:10.053><c>the </c><00:08:10.404><c>next </c><00:08:10.755><c>block</c>
+
+00:08:10.990 --> 00:08:11.000 align:start position:0%
+top-notch solution.  Next, the next block
+ 
+
+00:08:11.000 --> 00:08:12.950 align:start position:0%
+top-notch solution.  Next, the next block
+already <00:08:11.368><c>concerns </c><00:08:11.736><c>creativity.  </c><00:08:12.104><c>First </c><00:08:12.472><c>of </c><00:08:12.840><c>all,</c>
+
+00:08:12.950 --> 00:08:12.960 align:start position:0%
+already concerns creativity.  First of all,
+ 
+
+00:08:12.960 --> 00:08:15.270 align:start position:0%
+already concerns creativity.  First of all,
+I <00:08:13.320><c>highly </c><00:08:13.680><c>recommend </c><00:08:14.040><c>the </c><00:08:14.400><c>OBS </c><00:08:14.760><c>program </c><00:08:15.120><c>for</c>
+
+00:08:15.270 --> 00:08:15.280 align:start position:0%
+I highly recommend the OBS program for
+ 
+
+00:08:15.280 --> 00:08:17.230 align:start position:0%
+I highly recommend the OBS program for
+recording <00:08:15.773><c>your </c><00:08:16.266><c>screen, </c><00:08:16.759><c>dividing</c>
+
+00:08:17.230 --> 00:08:17.240 align:start position:0%
+recording your screen, dividing
+ 
+
+00:08:17.240 --> 00:08:19.029 align:start position:0%
+recording your screen, dividing
+it <00:08:17.511><c>all </c><00:08:17.782><c>into </c><00:08:18.053><c>scenes, </c><00:08:18.324><c>adding </c><00:08:18.595><c>some</c>
+
+00:08:19.029 --> 00:08:19.039 align:start position:0%
+it all into scenes, adding some
+ 
+
+00:08:19.039 --> 00:08:21.070 align:start position:0%
+it all into scenes, adding some
+effects, <00:08:19.319><c>and </c><00:08:19.599><c>everything </c><00:08:19.879><c>else.  </c><00:08:20.159><c>And </c><00:08:20.439><c>right </c><00:08:20.719><c>now </c><00:08:20.999><c>I'm</c>
+
+00:08:21.070 --> 00:08:21.080 align:start position:0%
+effects, and everything else.  And right now I'm
+ 
+
+00:08:21.080 --> 00:08:23.110 align:start position:0%
+effects, and everything else.  And right now I'm
+recording <00:08:21.333><c>my </c><00:08:21.586><c>video </c><00:08:21.839><c>on </c><00:08:22.092><c>that </c><00:08:22.345><c>same </c><00:08:22.598><c>OBS.</c>
+
+00:08:23.110 --> 00:08:23.120 align:start position:0%
+recording my video on that same OBS.
+ 
+
+00:08:23.120 --> 00:08:25.430 align:start position:0%
+recording my video on that same OBS.
+Proofs <00:08:23.365><c>are </c><00:08:23.610><c>needed.  </c><00:08:23.855><c>Here's </c><00:08:24.100><c>the </c><00:08:24.345><c>proof.  </c><00:08:24.590><c>We </c><00:08:24.835><c>get</c>
+
+00:08:25.430 --> 00:08:25.440 align:start position:0%
+Proofs are needed.  Here's the proof.  We get
+ 
+
+00:08:25.440 --> 00:08:27.869 align:start position:0%
+Proofs are needed.  Here's the proof.  We get
+the <00:08:25.733><c>setup.  </c><00:08:26.026><c>We </c><00:08:26.319><c>also </c><00:08:26.612><c>indicate </c><00:08:26.905><c>the </c><00:08:27.198><c>current</c>
+
+00:08:27.869 --> 00:08:27.879 align:start position:0%
+the setup.  We also indicate the current
+ 
+
+00:08:27.879 --> 00:08:30.070 align:start position:0%
+the setup.  We also indicate the current
+screen, <00:08:28.279><c>indicate </c><00:08:28.679><c>the </c><00:08:29.079><c>microphone, </c><00:08:29.479><c>and </c><00:08:29.879><c>turn</c>
+
+00:08:30.070 --> 00:08:30.080 align:start position:0%
+screen, indicate the microphone, and turn
+ 
+
+00:08:30.080 --> 00:08:32.430 align:start position:0%
+screen, indicate the microphone, and turn
+the <00:08:30.275><c>speakers </c><00:08:30.470><c>on </c><00:08:30.665><c>or </c><00:08:30.860><c>off.  </c><00:08:31.055><c>We </c><00:08:31.250><c>divide </c><00:08:31.445><c>everything </c><00:08:31.640><c>into </c><00:08:31.835><c>scenes,</c>
+
+00:08:32.430 --> 00:08:32.440 align:start position:0%
+the speakers on or off.  We divide everything into scenes,
+ 
+
+00:08:32.440 --> 00:08:34.350 align:start position:0%
+the speakers on or off.  We divide everything into scenes,
+you <00:08:32.691><c>can </c><00:08:32.942><c>stream, </c><00:08:33.193><c>turn </c><00:08:33.444><c>on </c><00:08:33.695><c>plugins </c><00:08:33.946><c>and </c><00:08:34.197><c>everything</c>
+
+00:08:34.350 --> 00:08:34.360 align:start position:0%
+you can stream, turn on plugins and everything
+ 
+
+00:08:34.360 --> 00:08:36.389 align:start position:0%
+you can stream, turn on plugins and everything
+else.  <00:08:34.599><c>This </c><00:08:34.838><c>is </c><00:08:35.077><c>necessary </c><00:08:35.316><c>not </c><00:08:35.555><c>only </c><00:08:35.794><c>for </c><00:08:36.033><c>bloggers, </c><00:08:36.272><c>but</c>
+
+00:08:36.389 --> 00:08:36.399 align:start position:0%
+else.  This is necessary not only for bloggers, but
+ 
+
+00:08:36.399 --> 00:08:38.029 align:start position:0%
+else.  This is necessary not only for bloggers, but
+perhaps <00:08:36.599><c>for </c><00:08:36.799><c>everyone, </c><00:08:36.999><c>because </c><00:08:37.199><c>sometimes </c><00:08:37.399><c>you </c><00:08:37.599><c>need </c><00:08:37.799><c>to</c>
+
+00:08:38.029 --> 00:08:38.039 align:start position:0%
+perhaps for everyone, because sometimes you need to
+ 
+
+00:08:38.039 --> 00:08:39.430 align:start position:0%
+perhaps for everyone, because sometimes you need to
+record <00:08:38.599><c>a </c><00:08:39.159><c>video,</c>
+
+00:08:39.430 --> 00:08:39.440 align:start position:0%
+record a video,
+ 
+
+00:08:39.440 --> 00:08:41.110 align:start position:0%
+record a video,
+show <00:08:39.680><c>something, </c><00:08:39.920><c>or </c><00:08:40.160><c>create </c><00:08:40.400><c>a </c><00:08:40.640><c>promotional </c><00:08:40.880><c>video</c>
+
+00:08:41.110 --> 00:08:41.120 align:start position:0%
+show something, or create a promotional video
+ 
+
+00:08:41.120 --> 00:08:43.110 align:start position:0%
+show something, or create a promotional video
+for <00:08:41.373><c>your </c><00:08:41.626><c>project, </c><00:08:41.879><c>for </c><00:08:42.132><c>sale </c><00:08:42.385><c>to </c><00:08:42.638><c>clients,</c>
+
+00:08:43.110 --> 00:08:43.120 align:start position:0%
+for your project, for sale to clients,
+ 
+
+00:08:43.120 --> 00:08:44.829 align:start position:0%
+for your project, for sale to clients,
+and <00:08:43.333><c>so </c><00:08:43.546><c>on.  </c><00:08:43.759><c>And </c><00:08:43.972><c>then </c><00:08:44.185><c>the </c><00:08:44.398><c>recorded</c>
+
+00:08:44.829 --> 00:08:44.839 align:start position:0%
+and so on.  And then the recorded
+ 
+
+00:08:44.839 --> 00:08:46.710 align:start position:0%
+and so on.  And then the recorded
+sound <00:08:45.151><c>needs </c><00:08:45.463><c>to </c><00:08:45.775><c>be </c><00:08:46.087><c>processed </c><00:08:46.399><c>somewhere.</c>
+
+00:08:46.710 --> 00:08:46.720 align:start position:0%
+sound needs to be processed somewhere.
+ 
+
+00:08:46.720 --> 00:08:48.550 align:start position:0%
+sound needs to be processed somewhere.
+Adobe <00:08:47.048><c>Audition </c><00:08:47.376><c>is </c><00:08:47.704><c>commonly </c><00:08:48.032><c>used, </c><00:08:48.360><c>but</c>
+
+00:08:48.550 --> 00:08:48.560 align:start position:0%
+Adobe Audition is commonly used, but
+ 
+
+00:08:48.560 --> 00:08:50.389 align:start position:0%
+Adobe Audition is commonly used, but
+Audacity <00:08:48.774><c>can </c><00:08:48.988><c>also </c><00:08:49.202><c>be </c><00:08:49.416><c>used </c><00:08:49.630><c>for </c><00:08:49.844><c>this.  </c><00:08:50.058><c>It </c><00:08:50.272><c>is</c>
+
+00:08:50.389 --> 00:08:50.399 align:start position:0%
+Audacity can also be used for this.  It is
+ 
+
+00:08:50.399 --> 00:08:52.150 align:start position:0%
+Audacity can also be used for this.  It is
+also <00:08:50.659><c>an </c><00:08:50.919><c>open </c><00:08:51.179><c>source </c><00:08:51.439><c>free </c><00:08:51.699><c>software </c><00:08:51.959><c>that</c>
+
+00:08:52.150 --> 00:08:52.160 align:start position:0%
+also an open source free software that
+ 
+
+00:08:52.160 --> 00:08:53.630 align:start position:0%
+also an open source free software that
+allows <00:08:52.373><c>you </c><00:08:52.586><c>to </c><00:08:52.799><c>write </c><00:08:53.012><c>sound.  </c><00:08:53.225><c>It </c><00:08:53.438><c>has</c>
+
+00:08:53.630 --> 00:08:53.640 align:start position:0%
+allows you to write sound.  It has
+ 
+
+00:08:53.640 --> 00:08:55.230 align:start position:0%
+allows you to write sound.  It has
+tons <00:08:53.960><c>of </c><00:08:54.280><c>effects </c><00:08:54.600><c>for </c><00:08:54.920><c>basic</c>
+
+00:08:55.230 --> 00:08:55.240 align:start position:0%
+tons of effects for basic
+ 
+
+00:08:55.240 --> 00:08:57.470 align:start position:0%
+tons of effects for basic
+editing <00:08:55.593><c>and </c><00:08:55.946><c>voice </c><00:08:56.299><c>processing.  </c><00:08:56.652><c>It </c><00:08:57.005><c>does </c><00:08:57.358><c>not</c>
+
+00:08:57.470 --> 00:08:57.480 align:start position:0%
+editing and voice processing.  It does not
+ 
+
+00:08:57.480 --> 00:08:59.470 align:start position:0%
+editing and voice processing.  It does not
+perform <00:08:57.695><c>in </c><00:08:57.910><c>any </c><00:08:58.125><c>way </c><00:08:58.340><c>like </c><00:08:58.555><c>Adob ​​</c><00:08:58.770><c>Audition </c><00:08:58.985><c>and </c><00:08:59.200><c>other</c>
+
+00:08:59.470 --> 00:08:59.480 align:start position:0%
+perform in any way like Adob ​​Audition and other
+ 
+
+00:08:59.480 --> 00:09:01.310 align:start position:0%
+perform in any way like Adob ​​Audition and other
+similar <00:08:59.733><c>POMs.  </c><00:08:59.986><c>If </c><00:09:00.239><c>you </c><00:09:00.492><c>pay </c><00:09:00.745><c>for </c><00:09:00.998><c>Adobe</c>
+
+00:09:01.310 --> 00:09:01.320 align:start position:0%
+similar POMs.  If you pay for Adobe
+ 
+
+00:09:01.320 --> 00:09:03.030 align:start position:0%
+similar POMs.  If you pay for Adobe
+Audition, <00:09:01.680><c>you </c><00:09:02.040><c>can </c><00:09:02.400><c>do </c><00:09:02.760><c>the</c>
+
+00:09:03.030 --> 00:09:03.040 align:start position:0%
+Audition, you can do the
+ 
+
+00:09:03.040 --> 00:09:05.030 align:start position:0%
+Audition, you can do the
+same <00:09:03.392><c>here </c><00:09:03.744><c>absolutely </c><00:09:04.096><c>free.  </c><00:09:04.448><c>Then </c><00:09:04.800><c>just</c>
+
+00:09:05.030 --> 00:09:05.040 align:start position:0%
+same here absolutely free.  Then just
+ 
+
+00:09:05.040 --> 00:09:06.509 align:start position:0%
+same here absolutely free.  Then just
+recently <00:09:05.299><c>I </c><00:09:05.558><c>found </c><00:09:05.817><c>a </c><00:09:06.076><c>program</c>
+
+00:09:06.509 --> 00:09:06.519 align:start position:0%
+recently I found a program
+ 
+
+00:09:06.519 --> 00:09:08.470 align:start position:0%
+recently I found a program
+called <00:09:06.939><c>C. </c><00:09:07.359><c>It's </c><00:09:07.779><c>just </c><00:09:08.199><c>a</c>
+
+00:09:08.470 --> 00:09:08.480 align:start position:0%
+called C. It's just a
+ 
+
+00:09:08.480 --> 00:09:10.350 align:start position:0%
+called C. It's just a
+piece <00:09:08.620><c>of </c><00:09:08.760><c>cake </c><00:09:08.900><c>here.  </c><00:09:09.040><c>If </c><00:09:09.180><c>we </c><00:09:09.320><c>record </c><00:09:09.460><c>a </c><00:09:09.600><c>video </c><00:09:09.740><c>in </c><00:09:09.880><c>Obsidian</c>
+
+00:09:10.350 --> 00:09:10.360 align:start position:0%
+piece of cake here.  If we record a video in Obsidian
+ 
+
+00:09:10.360 --> 00:09:12.350 align:start position:0%
+piece of cake here.  If we record a video in Obsidian
+and <00:09:10.622><c>then </c><00:09:10.884><c>need </c><00:09:11.146><c>to </c><00:09:11.408><c>edit </c><00:09:11.670><c>it, </c><00:09:11.932><c>then </c><00:09:12.194><c>the</c>
+
+00:09:12.350 --> 00:09:12.360 align:start position:0%
+and then need to edit it, then the
+ 
+
+00:09:12.360 --> 00:09:14.230 align:start position:0%
+and then need to edit it, then the
+final <00:09:12.574><c>editing </c><00:09:12.788><c>will </c><00:09:13.002><c>be </c><00:09:13.216><c>done </c><00:09:13.430><c>for </c><00:09:13.644><c>you.  </c><00:09:13.858><c>I </c><00:09:14.072><c>have</c>
+
+00:09:14.230 --> 00:09:14.240 align:start position:0%
+final editing will be done for you.  I have
+ 
+
+00:09:14.240 --> 00:09:15.829 align:start position:0%
+final editing will be done for you.  I have
+n't <00:09:14.445><c>added </c><00:09:14.650><c>it </c><00:09:14.855><c>to </c><00:09:15.060><c>my </c><00:09:15.265><c>videos </c><00:09:15.470><c>yet, </c><00:09:15.675><c>but</c>
+
+00:09:15.829 --> 00:09:15.839 align:start position:0%
+n't added it to my videos yet, but
+ 
+
+00:09:15.839 --> 00:09:17.550 align:start position:0%
+n't added it to my videos yet, but
+I <00:09:15.999><c>plan </c><00:09:16.159><c>to </c><00:09:16.319><c>do </c><00:09:16.479><c>so </c><00:09:16.639><c>later.  </c><00:09:16.799><c>The </c><00:09:16.959><c>whole </c><00:09:17.119><c>point </c><00:09:17.279><c>is</c>
+
+00:09:17.550 --> 00:09:17.560 align:start position:0%
+I plan to do so later.  The whole point is
+ 
+
+00:09:17.560 --> 00:09:19.350 align:start position:0%
+I plan to do so later.  The whole point is
+that <00:09:18.259><c>dynamic </c><00:09:18.958><c>video</c>
+
+00:09:19.350 --> 00:09:19.360 align:start position:0%
+that dynamic video
+ 
+
+00:09:19.360 --> 00:09:21.430 align:start position:0%
+that dynamic video
+always <00:09:19.679><c>requires </c><00:09:19.998><c>zooming </c><00:09:20.317><c>in, </c><00:09:20.636><c>zooming </c><00:09:20.955><c>out, </c><00:09:21.274><c>and</c>
+
+00:09:21.430 --> 00:09:21.440 align:start position:0%
+always requires zooming in, zooming out, and
+ 
+
+00:09:21.440 --> 00:09:23.269 align:start position:0%
+always requires zooming in, zooming out, and
+all <00:09:21.720><c>the </c><00:09:22.000><c>other </c><00:09:22.280><c>effects.  </c><00:09:22.560><c>I </c><00:09:22.840><c>think </c><00:09:23.120><c>you've</c>
+
+00:09:23.269 --> 00:09:23.279 align:start position:0%
+all the other effects.  I think you've
+ 
+
+00:09:23.279 --> 00:09:24.910 align:start position:0%
+all the other effects.  I think you've
+seen <00:09:23.525><c>similar </c><00:09:23.771><c>videos </c><00:09:24.017><c>on </c><00:09:24.263><c>YouTube </c><00:09:24.509><c>where </c><00:09:24.755><c>the</c>
+
+00:09:24.910 --> 00:09:24.920 align:start position:0%
+seen similar videos on YouTube where the
+ 
+
+00:09:24.920 --> 00:09:26.630 align:start position:0%
+seen similar videos on YouTube where the
+camera <00:09:25.102><c>is </c><00:09:25.284><c>turned </c><00:09:25.466><c>on, </c><00:09:25.648><c>also </c><00:09:25.830><c>the </c><00:09:26.012><c>screen </c><00:09:26.194><c>recording,</c>
+
+00:09:26.630 --> 00:09:26.640 align:start position:0%
+camera is turned on, also the screen recording,
+ 
+
+00:09:26.640 --> 00:09:28.310 align:start position:0%
+camera is turned on, also the screen recording,
+everything <00:09:27.000><c>automatically </c><00:09:27.360><c>zooms </c><00:09:27.720><c>out,</c>
+
+00:09:28.310 --> 00:09:28.320 align:start position:0%
+everything automatically zooms out,
+ 
+
+00:09:28.320 --> 00:09:30.030 align:start position:0%
+everything automatically zooms out,
+zooms <00:09:28.623><c>in, </c><00:09:28.926><c>and </c><00:09:29.229><c>so </c><00:09:29.532><c>on.  </c><00:09:29.835><c>So,</c>
+
+00:09:30.030 --> 00:09:30.040 align:start position:0%
+zooms in, and so on.  So,
+ 
+
+00:09:30.040 --> 00:09:32.110 align:start position:0%
+zooms in, and so on.  So,
+these <00:09:30.308><c>authors </c><00:09:30.576><c>don’t </c><00:09:30.844><c>do </c><00:09:31.112><c>it </c><00:09:31.380><c>by </c><00:09:31.648><c>hand, </c><00:09:31.916><c>they</c>
+
+00:09:32.110 --> 00:09:32.120 align:start position:0%
+these authors don’t do it by hand, they
+ 
+
+00:09:32.120 --> 00:09:34.069 align:start position:0%
+these authors don’t do it by hand, they
+just <00:09:32.354><c>record </c><00:09:32.588><c>the </c><00:09:32.822><c>video </c><00:09:33.056><c>in </c><00:09:33.290><c>one </c><00:09:33.524><c>take.  </c><00:09:33.758><c>Next,</c>
+
+00:09:34.069 --> 00:09:34.079 align:start position:0%
+just record the video in one take.  Next,
+ 
+
+00:09:34.079 --> 00:09:36.310 align:start position:0%
+just record the video in one take.  Next,
+these <00:09:34.299><c>zoom </c><00:09:34.519><c>in, </c><00:09:34.739><c>zoom </c><00:09:34.959><c>out </c><00:09:35.179><c>and </c><00:09:35.399><c>everything </c><00:09:35.619><c>else </c><00:09:35.839><c>are</c>
+
+00:09:36.310 --> 00:09:36.320 align:start position:0%
+these zoom in, zoom out and everything else are
+ 
+
+00:09:36.320 --> 00:09:37.910 align:start position:0%
+these zoom in, zoom out and everything else are
+set <00:09:36.680><c>automatically.  </c><00:09:37.040><c>Just </c><00:09:37.400><c>like </c><00:09:37.760><c>here</c>
+
+00:09:37.910 --> 00:09:37.920 align:start position:0%
+set automatically.  Just like here
+ 
+
+00:09:37.920 --> 00:09:39.590 align:start position:0%
+set automatically.  Just like here
+in <00:09:38.075><c>the </c><00:09:38.230><c>video.  </c><00:09:38.385><c>The </c><00:09:38.540><c>cursor </c><00:09:38.695><c>zooms </c><00:09:38.850><c>in </c><00:09:39.005><c>and </c><00:09:39.160><c>out</c>
+
+00:09:39.590 --> 00:09:39.600 align:start position:0%
+in the video.  The cursor zooms in and out
+ 
+
+00:09:39.600 --> 00:09:41.990 align:start position:0%
+in the video.  The cursor zooms in and out
+, <00:09:39.920><c>corners </c><00:09:40.240><c>and </c><00:09:40.560><c>roundings </c><00:09:40.880><c>are </c><00:09:41.200><c>added,</c>
+
+00:09:41.990 --> 00:09:42.000 align:start position:0%
+, corners and roundings are added,
+ 
+
+00:09:42.000 --> 00:09:43.590 align:start position:0%
+, corners and roundings are added,
+you <00:09:42.171><c>can </c><00:09:42.342><c>change </c><00:09:42.513><c>the </c><00:09:42.684><c>background, </c><00:09:42.855><c>set </c><00:09:43.026><c>a </c><00:09:43.197><c>different</c>
+
+00:09:43.590 --> 00:09:43.600 align:start position:0%
+you can change the background, set a different
+ 
+
+00:09:43.600 --> 00:09:45.630 align:start position:0%
+you can change the background, set a different
+wallpaper, <00:09:43.804><c>increase </c><00:09:44.008><c>the </c><00:09:44.212><c>volume </c><00:09:44.416><c>on </c><00:09:44.620><c>the </c><00:09:44.824><c>fly, </c><00:09:45.028><c>and </c><00:09:45.232><c>everything </c><00:09:45.436><c>else</c>
+
+00:09:45.630 --> 00:09:45.640 align:start position:0%
+wallpaper, increase the volume on the fly, and everything else
+ 
+
+00:09:45.640 --> 00:09:47.350 align:start position:0%
+wallpaper, increase the volume on the fly, and everything else
+.  <00:09:45.944><c>This </c><00:09:46.248><c>project </c><00:09:46.552><c>is </c><00:09:46.856><c>also </c><00:09:47.160><c>open</c>
+
+00:09:47.350 --> 00:09:47.360 align:start position:0%
+.  This project is also open
+ 
+
+00:09:47.360 --> 00:09:48.829 align:start position:0%
+.  This project is also open
+source.  <00:09:47.786><c>If </c><00:09:48.212><c>you're </c><00:09:48.638><c>making</c>
+
+00:09:48.829 --> 00:09:48.839 align:start position:0%
+source.  If you're making
+ 
+
+00:09:48.839 --> 00:09:50.590 align:start position:0%
+source.  If you're making
+YouTube <00:09:49.055><c>videos, </c><00:09:49.271><c>making </c><00:09:49.487><c>videos </c><00:09:49.703><c>for </c><00:09:49.919><c>clients,</c>
+
+00:09:50.590 --> 00:09:50.600 align:start position:0%
+YouTube videos, making videos for clients,
+ 
+
+00:09:50.600 --> 00:09:52.630 align:start position:0%
+YouTube videos, making videos for clients,
+reviewing <00:09:51.226><c>your </c><00:09:51.852><c>software, </c><00:09:52.478><c>maybe</c>
+
+00:09:52.630 --> 00:09:52.640 align:start position:0%
+reviewing your software, maybe
+ 
+
+00:09:52.640 --> 00:09:54.190 align:start position:0%
+reviewing your software, maybe
+selling <00:09:53.010><c>your </c><00:09:53.380><c>program, </c><00:09:53.750><c>or </c><00:09:54.120><c>just</c>
+
+00:09:54.190 --> 00:09:54.200 align:start position:0%
+selling your program, or just
+ 
+
+00:09:54.200 --> 00:09:55.870 align:start position:0%
+selling your program, or just
+need <00:09:54.480><c>to </c><00:09:54.760><c>film </c><00:09:55.040><c>something </c><00:09:55.320><c>beautiful,</c>
+
+00:09:55.870 --> 00:09:55.880 align:start position:0%
+need to film something beautiful,
+ 
+
+00:09:55.880 --> 00:09:57.949 align:start position:0%
+need to film something beautiful,
+this <00:09:56.186><c>software </c><00:09:56.492><c>is </c><00:09:56.798><c>a </c><00:09:57.104><c>blast.  </c><00:09:57.410><c>Next, </c><00:09:57.716><c>for</c>
+
+00:09:57.949 --> 00:09:57.959 align:start position:0%
+this software is a blast.  Next, for
+ 
+
+00:09:57.959 --> 00:09:59.949 align:start position:0%
+this software is a blast.  Next, for
+productivity, <00:09:58.271><c>I </c><00:09:58.583><c>will </c><00:09:58.895><c>also </c><00:09:59.207><c>add </c><00:09:59.519><c>the</c>
+
+00:09:59.949 --> 00:09:59.959 align:start position:0%
+productivity, I will also add the
+ 
+
+00:09:59.959 --> 00:10:02.670 align:start position:0%
+productivity, I will also add the
+Hy <00:10:00.109><c>program.  </c><00:10:00.259><c>Here </c><00:10:00.409><c>is </c><00:10:00.559><c>the </c><00:10:00.709><c>HY </c><00:10:00.859><c>program </c><00:10:01.009><c>- </c><00:10:01.159><c>it's </c><00:10:01.309><c>a </c><00:10:01.459><c>piece </c><00:10:01.609><c>of </c><00:10:01.759><c>cake.</c>
+
+00:10:02.670 --> 00:10:02.680 align:start position:0%
+Hy program.  Here is the HY program - it's a piece of cake.
+ 
+
+00:10:02.680 --> 00:10:04.550 align:start position:0%
+Hy program.  Here is the HY program - it's a piece of cake.
+If <00:10:02.925><c>you </c><00:10:03.170><c>previously </c><00:10:03.415><c>wrote </c><00:10:03.660><c>text </c><00:10:03.905><c>by </c><00:10:04.150><c>hand, </c><00:10:04.395><c>then</c>
+
+00:10:04.550 --> 00:10:04.560 align:start position:0%
+If you previously wrote text by hand, then
+ 
+
+00:10:04.560 --> 00:10:06.670 align:start position:0%
+If you previously wrote text by hand, then
+HnI <00:10:04.817><c>allows </c><00:10:05.074><c>you </c><00:10:05.331><c>to </c><00:10:05.588><c>dictate </c><00:10:05.845><c>it </c><00:10:06.102><c>all.  </c><00:10:06.359><c>Moreover,</c>
+
+00:10:06.670 --> 00:10:06.680 align:start position:0%
+HnI allows you to dictate it all.  Moreover,
+ 
+
+00:10:06.680 --> 00:10:08.470 align:start position:0%
+HnI allows you to dictate it all.  Moreover,
+it <00:10:06.984><c>extracts </c><00:10:07.288><c>text </c><00:10:07.592><c>very </c><00:10:07.896><c>cool, </c><00:10:08.200><c>puts</c>
+
+00:10:08.470 --> 00:10:08.480 align:start position:0%
+it extracts text very cool, puts
+ 
+
+00:10:08.480 --> 00:10:10.030 align:start position:0%
+it extracts text very cool, puts
+commas, <00:10:08.840><c>puts </c><00:10:09.200><c>other </c><00:10:09.560><c>marks </c><00:10:09.920><c>and</c>
+
+00:10:10.030 --> 00:10:10.040 align:start position:0%
+commas, puts other marks and
+ 
+
+00:10:10.040 --> 00:10:11.670 align:start position:0%
+commas, puts other marks and
+punctuation <00:10:10.304><c>and </c><00:10:10.568><c>produces </c><00:10:10.832><c>a </c><00:10:11.096><c>very </c><00:10:11.360><c>cool</c>
+
+00:10:11.670 --> 00:10:11.680 align:start position:0%
+punctuation and produces a very cool
+ 
+
+00:10:11.680 --> 00:10:13.230 align:start position:0%
+punctuation and produces a very cool
+result.  <00:10:11.845><c>I'm </c><00:10:12.010><c>putting </c><00:10:12.175><c>up </c><00:10:12.340><c>a </c><00:10:12.505><c>video </c><00:10:12.670><c>of </c><00:10:12.835><c>my</c>
+
+00:10:13.230 --> 00:10:13.240 align:start position:0%
+result.  I'm putting up a video of my
+ 
+
+00:10:13.240 --> 00:10:15.030 align:start position:0%
+result.  I'm putting up a video of my
+workflow <00:10:13.426><c>on </c><00:10:13.612><c>a </c><00:10:13.798><c>Mac.  </c><00:10:13.984><c>If </c><00:10:14.170><c>you </c><00:10:14.356><c>use</c>
+
+00:10:15.030 --> 00:10:15.040 align:start position:0%
+workflow on a Mac.  If you use
+ 
+
+00:10:15.040 --> 00:10:16.670 align:start position:0%
+workflow on a Mac.  If you use
+neural <00:10:15.273><c>networks, </c><00:10:15.506><c>then </c><00:10:15.739><c>through </c><00:10:15.972><c>Hndi </c><00:10:16.205><c>you </c><00:10:16.438><c>simply</c>
+
+00:10:16.670 --> 00:10:16.680 align:start position:0%
+neural networks, then through Hndi you simply
+ 
+
+00:10:16.680 --> 00:10:18.310 align:start position:0%
+neural networks, then through Hndi you simply
+dictate <00:10:16.926><c>the </c><00:10:17.172><c>prompt </c><00:10:17.418><c>to </c><00:10:17.664><c>him.  </c><00:10:17.910><c>And </c><00:10:18.156><c>this</c>
+
+00:10:18.310 --> 00:10:18.320 align:start position:0%
+dictate the prompt to him.  And this
+ 
+
+00:10:18.320 --> 00:10:20.190 align:start position:0%
+dictate the prompt to him.  And this
+works <00:10:18.606><c>everywhere, </c><00:10:18.892><c>in </c><00:10:19.178><c>any </c><00:10:19.464><c>input </c><00:10:19.750><c>field.  </c><00:10:20.036><c>You</c>
+
+00:10:20.190 --> 00:10:20.200 align:start position:0%
+works everywhere, in any input field.  You
+ 
+
+00:10:20.200 --> 00:10:22.150 align:start position:0%
+works everywhere, in any input field.  You
+can <00:10:20.496><c>reply </c><00:10:20.792><c>to </c><00:10:21.088><c>telegrams </c><00:10:21.384><c>using </c><00:10:21.680><c>Handy,</c>
+
+00:10:22.150 --> 00:10:22.160 align:start position:0%
+can reply to telegrams using Handy,
+ 
+
+00:10:22.160 --> 00:10:24.030 align:start position:0%
+can reply to telegrams using Handy,
+write <00:10:22.384><c>queries </c><00:10:22.608><c>in </c><00:10:22.832><c>the </c><00:10:23.056><c>browser, </c><00:10:23.280><c>or </c><00:10:23.504><c>queries </c><00:10:23.728><c>to </c><00:10:23.952><c>the</c>
+
+00:10:24.030 --> 00:10:24.040 align:start position:0%
+write queries in the browser, or queries to the
+ 
+
+00:10:24.040 --> 00:10:26.190 align:start position:0%
+write queries in the browser, or queries to the
+GP <00:10:24.320><c>section </c><00:10:24.600><c>using </c><00:10:24.880><c>Handy.  </c><00:10:25.160><c>And </c><00:10:25.440><c>in </c><00:10:25.720><c>general, </c><00:10:26.000><c>anywhere</c>
+
+00:10:26.190 --> 00:10:26.200 align:start position:0%
+GP section using Handy.  And in general, anywhere
+ 
+
+00:10:26.200 --> 00:10:27.990 align:start position:0%
+GP section using Handy.  And in general, anywhere
+.  <00:10:26.472><c>My </c><00:10:26.744><c>typing </c><00:10:27.016><c>speed </c><00:10:27.288><c>is </c><00:10:27.560><c>about</c>
+
+00:10:27.990 --> 00:10:28.000 align:start position:0%
+.  My typing speed is about
+ 
+
+00:10:28.000 --> 00:10:29.870 align:start position:0%
+.  My typing speed is about
+100 <00:10:28.300><c>words </c><00:10:28.600><c>per </c><00:10:28.900><c>minute.  </c><00:10:29.200><c>Using </c><00:10:29.500><c>Handy, </c><00:10:29.800><c>I</c>
+
+00:10:29.870 --> 00:10:29.880 align:start position:0%
+100 words per minute.  Using Handy, I
+ 
+
+00:10:29.880 --> 00:10:31.790 align:start position:0%
+100 words per minute.  Using Handy, I
+still <00:10:30.220><c>write </c><00:10:30.560><c>faster.  </c><00:10:30.900><c>This </c><00:10:31.240><c>has</c>
+
+00:10:31.790 --> 00:10:31.800 align:start position:0%
+still write faster.  This has
+ 
+
+00:10:31.800 --> 00:10:33.710 align:start position:0%
+still write faster.  This has
+probably <00:10:32.013><c>saved </c><00:10:32.226><c>me </c><00:10:32.439><c>hours </c><00:10:32.652><c>of </c><00:10:32.865><c>time </c><00:10:33.078><c>already.</c>
+
+00:10:33.710 --> 00:10:33.720 align:start position:0%
+probably saved me hours of time already.
+ 
+
+00:10:33.720 --> 00:10:35.509 align:start position:0%
+probably saved me hours of time already.
+I <00:10:33.900><c>also </c><00:10:34.080><c>advise </c><00:10:34.260><c>you </c><00:10:34.440><c>to </c><00:10:34.620><c>try </c><00:10:34.800><c>this.</c>
+
+00:10:35.509 --> 00:10:35.519 align:start position:0%
+I also advise you to try this.
+ 
+
+00:10:35.519 --> 00:10:37.550 align:start position:0%
+I also advise you to try this.
+I'm <00:10:35.895><c>also </c><00:10:36.271><c>using </c><00:10:36.647><c>Ranger </c><00:10:37.023><c>now.  </c><00:10:37.399><c>It</c>
+
+00:10:37.550 --> 00:10:37.560 align:start position:0%
+I'm also using Ranger now.  It
+ 
+
+00:10:37.560 --> 00:10:39.509 align:start position:0%
+I'm also using Ranger now.  It
+allows <00:10:37.840><c>us </c><00:10:38.120><c>to </c><00:10:38.400><c>very </c><00:10:38.680><c>quickly </c><00:10:38.960><c>open </c><00:10:39.240><c>a</c>
+
+00:10:39.509 --> 00:10:39.519 align:start position:0%
+allows us to very quickly open a
+ 
+
+00:10:39.519 --> 00:10:41.190 align:start position:0%
+allows us to very quickly open a
+window <00:10:39.732><c>like </c><00:10:39.945><c>this, </c><00:10:40.158><c>where </c><00:10:40.371><c>we </c><00:10:40.584><c>essentially </c><00:10:40.797><c>gain</c>
+
+00:10:41.190 --> 00:10:41.200 align:start position:0%
+window like this, where we essentially gain
+ 
+
+00:10:41.200 --> 00:10:43.190 align:start position:0%
+window like this, where we essentially gain
+access <00:10:41.486><c>to </c><00:10:41.772><c>the </c><00:10:42.058><c>file </c><00:10:42.344><c>system, </c><00:10:42.630><c>can </c><00:10:42.916><c>very</c>
+
+00:10:43.190 --> 00:10:43.200 align:start position:0%
+access to the file system, can very
+ 
+
+00:10:43.200 --> 00:10:44.870 align:start position:0%
+access to the file system, can very
+quickly <00:10:43.653><c>navigate </c><00:10:44.106><c>through </c><00:10:44.559><c>different</c>
+
+00:10:44.870 --> 00:10:44.880 align:start position:0%
+quickly navigate through different
+ 
+
+00:10:44.880 --> 00:10:46.910 align:start position:0%
+quickly navigate through different
+directories, <00:10:45.216><c>view </c><00:10:45.552><c>the </c><00:10:45.888><c>contents </c><00:10:46.224><c>of </c><00:10:46.560><c>files,</c>
+
+00:10:46.910 --> 00:10:46.920 align:start position:0%
+directories, view the contents of files,
+ 
+
+00:10:46.920 --> 00:10:48.550 align:start position:0%
+directories, view the contents of files,
+and <00:10:47.114><c>so </c><00:10:47.308><c>on.  </c><00:10:47.502><c>We </c><00:10:47.696><c>can </c><00:10:47.890><c>easily </c><00:10:48.084><c>find </c><00:10:48.278><c>the</c>
+
+00:10:48.550 --> 00:10:48.560 align:start position:0%
+and so on.  We can easily find the
+ 
+
+00:10:48.560 --> 00:10:49.910 align:start position:0%
+and so on.  We can easily find the
+file <00:10:48.737><c>we </c><00:10:48.914><c>need.  </c><00:10:49.091><c>If </c><00:10:49.268><c>necessary, </c><00:10:49.445><c>we </c><00:10:49.622><c>go </c><00:10:49.799><c>and</c>
+
+00:10:49.910 --> 00:10:49.920 align:start position:0%
+file we need.  If necessary, we go and
+ 
+
+00:10:49.920 --> 00:10:51.870 align:start position:0%
+file we need.  If necessary, we go and
+edit, <00:10:50.506><c>go </c><00:10:51.092><c>back </c><00:10:51.678><c>and</c>
+
+00:10:51.870 --> 00:10:51.880 align:start position:0%
+edit, go back and
+ 
+
+00:10:51.880 --> 00:10:53.670 align:start position:0%
+edit, go back and
+find <00:10:52.075><c>files </c><00:10:52.270><c>very </c><00:10:52.465><c>quickly.  </c><00:10:52.660><c>But </c><00:10:52.855><c>it </c><00:10:53.050><c>was </c><00:10:53.245><c>replaced </c><00:10:53.440><c>by</c>
+
+00:10:53.670 --> 00:10:53.680 align:start position:0%
+find files very quickly.  But it was replaced by
+ 
+
+00:10:53.680 --> 00:10:55.790 align:start position:0%
+find files very quickly.  But it was replaced by
+IAsia.  <00:10:53.902><c>It's </c><00:10:54.124><c>already </c><00:10:54.346><c>written </c><00:10:54.568><c>in </c><00:10:54.790><c>a </c><00:10:55.012><c>single </c><00:10:55.234><c>step, </c><00:10:55.456><c>it's </c><00:10:55.678><c>several</c>
+
+00:10:55.790 --> 00:10:55.800 align:start position:0%
+IAsia.  It's already written in a single step, it's several
+ 
+
+00:10:55.800 --> 00:10:57.590 align:start position:0%
+IAsia.  It's already written in a single step, it's several
+times <00:10:56.095><c>faster, </c><00:10:56.390><c>you </c><00:10:56.685><c>can </c><00:10:56.980><c>immediately </c><00:10:57.275><c>display</c>
+
+00:10:57.590 --> 00:10:57.600 align:start position:0%
+times faster, you can immediately display
+ 
+
+00:10:57.600 --> 00:10:59.590 align:start position:0%
+times faster, you can immediately display
+covers, <00:10:58.019><c>documents, </c><00:10:58.438><c>and </c><00:10:58.857><c>all </c><00:10:59.276><c>other</c>
+
+00:10:59.590 --> 00:10:59.600 align:start position:0%
+covers, documents, and all other
+ 
+
+00:10:59.600 --> 00:11:01.629 align:start position:0%
+covers, documents, and all other
+data <00:11:00.093><c>directly </c><00:11:00.586><c>in </c><00:11:01.079><c>the</c>
+
+00:11:01.629 --> 00:11:01.639 align:start position:0%
+data directly in the
+ 
+
+00:11:01.639 --> 00:11:03.470 align:start position:0%
+data directly in the
+application <00:11:01.825><c>interface.  </c><00:11:02.011><c>There </c><00:11:02.197><c>are </c><00:11:02.383><c>also </c><00:11:02.569><c>plenty </c><00:11:02.755><c>of </c><00:11:02.941><c>search </c><00:11:03.127><c>features </c><00:11:03.313><c>there</c>
+
+00:11:03.470 --> 00:11:03.480 align:start position:0%
+application interface.  There are also plenty of search features there
+ 
+
+00:11:03.480 --> 00:11:05.310 align:start position:0%
+application interface.  There are also plenty of search features there
+.  <00:11:03.720><c>Right </c><00:11:03.960><c>from </c><00:11:04.200><c>here </c><00:11:04.440><c>you </c><00:11:04.680><c>can </c><00:11:04.920><c>delete,</c>
+
+00:11:05.310 --> 00:11:05.320 align:start position:0%
+.  Right from here you can delete,
+ 
+
+00:11:05.320 --> 00:11:06.710 align:start position:0%
+.  Right from here you can delete,
+create <00:11:05.580><c>new </c><00:11:05.840><c>files, </c><00:11:06.100><c>create </c><00:11:06.360><c>a</c>
+
+00:11:06.710 --> 00:11:06.720 align:start position:0%
+create new files, create a
+ 
+
+00:11:06.720 --> 00:11:08.750 align:start position:0%
+create new files, create a
+directory, <00:11:06.942><c>and </c><00:11:07.164><c>so </c><00:11:07.386><c>on.  </c><00:11:07.608><c>Once </c><00:11:07.830><c>you </c><00:11:08.052><c>master </c><00:11:08.274><c>it,</c>
+
+00:11:08.750 --> 00:11:08.760 align:start position:0%
+directory, and so on.  Once you master it,
+ 
+
+00:11:08.760 --> 00:11:10.590 align:start position:0%
+directory, and so on.  Once you master it,
+you'll <00:11:08.965><c>be </c><00:11:09.170><c>able </c><00:11:09.375><c>to </c><00:11:09.580><c>fly </c><00:11:09.785><c>through </c><00:11:09.990><c>the </c><00:11:10.195><c>file</c>
+
+00:11:10.590 --> 00:11:10.600 align:start position:0%
+you'll be able to fly through the file
+ 
+
+00:11:10.600 --> 00:11:12.230 align:start position:0%
+you'll be able to fly through the file
+system <00:11:11.200><c>and </c><00:11:11.800><c>perform</c>
+
+00:11:12.230 --> 00:11:12.240 align:start position:0%
+system and perform
+ 
+
+00:11:12.240 --> 00:11:13.910 align:start position:0%
+system and perform
+routine <00:11:12.420><c>tasks </c><00:11:12.600><c>much </c><00:11:12.780><c>faster.  </c><00:11:12.960><c>This </c><00:11:13.140><c>is </c><00:11:13.320><c>exactly </c><00:11:13.500><c>what </c><00:11:13.680><c>I'm</c>
+
+00:11:13.910 --> 00:11:13.920 align:start position:0%
+routine tasks much faster.  This is exactly what I'm
+ 
+
+00:11:13.920 --> 00:11:15.230 align:start position:0%
+routine tasks much faster.  This is exactly what I'm
+planning <00:11:14.190><c>to </c><00:11:14.460><c>install, </c><00:11:14.730><c>because </c><00:11:15.000><c>right</c>
+
+00:11:15.230 --> 00:11:15.240 align:start position:0%
+planning to install, because right
+ 
+
+00:11:15.240 --> 00:11:17.110 align:start position:0%
+planning to install, because right
+now <00:11:15.491><c>I'm </c><00:11:15.742><c>using </c><00:11:15.993><c>it </c><00:11:16.244><c>on </c><00:11:16.495><c>NXOS, </c><00:11:16.746><c>but </c><00:11:16.997><c>on</c>
+
+00:11:17.110 --> 00:11:17.120 align:start position:0%
+now I'm using it on NXOS, but on
+ 
+
+00:11:17.120 --> 00:11:18.670 align:start position:0%
+now I'm using it on NXOS, but on
+Arch <00:11:17.326><c>I </c><00:11:17.532><c>still </c><00:11:17.738><c>have </c><00:11:17.944><c>Ranger.  </c><00:11:18.150><c>The </c><00:11:18.356><c>next</c>
+
+00:11:18.670 --> 00:11:18.680 align:start position:0%
+Arch I still have Ranger.  The next
+ 
+
+00:11:18.680 --> 00:11:20.629 align:start position:0%
+Arch I still have Ranger.  The next
+tool <00:11:19.090><c>I </c><00:11:19.500><c>really </c><00:11:19.910><c>love </c><00:11:20.320><c>is</c>
+
+00:11:20.629 --> 00:11:20.639 align:start position:0%
+tool I really love is
+ 
+
+00:11:20.639 --> 00:11:22.670 align:start position:0%
+tool I really love is
+Alacam.  <00:11:20.907><c>What </c><00:11:21.175><c>is </c><00:11:21.443><c>it, </c><00:11:21.711><c>actually?  </c><00:11:21.979><c>This </c><00:11:22.247><c>is </c><00:11:22.515><c>the</c>
+
+00:11:22.670 --> 00:11:22.680 align:start position:0%
+Alacam.  What is it, actually?  This is the
+ 
+
+00:11:22.680 --> 00:11:24.269 align:start position:0%
+Alacam.  What is it, actually?  This is the
+current <00:11:23.050><c>terminal </c><00:11:23.420><c>in </c><00:11:23.790><c>which </c><00:11:24.160><c>I</c>
+
+00:11:24.269 --> 00:11:24.279 align:start position:0%
+current terminal in which I
+ 
+
+00:11:24.279 --> 00:11:26.509 align:start position:0%
+current terminal in which I
+write <00:11:24.599><c>commands.  </c><00:11:24.919><c>It </c><00:11:25.239><c>is </c><00:11:25.559><c>cross-platform,</c>
+
+00:11:26.509 --> 00:11:26.519 align:start position:0%
+write commands.  It is cross-platform,
+ 
+
+00:11:26.519 --> 00:11:28.190 align:start position:0%
+write commands.  It is cross-platform,
+easy <00:11:26.699><c>to </c><00:11:26.879><c>set </c><00:11:27.059><c>up, </c><00:11:27.239><c>and </c><00:11:27.419><c>has </c><00:11:27.599><c>a </c><00:11:27.779><c>lot </c><00:11:27.959><c>of</c>
+
+00:11:28.190 --> 00:11:28.200 align:start position:0%
+easy to set up, and has a lot of
+ 
+
+00:11:28.200 --> 00:11:30.230 align:start position:0%
+easy to set up, and has a lot of
+customization <00:11:29.320><c>options.</c>
+
+00:11:30.230 --> 00:11:30.240 align:start position:0%
+customization options.
+ 
+
+00:11:30.240 --> 00:11:31.949 align:start position:0%
+customization options.
+There <00:11:30.451><c>is </c><00:11:30.662><c>also </c><00:11:30.873><c>support </c><00:11:31.084><c>for </c><00:11:31.295><c>different </c><00:11:31.506><c>themes.  </c><00:11:31.717><c>The</c>
+
+00:11:31.949 --> 00:11:31.959 align:start position:0%
+There is also support for different themes.  The
+ 
+
+00:11:31.959 --> 00:11:33.190 align:start position:0%
+There is also support for different themes.  The
+conflict <00:11:32.127><c>itself </c><00:11:32.295><c>is </c><00:11:32.463><c>roughly </c><00:11:32.631><c>like </c><00:11:32.799><c>this.</c>
+
+00:11:33.190 --> 00:11:33.200 align:start position:0%
+conflict itself is roughly like this.
+ 
+
+00:11:33.200 --> 00:11:34.790 align:start position:0%
+conflict itself is roughly like this.
+It <00:11:33.319><c>can </c><00:11:33.438><c>be </c><00:11:33.557><c>set </c><00:11:33.676><c>up </c><00:11:33.795><c>in </c><00:11:33.914><c>just </c><00:11:34.033><c>a </c><00:11:34.152><c>couple </c><00:11:34.271><c>of </c><00:11:34.390><c>minutes.</c>
+
+00:11:34.790 --> 00:11:34.800 align:start position:0%
+It can be set up in just a couple of minutes.
+ 
+
+00:11:34.800 --> 00:11:36.150 align:start position:0%
+It can be set up in just a couple of minutes.
+Everything <00:11:35.213><c>works </c><00:11:35.626><c>stably, </c><00:11:36.039><c>nothing</c>
+
+00:11:36.150 --> 00:11:36.160 align:start position:0%
+Everything works stably, nothing
+ 
+
+00:11:36.160 --> 00:11:38.350 align:start position:0%
+Everything works stably, nothing
+crashes, <00:11:36.813><c>freezes, </c><00:11:37.466><c>etc.  </c><00:11:38.119><c>Also</c>
+
+00:11:38.350 --> 00:11:38.360 align:start position:0%
+crashes, freezes, etc.  Also
+ 
+
+00:11:38.360 --> 00:11:40.310 align:start position:0%
+crashes, freezes, etc.  Also
+constant <00:11:38.690><c>commits, </c><00:11:39.020><c>bug </c><00:11:39.350><c>fixes.   </c><00:11:39.680><c>It</c>
+
+00:11:40.310 --> 00:11:40.320 align:start position:0%
+constant commits, bug fixes.   It
+ 
+
+00:11:40.320 --> 00:11:42.350 align:start position:0%
+constant commits, bug fixes.   It
+also <00:11:40.525><c>has </c><00:11:40.730><c>a </c><00:11:40.935><c>lot </c><00:11:41.140><c>of </c><00:11:41.345><c>functions </c><00:11:41.550><c>like </c><00:11:41.755><c>opening</c>
+
+00:11:42.350 --> 00:11:42.360 align:start position:0%
+also has a lot of functions like opening
+ 
+
+00:11:42.360 --> 00:11:44.670 align:start position:0%
+also has a lot of functions like opening
+links, <00:11:43.026><c>quick </c><00:11:43.692><c>navigation, </c><00:11:44.358><c>various</c>
+
+00:11:44.670 --> 00:11:44.680 align:start position:0%
+links, quick navigation, various
+ 
+
+00:11:44.680 --> 00:11:47.190 align:start position:0%
+links, quick navigation, various
+hot <00:11:45.190><c>keys, </c><00:11:45.700><c>searching, </c><00:11:46.210><c>then </c><00:11:46.720><c>hints</c>
+
+00:11:47.190 --> 00:11:47.200 align:start position:0%
+hot keys, searching, then hints
+ 
+
+00:11:47.200 --> 00:11:49.190 align:start position:0%
+hot keys, searching, then hints
+and <00:11:47.382><c>everything </c><00:11:47.564><c>else.  </c><00:11:47.746><c>There </c><00:11:47.928><c>are </c><00:11:48.110><c>really </c><00:11:48.292><c>a </c><00:11:48.474><c>lot </c><00:11:48.656><c>of </c><00:11:48.838><c>cool</c>
+
+00:11:49.190 --> 00:11:49.200 align:start position:0%
+and everything else.  There are really a lot of cool
+ 
+
+00:11:49.200 --> 00:11:50.590 align:start position:0%
+and everything else.  There are really a lot of cool
+features <00:11:49.499><c>here.  </c><00:11:49.798><c>I </c><00:11:50.097><c>recommend </c><00:11:50.396><c>you</c>
+
+00:11:50.590 --> 00:11:50.600 align:start position:0%
+features here.  I recommend you
+ 
+
+00:11:50.600 --> 00:11:51.870 align:start position:0%
+features here.  I recommend you
+try <00:11:50.759><c>it </c><00:11:50.918><c>too.  </c><00:11:51.077><c>If </c><00:11:51.236><c>you </c><00:11:51.395><c>use,</c>
+
+00:11:51.870 --> 00:11:51.880 align:start position:0%
+try it too.  If you use,
+ 
+
+00:11:51.880 --> 00:11:54.069 align:start position:0%
+try it too.  If you use,
+say, <00:11:52.480><c>Kitty </c><00:11:53.080><c>or </c><00:11:53.680><c>other</c>
+
+00:11:54.069 --> 00:11:54.079 align:start position:0%
+say, Kitty or other
+ 
+
+00:11:54.079 --> 00:11:55.750 align:start position:0%
+say, Kitty or other
+terminal <00:11:54.292><c>options, </c><00:11:54.505><c>then </c><00:11:54.718><c>write </c><00:11:54.931><c>in </c><00:11:55.144><c>the </c><00:11:55.357><c>comments</c>
+
+00:11:55.750 --> 00:11:55.760 align:start position:0%
+terminal options, then write in the comments
+ 
+
+00:11:55.760 --> 00:11:57.350 align:start position:0%
+terminal options, then write in the comments
+what <00:11:55.946><c>exactly </c><00:11:56.132><c>you </c><00:11:56.318><c>use </c><00:11:56.504><c>and </c><00:11:56.690><c>why.   </c><00:11:56.876><c>The</c>
+
+00:11:57.350 --> 00:11:57.360 align:start position:0%
+what exactly you use and why.   The
+ 
+
+00:11:57.360 --> 00:11:58.870 align:start position:0%
+what exactly you use and why.   The
+next <00:11:57.648><c>topic </c><00:11:57.936><c>I'll </c><00:11:58.224><c>show </c><00:11:58.512><c>you </c><00:11:58.800><c>is</c>
+
+00:11:58.870 --> 00:11:58.880 align:start position:0%
+next topic I'll show you is
+ 
+
+00:11:58.880 --> 00:12:00.750 align:start position:0%
+next topic I'll show you is
+simply <00:11:59.310><c>mind-blowing.  </c><00:11:59.740><c>Right </c><00:12:00.170><c>now </c><00:12:00.600><c>I'm</c>
+
+00:12:00.750 --> 00:12:00.760 align:start position:0%
+simply mind-blowing.  Right now I'm
+ 
+
+00:12:00.760 --> 00:12:03.069 align:start position:0%
+simply mind-blowing.  Right now I'm
+using <00:12:01.033><c>Rofi, </c><00:12:01.306><c>but </c><00:12:01.579><c>on </c><00:12:01.852><c>my </c><00:12:02.125><c>NX </c><00:12:02.398><c>shell</c>
+
+00:12:03.069 --> 00:12:03.079 align:start position:0%
+using Rofi, but on my NX shell
+ 
+
+00:12:03.079 --> 00:12:04.829 align:start position:0%
+using Rofi, but on my NX shell
+I <00:12:03.399><c>add </c><00:12:03.719><c>the </c><00:12:04.039><c>most </c><00:12:04.359><c>up-to-date</c>
+
+00:12:04.829 --> 00:12:04.839 align:start position:0%
+I add the most up-to-date
+ 
+
+00:12:04.839 --> 00:12:06.509 align:start position:0%
+I add the most up-to-date
+tools <00:12:05.159><c>that </c><00:12:05.479><c>are </c><00:12:05.799><c>the </c><00:12:06.119><c>newest,</c>
+
+00:12:06.509 --> 00:12:06.519 align:start position:0%
+tools that are the newest,
+ 
+
+00:12:06.519 --> 00:12:08.069 align:start position:0%
+tools that are the newest,
+fastest, <00:12:06.702><c>and </c><00:12:06.885><c>so </c><00:12:07.068><c>on.  </c><00:12:07.251><c>So, </c><00:12:07.434><c>I </c><00:12:07.617><c>found </c><00:12:07.800><c>the</c>
+
+00:12:08.069 --> 00:12:08.079 align:start position:0%
+fastest, and so on.  So, I found the
+ 
+
+00:12:08.079 --> 00:12:09.990 align:start position:0%
+fastest, and so on.  So, I found the
+current <00:12:08.264><c>project.  </c><00:12:08.449><c>In </c><00:12:08.634><c>essence, </c><00:12:08.819><c>this </c><00:12:09.004><c>is </c><00:12:09.189><c>an </c><00:12:09.374><c>analogue </c><00:12:09.559><c>of</c>
+
+00:12:09.990 --> 00:12:10.000 align:start position:0%
+current project.  In essence, this is an analogue of
+ 
+
+00:12:10.000 --> 00:12:11.829 align:start position:0%
+current project.  In essence, this is an analogue of
+recka.  <00:12:10.349><c>We </c><00:12:10.698><c>get </c><00:12:11.047><c>the </c><00:12:11.396><c>same</c>
+
+00:12:11.829 --> 00:12:11.839 align:start position:0%
+recka.  We get the same
+ 
+
+00:12:11.839 --> 00:12:13.790 align:start position:0%
+recka.  We get the same
+app <00:12:12.183><c>launcher, </c><00:12:12.527><c>support </c><00:12:12.871><c>for </c><00:12:13.215><c>different </c><00:12:13.559><c>themes.</c>
+
+00:12:13.790 --> 00:12:13.800 align:start position:0%
+app launcher, support for different themes.
+ 
+
+00:12:13.800 --> 00:12:15.949 align:start position:0%
+app launcher, support for different themes.
+There <00:12:13.959><c>is </c><00:12:14.118><c>a </c><00:12:14.277><c>calculator </c><00:12:14.436><c>and </c><00:12:14.595><c>a </c><00:12:14.754><c>choice </c><00:12:14.913><c>of </c><00:12:15.072><c>emojis </c><00:12:15.231><c>right </c><00:12:15.390><c>inside.</c>
+
+00:12:15.949 --> 00:12:15.959 align:start position:0%
+There is a calculator and a choice of emojis right inside.
+ 
+
+00:12:15.959 --> 00:12:17.829 align:start position:0%
+There is a calculator and a choice of emojis right inside.
+It <00:12:16.174><c>remembers </c><00:12:16.389><c>the </c><00:12:16.604><c>buffer, </c><00:12:16.819><c>what </c><00:12:17.034><c>you </c><00:12:17.249><c>wrote, </c><00:12:17.464><c>what </c><00:12:17.679><c>you</c>
+
+00:12:17.829 --> 00:12:17.839 align:start position:0%
+It remembers the buffer, what you wrote, what you
+ 
+
+00:12:17.839 --> 00:12:19.389 align:start position:0%
+It remembers the buffer, what you wrote, what you
+copied.  <00:12:18.127><c>Then </c><00:12:18.415><c>you </c><00:12:18.703><c>can </c><00:12:18.991><c>very </c><00:12:19.279><c>quickly</c>
+
+00:12:19.389 --> 00:12:19.399 align:start position:0%
+copied.  Then you can very quickly
+ 
+
+00:12:19.399 --> 00:12:20.750 align:start position:0%
+copied.  Then you can very quickly
+open <00:12:19.579><c>it </c><00:12:19.759><c>all </c><00:12:19.939><c>by </c><00:12:20.119><c>copying, </c><00:12:20.299><c>say, </c><00:12:20.479><c>a</c>
+
+00:12:20.750 --> 00:12:20.760 align:start position:0%
+open it all by copying, say, a
+ 
+
+00:12:20.760 --> 00:12:22.509 align:start position:0%
+open it all by copying, say, a
+line <00:12:21.063><c>that </c><00:12:21.366><c>you </c><00:12:21.669><c>copied </c><00:12:21.972><c>5 </c><00:12:22.275><c>minutes</c>
+
+00:12:22.509 --> 00:12:22.519 align:start position:0%
+line that you copied 5 minutes
+ 
+
+00:12:22.519 --> 00:12:24.430 align:start position:0%
+line that you copied 5 minutes
+ago, <00:12:22.684><c>but </c><00:12:22.849><c>it </c><00:12:23.014><c>has </c><00:12:23.179><c>already </c><00:12:23.344><c>been </c><00:12:23.509><c>erased </c><00:12:23.674><c>many </c><00:12:23.839><c>times.</c>
+
+00:12:24.430 --> 00:12:24.440 align:start position:0%
+ago, but it has already been erased many times.
+ 
+
+00:12:24.440 --> 00:12:25.790 align:start position:0%
+ago, but it has already been erased many times.
+Essentially, <00:12:24.599><c>you </c><00:12:24.758><c>no </c><00:12:24.917><c>longer </c><00:12:25.076><c>need </c><00:12:25.235><c>a </c><00:12:25.394><c>separate</c>
+
+00:12:25.790 --> 00:12:25.800 align:start position:0%
+Essentially, you no longer need a separate
+ 
+
+00:12:25.800 --> 00:12:28.069 align:start position:0%
+Essentially, you no longer need a separate
+app <00:12:26.088><c>for </c><00:12:26.376><c>emoji, </c><00:12:26.664><c>for </c><00:12:26.952><c>a </c><00:12:27.240><c>calculator,</c>
+
+00:12:28.069 --> 00:12:28.079 align:start position:0%
+app for emoji, for a calculator,
+ 
+
+00:12:28.079 --> 00:12:29.949 align:start position:0%
+app for emoji, for a calculator,
+for <00:12:28.409><c>remembering </c><00:12:28.739><c>the </c><00:12:29.069><c>clipboard, </c><00:12:29.399><c>switching</c>
+
+00:12:29.949 --> 00:12:29.959 align:start position:0%
+for remembering the clipboard, switching
+ 
+
+00:12:29.959 --> 00:12:31.949 align:start position:0%
+for remembering the clipboard, switching
+browser <00:12:30.265><c>tabs </c><00:12:30.571><c>directly </c><00:12:30.877><c>from </c><00:12:31.183><c>the </c><00:12:31.489><c>launcher, </c><00:12:31.795><c>and</c>
+
+00:12:31.949 --> 00:12:31.959 align:start position:0%
+browser tabs directly from the launcher, and
+ 
+
+00:12:31.959 --> 00:12:33.949 align:start position:0%
+browser tabs directly from the launcher, and
+everything <00:12:32.319><c>else, </c><00:12:32.679><c>because </c><00:12:33.039><c>it’s </c><00:12:33.399><c>here.</c>
+
+00:12:33.949 --> 00:12:33.959 align:start position:0%
+everything else, because it’s here.
+ 
+
+00:12:33.959 --> 00:12:35.990 align:start position:0%
+everything else, because it’s here.
+It's <00:12:34.143><c>a </c><00:12:34.327><c>very </c><00:12:34.511><c>hot </c><00:12:34.695><c>topic </c><00:12:34.879><c>in </c><00:12:35.063><c>the </c><00:12:35.247><c>Linux </c><00:12:35.431><c>world </c><00:12:35.615><c>right </c><00:12:35.799><c>now</c>
+
+00:12:35.990 --> 00:12:36.000 align:start position:0%
+It's a very hot topic in the Linux world right now
+ 
+
+00:12:36.000 --> 00:12:38.389 align:start position:0%
+It's a very hot topic in the Linux world right now
+, <00:12:36.234><c>and </c><00:12:36.468><c>a </c><00:12:36.702><c>lot </c><00:12:36.936><c>of </c><00:12:37.170><c>people </c><00:12:37.404><c>like </c><00:12:37.638><c>it.</c>
+
+00:12:38.389 --> 00:12:38.399 align:start position:0%
+, and a lot of people like it.
+ 
+
+00:12:38.399 --> 00:12:39.870 align:start position:0%
+, and a lot of people like it.
+I <00:12:38.519><c>will </c><00:12:38.639><c>also </c><00:12:38.759><c>be </c><00:12:38.879><c>the </c><00:12:38.999><c>one </c><00:12:39.119><c>who </c><00:12:39.239><c>will </c><00:12:39.359><c>use </c><00:12:39.479><c>him </c><00:12:39.599><c>as </c><00:12:39.719><c>a</c>
+
+00:12:39.870 --> 00:12:39.880 align:start position:0%
+I will also be the one who will use him as a
+ 
+
+00:12:39.880 --> 00:12:41.990 align:start position:0%
+I will also be the one who will use him as a
+replacement <00:12:40.084><c>for </c><00:12:40.288><c>Rofi.  </c><00:12:40.492><c>I </c><00:12:40.696><c>know </c><00:12:40.900><c>there </c><00:12:41.104><c>is </c><00:12:41.308><c>also </c><00:12:41.512><c>a </c><00:12:41.716><c>WI</c>
+
+00:12:41.990 --> 00:12:42.000 align:start position:0%
+replacement for Rofi.  I know there is also a WI
+ 
+
+00:12:42.000 --> 00:12:43.710 align:start position:0%
+replacement for Rofi.  I know there is also a WI
+for <00:12:42.260><c>Valent, </c><00:12:42.520><c>but </c><00:12:42.780><c>I </c><00:12:43.040><c>like </c><00:12:43.300><c>this </c><00:12:43.560><c>solution</c>
+
+00:12:43.710 --> 00:12:43.720 align:start position:0%
+for Valent, but I like this solution
+ 
+
+00:12:43.720 --> 00:12:45.430 align:start position:0%
+for Valent, but I like this solution
+better.  <00:12:44.146><c>Also </c><00:12:44.572><c>the </c><00:12:44.998><c>next</c>
+
+00:12:45.430 --> 00:12:45.440 align:start position:0%
+better.  Also the next
+ 
+
+00:12:45.440 --> 00:12:47.509 align:start position:0%
+better.  Also the next
+mega-cool <00:12:45.879><c>thing </c><00:12:46.318><c>is </c><00:12:46.757><c>Proxmox.  </c><00:12:47.196><c>Remember,</c>
+
+00:12:47.509 --> 00:12:47.519 align:start position:0%
+mega-cool thing is Proxmox.  Remember,
+ 
+
+00:12:47.519 --> 00:12:49.990 align:start position:0%
+mega-cool thing is Proxmox.  Remember,
+I <00:12:47.856><c>talked </c><00:12:48.193><c>about </c><00:12:48.530><c>FIN </c><00:12:48.867><c>and </c><00:12:49.204><c>also </c><00:12:49.541><c>Appflow, </c><00:12:49.878><c>about</c>
+
+00:12:49.990 --> 00:12:50.000 align:start position:0%
+I talked about FIN and also Appflow, about
+ 
+
+00:12:50.000 --> 00:12:52.110 align:start position:0%
+I talked about FIN and also Appflow, about
+how <00:12:50.376><c>it </c><00:12:50.752><c>can </c><00:12:51.128><c>be </c><00:12:51.504><c>hijacked, </c><00:12:51.880><c>then</c>
+
+00:12:52.110 --> 00:12:52.120 align:start position:0%
+how it can be hijacked, then
+ 
+
+00:12:52.120 --> 00:12:53.550 align:start position:0%
+how it can be hijacked, then
+I <00:12:52.291><c>showed </c><00:12:52.462><c>a </c><00:12:52.633><c>method </c><00:12:52.804><c>where </c><00:12:52.975><c>you </c><00:12:53.146><c>can </c><00:12:53.317><c>simply</c>
+
+00:12:53.550 --> 00:12:53.560 align:start position:0%
+I showed a method where you can simply
+ 
+
+00:12:53.560 --> 00:12:55.430 align:start position:0%
+I showed a method where you can simply
+copy <00:12:53.813><c>one </c><00:12:54.066><c>line, </c><00:12:54.319><c>paste </c><00:12:54.572><c>it </c><00:12:54.825><c>into </c><00:12:55.078><c>the</c>
+
+00:12:55.430 --> 00:12:55.440 align:start position:0%
+copy one line, paste it into the
+ 
+
+00:12:55.440 --> 00:12:57.310 align:start position:0%
+copy one line, paste it into the
+terminal <00:12:55.688><c>and </c><00:12:55.936><c>get </c><00:12:56.184><c>the </c><00:12:56.432><c>finished </c><00:12:56.680><c>result.</c>
+
+00:12:57.310 --> 00:12:57.320 align:start position:0%
+terminal and get the finished result.
+ 
+
+00:12:57.320 --> 00:12:59.069 align:start position:0%
+terminal and get the finished result.
+So, <00:12:57.535><c>this </c><00:12:57.750><c>is </c><00:12:57.965><c>done </c><00:12:58.180><c>on </c><00:12:58.395><c>Proxmox.</c>
+
+00:12:59.069 --> 00:12:59.079 align:start position:0%
+So, this is done on Proxmox.
+ 
+
+00:12:59.079 --> 00:13:00.069 align:start position:0%
+So, this is done on Proxmox.
+So, <00:12:59.215><c>essentially, </c><00:12:59.351><c>this </c><00:12:59.487><c>is </c><00:12:59.623><c>a </c><00:12:59.759><c>separate</c>
+
+00:13:00.069 --> 00:13:00.079 align:start position:0%
+So, essentially, this is a separate
+ 
+
+00:13:00.079 --> 00:13:01.509 align:start position:0%
+So, essentially, this is a separate
+operating <00:13:00.292><c>system </c><00:13:00.505><c>that </c><00:13:00.718><c>is </c><00:13:00.931><c>installed </c><00:13:01.144><c>on </c><00:13:01.357><c>your</c>
+
+00:13:01.509 --> 00:13:01.519 align:start position:0%
+operating system that is installed on your
+ 
+
+00:13:01.519 --> 00:13:03.430 align:start position:0%
+operating system that is installed on your
+server.  <00:13:01.739><c>Next, </c><00:13:01.959><c>directly </c><00:13:02.179><c>in </c><00:13:02.399><c>this </c><00:13:02.619><c>operating </c><00:13:02.839><c>system,</c>
+
+00:13:03.430 --> 00:13:03.440 align:start position:0%
+server.  Next, directly in this operating system,
+ 
+
+00:13:03.440 --> 00:13:04.829 align:start position:0%
+server.  Next, directly in this operating system,
+you <00:13:03.759><c>can </c><00:13:04.078><c>create </c><00:13:04.397><c>separate</c>
+
+00:13:04.829 --> 00:13:04.839 align:start position:0%
+you can create separate
+ 
+
+00:13:04.839 --> 00:13:06.670 align:start position:0%
+you can create separate
+virtual <00:13:05.111><c>machines.  </c><00:13:05.383><c>Each </c><00:13:05.655><c>virtual </c><00:13:05.927><c>machine </c><00:13:06.199><c>is</c>
+
+00:13:06.670 --> 00:13:06.680 align:start position:0%
+virtual machines.  Each virtual machine is
+ 
+
+00:13:06.680 --> 00:13:08.710 align:start position:0%
+virtual machines.  Each virtual machine is
+very <00:13:06.933><c>lightweight, </c><00:13:07.186><c>and </c><00:13:07.439><c>each </c><00:13:07.692><c>virtual </c><00:13:07.945><c>machine </c><00:13:08.198><c>has</c>
+
+00:13:08.710 --> 00:13:08.720 align:start position:0%
+very lightweight, and each virtual machine has
+ 
+
+00:13:08.720 --> 00:13:10.590 align:start position:0%
+very lightweight, and each virtual machine has
+its <00:13:08.915><c>own </c><00:13:09.110><c>service.  </c><00:13:09.305><c>Let's </c><00:13:09.500><c>say </c><00:13:09.695><c>you </c><00:13:09.890><c>have </c><00:13:10.085><c>one </c><00:13:10.280><c>virtual </c><00:13:10.475><c>machine</c>
+
+00:13:10.590 --> 00:13:10.600 align:start position:0%
+its own service.  Let's say you have one virtual machine
+ 
+
+00:13:10.600 --> 00:13:13.069 align:start position:0%
+its own service.  Let's say you have one virtual machine
+, <00:13:10.808><c>the </c><00:13:11.016><c>second </c><00:13:11.224><c>one </c><00:13:11.432><c>has </c><00:13:11.640><c>Obsidian, </c><00:13:11.848><c>the </c><00:13:12.056><c>third </c><00:13:12.264><c>one </c><00:13:12.472><c>has </c><00:13:12.680><c>a</c>
+
+00:13:13.069 --> 00:13:13.079 align:start position:0%
+, the second one has Obsidian, the third one has a
+ 
+
+00:13:13.079 --> 00:13:14.949 align:start position:0%
+, the second one has Obsidian, the third one has a
+browser, <00:13:13.313><c>the </c><00:13:13.547><c>fourth </c><00:13:13.781><c>one </c><00:13:14.015><c>has </c><00:13:14.249><c>something </c><00:13:14.483><c>else.  </c><00:13:14.717><c>If</c>
+
+00:13:14.949 --> 00:13:14.959 align:start position:0%
+browser, the fourth one has something else.  If
+ 
+
+00:13:14.959 --> 00:13:16.509 align:start position:0%
+browser, the fourth one has something else.  If
+one <00:13:15.199><c>thing </c><00:13:15.439><c>is </c><00:13:15.679><c>hacked, </c><00:13:15.919><c>then </c><00:13:16.159><c>it </c><00:13:16.399><c>is</c>
+
+00:13:16.509 --> 00:13:16.519 align:start position:0%
+one thing is hacked, then it is
+ 
+
+00:13:16.519 --> 00:13:18.269 align:start position:0%
+one thing is hacked, then it is
+impossible <00:13:16.741><c>to </c><00:13:16.963><c>go </c><00:13:17.185><c>beyond </c><00:13:17.407><c>that.  </c><00:13:17.629><c>It's </c><00:13:17.851><c>also </c><00:13:18.073><c>very</c>
+
+00:13:18.269 --> 00:13:18.279 align:start position:0%
+impossible to go beyond that.  It's also very
+ 
+
+00:13:18.279 --> 00:13:20.150 align:start position:0%
+impossible to go beyond that.  It's also very
+easy <00:13:18.499><c>to </c><00:13:18.719><c>set </c><00:13:18.939><c>up </c><00:13:19.159><c>the </c><00:13:19.379><c>services </c><00:13:19.599><c>themselves </c><00:13:19.819><c>here.  </c><00:13:20.039><c>You</c>
+
+00:13:20.150 --> 00:13:20.160 align:start position:0%
+easy to set up the services themselves here.  You
+ 
+
+00:13:20.160 --> 00:13:21.990 align:start position:0%
+easy to set up the services themselves here.  You
+can <00:13:20.343><c>write </c><00:13:20.526><c>your </c><00:13:20.709><c>own </c><00:13:20.892><c>Telegram </c><00:13:21.075><c>bot,</c>
+
+00:13:21.990 --> 00:13:22.000 align:start position:0%
+can write your own Telegram bot,
+ 
+
+00:13:22.000 --> 00:13:23.750 align:start position:0%
+can write your own Telegram bot,
+wrap <00:13:22.312><c>it </c><00:13:22.624><c>in </c><00:13:22.936><c>Docker, </c><00:13:23.248><c>and </c><00:13:23.560><c>then</c>
+
+00:13:23.750 --> 00:13:23.760 align:start position:0%
+wrap it in Docker, and then
+ 
+
+00:13:23.760 --> 00:13:26.030 align:start position:0%
+wrap it in Docker, and then
+run <00:13:24.015><c>one </c><00:13:24.270><c>command, </c><00:13:24.525><c>and </c><00:13:24.780><c>that's </c><00:13:25.035><c>it. </c><00:13:25.290><c>The </c><00:13:25.545><c>bot </c><00:13:25.800><c>itself</c>
+
+00:13:26.030 --> 00:13:26.040 align:start position:0%
+run one command, and that's it. The bot itself
+ 
+
+00:13:26.040 --> 00:13:28.069 align:start position:0%
+run one command, and that's it. The bot itself
+is <00:13:26.359><c>on </c><00:13:26.678><c>your </c><00:13:26.997><c>server, </c><00:13:27.316><c>it </c><00:13:27.635><c>works, </c><00:13:27.954><c>and</c>
+
+00:13:28.069 --> 00:13:28.079 align:start position:0%
+is on your server, it works, and
+ 
+
+00:13:28.079 --> 00:13:30.150 align:start position:0%
+is on your server, it works, and
+you <00:13:28.273><c>don't </c><00:13:28.467><c>have </c><00:13:28.661><c>to </c><00:13:28.855><c>pay </c><00:13:29.049><c>for </c><00:13:29.243><c>hosting </c><00:13:29.437><c>separately.</c>
+
+00:13:30.150 --> 00:13:30.160 align:start position:0%
+you don't have to pay for hosting separately.
+ 
+
+00:13:30.160 --> 00:13:32.030 align:start position:0%
+you don't have to pay for hosting separately.
+You <00:13:30.380><c>can </c><00:13:30.600><c>put </c><00:13:30.820><c>Pyhol </c><00:13:31.040><c>right </c><00:13:31.260><c>there.  </c><00:13:31.480><c>This </c><00:13:31.700><c>is </c><00:13:31.920><c>an</c>
+
+00:13:32.030 --> 00:13:32.040 align:start position:0%
+You can put Pyhol right there.  This is an
+ 
+
+00:13:32.040 --> 00:13:33.590 align:start position:0%
+You can put Pyhol right there.  This is an
+ad <00:13:32.680><c>blocker </c><00:13:33.320><c>that</c>
+
+00:13:33.590 --> 00:13:33.600 align:start position:0%
+ad blocker that
+ 
+
+00:13:33.600 --> 00:13:35.509 align:start position:0%
+ad blocker that
+works <00:13:33.860><c>at </c><00:13:34.120><c>the </c><00:13:34.380><c>DNS </c><00:13:34.640><c>level.  </c><00:13:34.900><c>All </c><00:13:35.160><c>the</c>
+
+00:13:35.509 --> 00:13:35.519 align:start position:0%
+works at the DNS level.  All the
+ 
+
+00:13:35.519 --> 00:13:37.829 align:start position:0%
+works at the DNS level.  All the
+YouTube <00:13:35.714><c>sites </c><00:13:35.909><c>and </c><00:13:36.104><c>everything </c><00:13:36.299><c>else, </c><00:13:36.494><c>it </c><00:13:36.689><c>cuts </c><00:13:36.884><c>everything </c><00:13:37.079><c>off.</c>
+
+00:13:37.829 --> 00:13:37.839 align:start position:0%
+YouTube sites and everything else, it cuts everything off.
+ 
+
+00:13:37.839 --> 00:13:39.710 align:start position:0%
+YouTube sites and everything else, it cuts everything off.
+You <00:13:38.090><c>can </c><00:13:38.341><c>put </c><00:13:38.592><c>all </c><00:13:38.843><c>this </c><00:13:39.094><c>directly </c><00:13:39.345><c>into </c><00:13:39.596><c>the</c>
+
+00:13:39.710 --> 00:13:39.720 align:start position:0%
+You can put all this directly into the
+ 
+
+00:13:39.720 --> 00:13:41.550 align:start position:0%
+You can put all this directly into the
+global <00:13:40.048><c>network, </c><00:13:40.376><c>then </c><00:13:40.704><c>connect </c><00:13:41.032><c>all </c><00:13:41.360><c>the</c>
+
+00:13:41.550 --> 00:13:41.560 align:start position:0%
+global network, then connect all the
+ 
+
+00:13:41.560 --> 00:13:43.150 align:start position:0%
+global network, then connect all the
+devices.  <00:13:42.040><c>All </c><00:13:42.520><c>your </c><00:13:43.000><c>devices</c>
+
+00:13:43.150 --> 00:13:43.160 align:start position:0%
+devices.  All your devices
+ 
+
+00:13:43.160 --> 00:13:44.790 align:start position:0%
+devices.  All your devices
+will <00:13:43.529><c>now </c><00:13:43.898><c>be </c><00:13:44.267><c>ad-free.  </c><00:13:44.636><c>All</c>
+
+00:13:44.790 --> 00:13:44.800 align:start position:0%
+will now be ad-free.  All
+ 
+
+00:13:44.800 --> 00:13:46.189 align:start position:0%
+will now be ad-free.  All
+applications <00:13:45.093><c>that </c><00:13:45.386><c>previously </c><00:13:45.679><c>showed</c>
+
+00:13:46.189 --> 00:13:46.199 align:start position:0%
+applications that previously showed
+ 
+
+00:13:46.199 --> 00:13:48.069 align:start position:0%
+applications that previously showed
+ads <00:13:46.599><c>before </c><00:13:46.999><c>launch, </c><00:13:47.399><c>all </c><00:13:47.799><c>other</c>
+
+00:13:48.069 --> 00:13:48.079 align:start position:0%
+ads before launch, all other
+ 
+
+00:13:48.079 --> 00:13:50.150 align:start position:0%
+ads before launch, all other
+platforms, <00:13:48.392><c>and </c><00:13:48.705><c>so </c><00:13:49.018><c>on, </c><00:13:49.331><c>will </c><00:13:49.644><c>all </c><00:13:49.957><c>be</c>
+
+00:13:50.150 --> 00:13:50.160 align:start position:0%
+platforms, and so on, will all be
+ 
+
+00:13:50.160 --> 00:13:52.389 align:start position:0%
+platforms, and so on, will all be
+ad-free.  <00:13:50.399><c>And </c><00:13:50.638><c>this </c><00:13:50.877><c>is </c><00:13:51.116><c>also </c><00:13:51.355><c>a </c><00:13:51.594><c>top-notch </c><00:13:51.833><c>thing</c>
+
+00:13:52.389 --> 00:13:52.399 align:start position:0%
+ad-free.  And this is also a top-notch thing
+ 
+
+00:13:52.399 --> 00:13:54.350 align:start position:0%
+ad-free.  And this is also a top-notch thing
+to <00:13:53.219><c>deploy </c><00:13:54.039><c>locally.</c>
+
+00:13:54.350 --> 00:13:54.360 align:start position:0%
+to deploy locally.
+ 
+
+00:13:54.360 --> 00:13:56.269 align:start position:0%
+to deploy locally.
+Moreover, <00:13:54.660><c>if </c><00:13:54.960><c>you </c><00:13:55.260><c>use </c><00:13:55.560><c>neural </c><00:13:55.860><c>networks </c><00:13:56.160><c>but</c>
+
+00:13:56.269 --> 00:13:56.279 align:start position:0%
+Moreover, if you use neural networks but
+ 
+
+00:13:56.279 --> 00:13:58.110 align:start position:0%
+Moreover, if you use neural networks but
+don't <00:13:56.524><c>know </c><00:13:56.769><c>what </c><00:13:57.014><c>Open </c><00:13:57.259><c>Code </c><00:13:57.504><c>is, </c><00:13:57.749><c>then </c><00:13:57.994><c>you're</c>
+
+00:13:58.110 --> 00:13:58.120 align:start position:0%
+don't know what Open Code is, then you're
+ 
+
+00:13:58.120 --> 00:13:59.910 align:start position:0%
+don't know what Open Code is, then you're
+missing <00:13:58.400><c>out </c><00:13:58.680><c>on </c><00:13:58.960><c>a </c><00:13:59.240><c>lot, </c><00:13:59.520><c>because </c><00:13:59.800><c>you</c>
+
+00:13:59.910 --> 00:13:59.920 align:start position:0%
+missing out on a lot, because you
+ 
+
+00:13:59.920 --> 00:14:01.710 align:start position:0%
+missing out on a lot, because you
+can <00:14:00.289><c>connect </c><00:14:00.658><c>a </c><00:14:01.027><c>ton </c><00:14:01.396><c>of</c>
+
+00:14:01.710 --> 00:14:01.720 align:start position:0%
+can connect a ton of
+ 
+
+00:14:01.720 --> 00:14:03.310 align:start position:0%
+can connect a ton of
+providers <00:14:01.854><c>and </c><00:14:01.988><c>a </c><00:14:02.122><c>ton </c><00:14:02.256><c>of </c><00:14:02.390><c>models </c><00:14:02.524><c>right </c><00:14:02.658><c>in </c><00:14:02.792><c>one </c><00:14:02.926><c>application.  </c><00:14:03.060><c>There </c><00:14:03.194><c>is</c>
+
+00:14:03.310 --> 00:14:03.320 align:start position:0%
+providers and a ton of models right in one application.  There is
+ 
+
+00:14:03.320 --> 00:14:05.670 align:start position:0%
+providers and a ton of models right in one application.  There is
+support <00:14:03.646><c>for </c><00:14:03.972><c>skills, </c><00:14:04.298><c>MCP, </c><00:14:04.624><c>and </c><00:14:04.950><c>also </c><00:14:05.276><c>various</c>
+
+00:14:05.670 --> 00:14:05.680 align:start position:0%
+support for skills, MCP, and also various
+ 
+
+00:14:05.680 --> 00:14:07.550 align:start position:0%
+support for skills, MCP, and also various
+color <00:14:06.109><c>themes.  </c><00:14:06.538><c>You </c><00:14:06.967><c>can </c><00:14:07.396><c>install</c>
+
+00:14:07.550 --> 00:14:07.560 align:start position:0%
+color themes.  You can install
+ 
+
+00:14:07.560 --> 00:14:09.670 align:start position:0%
+color themes.  You can install
+all <00:14:07.795><c>of </c><00:14:08.030><c>this </c><00:14:08.265><c>as </c><00:14:08.500><c>a </c><00:14:08.735><c>regular </c><00:14:08.970><c>terminal, </c><00:14:09.205><c>as </c><00:14:09.440><c>a</c>
+
+00:14:09.670 --> 00:14:09.680 align:start position:0%
+all of this as a regular terminal, as a
+ 
+
+00:14:09.680 --> 00:14:11.590 align:start position:0%
+all of this as a regular terminal, as a
+desktop <00:14:10.293><c>application, </c><00:14:10.906><c>as </c><00:14:11.519><c>a</c>
+
+00:14:11.590 --> 00:14:11.600 align:start position:0%
+desktop application, as a
+ 
+
+00:14:11.600 --> 00:14:13.710 align:start position:0%
+desktop application, as a
+web <00:14:11.880><c>application, </c><00:14:12.160><c>deploy </c><00:14:12.440><c>it </c><00:14:12.720><c>on </c><00:14:13.000><c>your </c><00:14:13.280><c>server </c><00:14:13.560><c>and</c>
+
+00:14:13.710 --> 00:14:13.720 align:start position:0%
+web application, deploy it on your server and
+ 
+
+00:14:13.720 --> 00:14:15.790 align:start position:0%
+web application, deploy it on your server and
+then <00:14:14.000><c>access </c><00:14:14.280><c>it </c><00:14:14.560><c>from </c><00:14:14.840><c>all </c><00:14:15.120><c>devices,</c>
+
+00:14:15.790 --> 00:14:15.800 align:start position:0%
+then access it from all devices,
+ 
+
+00:14:15.800 --> 00:14:17.389 align:start position:0%
+then access it from all devices,
+or <00:14:15.960><c>deploy </c><00:14:16.120><c>it </c><00:14:16.280><c>locally </c><00:14:16.440><c>and </c><00:14:16.600><c>also </c><00:14:16.760><c>access </c><00:14:16.920><c>it </c><00:14:17.080><c>from </c><00:14:17.240><c>all</c>
+
+00:14:17.389 --> 00:14:17.399 align:start position:0%
+or deploy it locally and also access it from all
+ 
+
+00:14:17.399 --> 00:14:19.069 align:start position:0%
+or deploy it locally and also access it from all
+devices.  <00:14:17.906><c>And </c><00:14:18.413><c>this </c><00:14:18.920><c>is</c>
+
+00:14:19.069 --> 00:14:19.079 align:start position:0%
+devices.  And this is
+ 
+
+00:14:19.079 --> 00:14:20.870 align:start position:0%
+devices.  And this is
+also, <00:14:19.399><c>perhaps, </c><00:14:19.719><c>a </c><00:14:20.039><c>discovery </c><00:14:20.359><c>that </c><00:14:20.679><c>significantly</c>
+
+00:14:20.870 --> 00:14:20.880 align:start position:0%
+also, perhaps, a discovery that significantly
+ 
+
+00:14:20.880 --> 00:14:22.670 align:start position:0%
+also, perhaps, a discovery that significantly
+speeds <00:14:21.053><c>up </c><00:14:21.226><c>the </c><00:14:21.399><c>work </c><00:14:21.572><c>of </c><00:14:21.745><c>neural </c><00:14:21.918><c>networks </c><00:14:22.091><c>with </c><00:14:22.264><c>it, </c><00:14:22.437><c>makes</c>
+
+00:14:22.670 --> 00:14:22.680 align:start position:0%
+speeds up the work of neural networks with it, makes
+ 
+
+00:14:22.680 --> 00:14:24.430 align:start position:0%
+speeds up the work of neural networks with it, makes
+it <00:14:22.891><c>more </c><00:14:23.102><c>convenient, </c><00:14:23.313><c>and </c><00:14:23.524><c>fixes </c><00:14:23.735><c>a </c><00:14:23.946><c>ton </c><00:14:24.157><c>of</c>
+
+00:14:24.430 --> 00:14:24.440 align:start position:0%
+it more convenient, and fixes a ton of
+ 
+
+00:14:24.440 --> 00:14:27.389 align:start position:0%
+it more convenient, and fixes a ton of
+problems <00:14:24.820><c>that </c><00:14:25.200><c>the </c><00:14:25.580><c>web </c><00:14:25.960><c>version </c><00:14:26.340><c>of </c><00:14:26.720><c>GPT,</c>
+
+00:14:27.389 --> 00:14:27.399 align:start position:0%
+problems that the web version of GPT,
+ 
+
+00:14:27.399 --> 00:14:29.310 align:start position:0%
+problems that the web version of GPT,
+Gmini, <00:14:27.679><c>and </c><00:14:27.959><c>all </c><00:14:28.239><c>other </c><00:14:28.519><c>models </c><00:14:28.799><c>had.  </c><00:14:29.079><c>Also,</c>
+
+00:14:29.310 --> 00:14:29.320 align:start position:0%
+Gmini, and all other models had.  Also,
+ 
+
+00:14:29.320 --> 00:14:30.749 align:start position:0%
+Gmini, and all other models had.  Also,
+obviously, <00:14:29.900><c>I </c><00:14:30.480><c>have</c>
+
+00:14:30.749 --> 00:14:30.759 align:start position:0%
+obviously, I have
+ 
+
+00:14:30.759 --> 00:14:32.069 align:start position:0%
+obviously, I have
+tons <00:14:30.945><c>of </c><00:14:31.131><c>apps </c><00:14:31.317><c>that </c><00:14:31.503><c>I </c><00:14:31.689><c>want </c><00:14:31.875><c>to</c>
+
+00:14:32.069 --> 00:14:32.079 align:start position:0%
+tons of apps that I want to
+ 
+
+00:14:32.079 --> 00:14:33.829 align:start position:0%
+tons of apps that I want to
+share, <00:14:32.209><c>but </c><00:14:32.339><c>it's </c><00:14:32.469><c>just </c><00:14:32.599><c>not </c><00:14:32.729><c>possible </c><00:14:32.859><c>to </c><00:14:32.989><c>include </c><00:14:33.119><c>them </c><00:14:33.249><c>all </c><00:14:33.379><c>in </c><00:14:33.509><c>one </c><00:14:33.639><c>video</c>
+
+00:14:33.829 --> 00:14:33.839 align:start position:0%
+share, but it's just not possible to include them all in one video
+ 
+
+00:14:33.839 --> 00:14:35.310 align:start position:0%
+share, but it's just not possible to include them all in one video
+.  <00:14:34.459><c>So </c><00:14:35.079><c>let's</c>
+
+00:14:35.310 --> 00:14:35.320 align:start position:0%
+.  So let's
+ 
+
+00:14:35.320 --> 00:14:37.030 align:start position:0%
+.  So let's
+get <00:14:35.539><c>1,000 </c><00:14:35.758><c>likes.  </c><00:14:35.977><c>I'm </c><00:14:36.196><c>making </c><00:14:36.415><c>a </c><00:14:36.634><c>follow-up</c>
+
+00:14:37.030 --> 00:14:37.040 align:start position:0%
+get 1,000 likes.  I'm making a follow-up
+ 
+
+00:14:37.040 --> 00:14:39.069 align:start position:0%
+get 1,000 likes.  I'm making a follow-up
+video <00:14:37.346><c>with </c><00:14:37.652><c>a </c><00:14:37.958><c>more </c><00:14:38.264><c>detailed </c><00:14:38.570><c>analysis.  </c><00:14:38.876><c>Also</c>
+
+00:14:39.069 --> 00:14:39.079 align:start position:0%
+video with a more detailed analysis.  Also
+ 
+
+00:14:39.079 --> 00:14:41.230 align:start position:0%
+video with a more detailed analysis.  Also
+about <00:14:39.412><c>OpenCD.  </c><00:14:39.745><c>The </c><00:14:40.078><c>previous </c><00:14:40.411><c>video </c><00:14:40.744><c>was </c><00:14:41.077><c>about</c>
+
+00:14:41.230 --> 00:14:41.240 align:start position:0%
+about OpenCD.  The previous video was about
+ 
+
+00:14:41.240 --> 00:14:43.189 align:start position:0%
+about OpenCD.  The previous video was about
+him, <00:14:41.497><c>so </c><00:14:41.754><c>let's </c><00:14:42.011><c>go </c><00:14:42.268><c>and </c><00:14:42.525><c>watch </c><00:14:42.782><c>it.  </c><00:14:43.039><c>It</c>
+
+00:14:43.189 --> 00:14:43.199 align:start position:0%
+him, so let's go and watch it.  It
+ 
+
+00:14:43.199 --> 00:14:44.910 align:start position:0%
+him, so let's go and watch it.  It
+was <00:14:43.376><c>just </c><00:14:43.553><c>a </c><00:14:43.730><c>ton </c><00:14:43.907><c>of </c><00:14:44.084><c>tricks </c><00:14:44.261><c>to </c><00:14:44.438><c>improve</c>
+
+00:14:44.910 --> 00:14:44.920 align:start position:0%
+was just a ton of tricks to improve
+ 
+
+00:14:44.920 --> 00:14:48.160 align:start position:0%
+was just a ton of tricks to improve
+your <00:14:45.160><c>productivity.</c>
+

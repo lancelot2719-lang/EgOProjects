@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Дайан Маседо",
+    "type": "автор",
+    "description": "Журналистка АВС и CBS, много лет страдала от бессонницы и зависимости от снотворного.",
+    "book": "Здоровье\\ia-umeiu-spat-prakticeskoe-rukovodstvo-dlia-tex-kto-ustal-ne-vysypatsia.txt"
+  },
+  {
+    "name": "Оксана Ю. Лановенко",
+    "type": "автор",
+    "description": "Соавтор книги",
+    "book": "Здоровье\\ia-umeiu-spat-prakticeskoe-rukovodstvo-dlia-tex-kto-ustal-ne-vysypatsia.txt"
+  },
+  {
+    "name": "Я умею спать. Практическое руководство для тех, кто устал не высыпаться",
+    "type": "книга",
+    "description": "Книга содержит проверенные способы восстановления сна, основанные на данных сомнологии, психологической практики и собственных экспериментах.",
+    "book": "Здоровье\\ia-umeiu-spat-prakticeskoe-rukovodstvo-dlia-tex-kto-ustal-ne-vysypatsia.txt"
+  },
+  {
+    "name": "Контент-диета",
+    "type": "книга",
+    "book": "Здоровье\\kontent-dieta-kniga-ot-pervogo-cifrovogo-dietologa-rossii.txt"
+  },
+  {
+    "name": "Александр Камрадов",
+    "type": "автор",
+    "book": "Здоровье\\kontent-dieta-kniga-ot-pervogo-cifrovogo-dietologa-rossii.txt"
+  },
+  {
+    "name": "Цифровая диетология",
+    "type": "концепция",
+    "book": "Здоровье\\kontent-dieta-kniga-ot-pervogo-cifrovogo-dietologa-rossii.txt"
+  },
+  {
+    "name": "Внутренняя инженерия",
+    "type": "книга",
+    "book": "Здоровье\\vnutrenniaia-inzeneriia-put-k-radosti-prakticeskoe-rukovodstvo-ot-ioga.txt"
+  },
+  {
+    "name": "Джагги Васудев",
+    "type": "автор",
+    "book": "Здоровье\\vnutrenniaia-inzeneriia-put-k-radosti-prakticeskoe-rukovodstvo-ot-ioga.txt"
+  },
+  {
+    "name": "Елена Валерьевна Леонтьева",
+    "type": "автор",
+    "book": "Здоровье\\vnutrenniaia-inzeneriia-put-k-radosti-prakticeskoe-rukovodstvo-ot-ioga.txt"
+  },
+  {
+    "name": "Внутреннее состояние",
+    "type": "концепция",
+    "book": "Здоровье\\vnutrenniaia-inzeneriia-put-k-radosti-prakticeskoe-rukovodstvo-ot-ioga.txt"
+  },
+  {
+    "name": "умственные и физические страдания",
+    "type": "концепция",
+    "book": "Здоровье\\vnutrenniaia-inzeneriia-put-k-radosti-prakticeskoe-rukovodstvo-ot-ioga.txt"
+  },
+  {
+    "name": "пространство между собой и телом-умом",
+    "type": "метод/концепция",
+    "book": "Здоровье\\vnutrenniaia-inzeneriia-put-k-radosti-prakticeskoe-rukovodstvo-ot-ioga.txt"
+  },
+  {
+    "name": "препятствия в виде укоренившихся представлений о «я» и необходимости полного контроля разума",
+    "type": "концепция",
+    "book": "Здоровье\\vnutrenniaia-inzeneriia-put-k-radosti-prakticeskoe-rukovodstvo-ot-ioga.txt"
+  }
+]

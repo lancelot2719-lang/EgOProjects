@@ -1,0 +1,2 @@
+Ошибка при обращении к Ollama: 404
+{"error":"model 'llama3' not found"}

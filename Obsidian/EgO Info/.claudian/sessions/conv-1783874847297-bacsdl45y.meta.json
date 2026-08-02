@@ -1,0 +1,24 @@
+{
+  "id": "conv-1783874847297-bacsdl45y",
+  "providerId": "claude",
+  "title": "Привет как дела",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1783874847321,
+  "updatedAt": 1784148977536,
+  "lastResponseAt": 1784148969220,
+  "sessionId": "e36d9cfa-6554-4704-b398-3b7d078f72a9",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "e36d9cfa-6554-4704-b398-3b7d078f72a9"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 1000000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}

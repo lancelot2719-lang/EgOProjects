@@ -1,0 +1,815 @@
+{
+  "entities": [
+    {
+      "name": "Роберт Кийосаки",
+      "type": "person",
+      "book": "Финансы\\robert-kiyosaki-bogatyy-papa-bednyy-papa"
+    },
+    {
+      "name": "Богатый папа",
+      "type": "concept",
+      "book": "Финансы\\robert-kiyosaki-bogatyy-papa-bednyy-papa"
+    },
+    {
+      "name": "Бедный папа",
+      "type": "concept",
+      "book": "Финансы\\robert-kiyosaki-bogatyy-papa-bednyy-papa"
+    },
+    {
+      "name": "Бухтияров А.",
+      "type": "person",
+      "book": "Финансы\\Александр Бухтияров - Как выбраться из замкнутого круга"
+    },
+    {
+      "name": "бизнес MLM",
+      "type": "method",
+      "book": "Финансы\\Александр Бухтияров - Как выбраться из замкнутого круга"
+    },
+    {
+      "name": "planned spending",
+      "type": "concept",
+      "description": "Thinking carefully about each purchase before making it",
+      "book": "Финансы\\Александр Левитас - 124 способа сэкономить, не ущемляя себя"
+    },
+    {
+      "name": "waiting for discounts",
+      "type": "method",
+      "description": "Delaying purchases to wait for cheaper prices",
+      "book": "Финансы\\Александр Левитас - 124 способа сэкономить, не ущемляя себя"
+    },
+    {
+      "name": "reusing items",
+      "type": "principle",
+      "description": "Reusing or exchanging items instead of buying new ones",
+      "book": "Финансы\\Александр Левитас - 124 способа сэкономить, не ущемляя себя"
+    },
+    {
+      "name": "Анастасия Веселко",
+      "type": "person",
+      "book": "Финансы\\Анастасия Веселко - Быть в Плюсе  Новый подход к личным финансам"
+    },
+    {
+      "name": "ООО \"Альпина Паблишер\", 2026",
+      "type": "publisher",
+      "book": "Финансы\\Анастасия Веселко - Быть в Плюсе  Новый подход к личным финансам"
+    },
+    {
+      "name": "Meta Platforms Inc.",
+      "type": "company",
+      "book": "Финансы\\Анастасия Веселко - Быть в Плюсе  Новый подход к личным финансам"
+    },
+    {
+      "name": "рыночные отношения",
+      "type": "concept",
+      "book": "Финансы\\Арк. Шах-Ч - Руководство к успеху в жизни и денежных делах"
+    },
+    {
+      "name": "книжный рынок",
+      "type": "method",
+      "book": "Финансы\\Арк. Шах-Ч - Руководство к успеху в жизни и денежных делах"
+    },
+    {
+      "name": "цель",
+      "type": "concept",
+      "book": "Финансы\\Арк. Шах-Ч - Руководство к успеху в жизни и денежных делах"
+    },
+    {
+      "name": "трудность",
+      "type": "principle",
+      "book": "Финансы\\Арк. Шах-Ч - Руководство к успеху в жизни и денежных делах"
+    },
+    {
+      "name": "работа",
+      "type": "concept",
+      "book": "Финансы\\Арк. Шах-Ч - Руководство к успеху в жизни и денежных делах"
+    },
+    {
+      "name": "постоянство",
+      "type": "principle",
+      "book": "Финансы\\Арк. Шах-Ч - Руководство к успеху в жизни и денежных делах"
+    },
+    {
+      "name": "воля",
+      "type": "principle",
+      "book": "Финансы\\Арк. Шах-Ч - Руководство к успеху в жизни и денежных делах"
+    },
+    {
+      "name": "ритм и гармония",
+      "type": "principle",
+      "book": "Финансы\\Арк. Шах-Ч - Руководство к успеху в жизни и денежных делах"
+    },
+    {
+      "name": "финансовая стратегия",
+      "type": "method",
+      "description": "направление бизнеса в бурном океане рыночных изменений",
+      "book": "Финансы\\Артем Демиденко - Деньги под контроль  Финансовая стратегия для бизнеса"
+    },
+    {
+      "name": "финансовая грамотность",
+      "type": "concept",
+      "description": "культура осознанного отношения к деньгам, пронизывающая все аспекты компании",
+      "book": "Финансы\\Артем Демиденко - Деньги под контроль  Финансовая стратегия для бизнеса"
+    },
+    {
+      "name": "финансовая дисциплина",
+      "type": "principle",
+      "description": "краеугольный камень долгосрочного успеха бизнеса",
+      "book": "Финансы\\Артем Демиденко - Деньги под контроль  Финансовая стратегия для бизнеса"
+    },
+    {
+      "name": "резервный фонд",
+      "type": "method",
+      "description": "механизм обеспечения стабильности и безопасности бизнеса в условиях неопределенности",
+      "book": "Финансы\\Артем Демиденко - Деньги под контроль  Финансовая стратегия для бизнеса"
+    },
+    {
+      "name": "Алексей Беляев",
+      "type": "person",
+      "book": "Финансы\\Беляев Алексей - Магия финансов"
+    },
+    {
+      "name": "Магия Финансов",
+      "type": "concept",
+      "book": "Финансы\\Беляев Алексей - Магия финансов"
+    },
+    {
+      "name": "Amirbek",
+      "type": "person",
+      "description": "a wise man in the story",
+      "book": "Финансы\\Генрих Эрдман - Пять шагов к богатству, или Путь к финансовой своб"
+    },
+    {
+      "name": "Дарья Трутнева",
+      "type": "person",
+      "book": "Финансы\\Дарья Трутнева - Как пустить в свою жизнь большие деньги"
+    },
+    {
+      "name": "Лафасад",
+      "type": "company",
+      "book": "Финансы\\Дарья Трутнева - Как пустить в свою жизнь большие деньги"
+    },
+    {
+      "name": "Лакшми",
+      "type": "person/principle",
+      "description": "Богиня благополучия и изобилия, поклоняется в Индии",
+      "book": "Финансы\\Девдатт Паттанаик - Богатый как бог. 12 финансовых уроков из священных текстов Индии"
+    },
+    {
+      "name": "self-esteem",
+      "type": "concept",
+      "description": "the belief in one's own worth and abilities",
+      "book": "Финансы\\Джо Карбо - Как заработать деньги будучи ленивым."
+    },
+    {
+      "name": "goal setting",
+      "type": "method",
+      "description": "the process of identifying, planning, and working towards achieving specific goals",
+      "book": "Финансы\\Джо Карбо - Как заработать деньги будучи ленивым."
+    },
+    {
+      "name": "visualization",
+      "type": "method",
+      "description": "the practice of using mental imagery to help achieve a goal or outcome",
+      "book": "Финансы\\Джо Карбо - Как заработать деньги будучи ленивым."
+    },
+    {
+      "name": "Илья Коптяев",
+      "type": "person",
+      "book": "Финансы\\Илья Коптяев - Победа над долгами"
+    },
+    {
+      "name": "Кристина Бенито",
+      "type": "person",
+      "description": "author of the book",
+      "book": "Финансы\\Кристина Бенито - Финансовая осознанность. Как зарабатывать, экономить и приумножать деньги"
+    },
+    {
+      "name": "старая еврейская мудрость",
+      "type": "principle",
+      "description": "a principle that saved someone from bankruptcy",
+      "book": "Финансы\\Кристина Бенито - Финансовая осознанность. Как зарабатывать, экономить и приумножать деньги"
+    },
+    {
+      "name": "Mobile application",
+      "type": "tool",
+      "description": "Allows users to check for discounts and promotions on their mobile devices",
+      "book": "Финансы\\Ли Кун Яо - 200 способов сэкономить, улучшая качество жизни"
+    },
+    {
+      "name": "Mihir A. Desai",
+      "type": "person",
+      "description": "author of How Finance Works: The HBR Guide to Thinking Smart About the Numbers",
+      "book": "Финансы\\Михир Десаи - Разумный финансист. Знает, что стоит за цифрами, управляет рисками, получает прибыль"
+    },
+    {
+      "name": "Company G, Company N",
+      "type": "company",
+      "description": "companies mentioned in the text",
+      "book": "Финансы\\Михир Десаи - Разумный финансист. Знает, что стоит за цифрами, управляет рисками, получает прибыль"
+    },
+    {
+      "name": "Napoleon Hill",
+      "type": "person",
+      "description": "author of the book 'Think and Grow Rich'",
+      "book": "Финансы\\Наполеон Хилл - Механизмы работы мозга, которые делают нас богатыми. Понять, освоить, применить!"
+    },
+    {
+      "name": "Otec Divine",
+      "type": "person",
+      "description": "a wealthy individual who overcame adversity",
+      "book": "Финансы\\Наполеон Хилл - Механизмы работы мозга, которые делают нас богатыми. Понять, освоить, применить!"
+    },
+    {
+      "name": "Наталья Легеза",
+      "type": "person",
+      "book": "Финансы\\Наталья Легеза - Где деньги"
+    },
+    {
+      "name": "учетная система предприятия",
+      "type": "method",
+      "book": "Финансы\\Наталья Легеза - Где деньги"
+    },
+    {
+      "name": "WebMoney",
+      "type": "method",
+      "description": "An electronic payment system",
+      "book": "Финансы\\Никита Сенченко - Курс обучения WebMoney"
+    },
+    {
+      "name": "Николай Волк",
+      "type": "person",
+      "description": "автор книги",
+      "book": "Финансы\\Николай Волк - Код денег. Сила простых денежных действий. Как определить свой денежный архитип, повы"
+    },
+    {
+      "name": "Бунтарь",
+      "type": "concept",
+      "description": "концепция финансового поведения, отвергающая традиционные финансовые стратегии",
+      "book": "Финансы\\Николай Волк - Код денег. Сила простых денежных действий. Как определить свой денежный архитип, повы"
+    },
+    {
+      "name": "GTD",
+      "type": "method",
+      "description": "Метод тайм-менеджмента",
+      "book": "Финансы\\Николай Додонов - GTD. Практический курс. Самоучитель по тайм-менедж"
+    },
+    {
+      "name": "краткосрочная память",
+      "type": "concept",
+      "description": "Функция сохранения информации в короткий срок",
+      "book": "Финансы\\Николай Додонов - GTD. Практический курс. Самоучитель по тайм-менедж"
+    },
+    {
+      "name": "Накопители",
+      "type": "principle",
+      "description": "Место для хранения мыслей, идей и записей",
+      "book": "Финансы\\Николай Додонов - GTD. Практический курс. Самоучитель по тайм-менедж"
+    },
+    {
+      "name": "Book",
+      "type": "method",
+      "description": "A book about financial management for cafe, restaurant or bakery owners",
+      "book": "Финансы\\Николай Додонов - Как без вложений увеличить прибыль кафе или рестор"
+    },
+    {
+      "name": "Павел Волков",
+      "type": "person",
+      "book": "Финансы\\Павел Волков - Первые шаги к финансовой независимости"
+    },
+    {
+      "name": "Клава",
+      "type": "person",
+      "book": "Финансы\\Павел Волков - Первые шаги к финансовой независимости"
+    },
+    {
+      "name": "Серьезных потерь средств в инвестировании",
+      "type": "principle",
+      "book": "Финансы\\Павел Волков - Первые шаги к финансовой независимости"
+    },
+    {
+      "name": "Project analysis",
+      "type": "concept",
+      "book": "Финансы\\Финансы анализ книг NotebookLM"
+    },
+    {
+      "name": "Investment project",
+      "type": "method",
+      "book": "Финансы\\Финансы анализ книг NotebookLM"
+    },
+    {
+      "name": "Temporary enterprise",
+      "type": "concept",
+      "book": "Финансы\\Финансы анализ книг NotebookLM"
+    },
+    {
+      "name": "Unique result",
+      "type": "principle",
+      "book": "Финансы\\Финансы анализ книг NotebookLM"
+    },
+    {
+      "name": "Limited resources",
+      "type": "principle",
+      "book": "Финансы\\Финансы анализ книг NotebookLM"
+    },
+    {
+      "name": "SMART goal",
+      "type": "method",
+      "book": "Финансы\\Финансы анализ книг NotebookLM"
+    },
+    {
+      "name": "Budget and cost",
+      "type": "method",
+      "book": "Финансы\\Финансы анализ книг NotebookLM"
+    },
+    {
+      "name": "Life cycle",
+      "type": "concept",
+      "book": "Финансы\\Финансы анализ книг NotebookLM"
+    },
+    {
+      "name": "Classification",
+      "type": "method",
+      "book": "Финансы\\Финансы анализ книг NotebookLM"
+    },
+    {
+      "name": "Scale (small, mega-project...)",
+      "type": "principle",
+      "book": "Финансы\\Финансы анализ книг NotebookLM"
+    },
+    {
+      "name": "Complexity",
+      "type": "principle",
+      "book": "Финансы\\Финансы анализ книг NotebookLM"
+    },
+    {
+      "name": "Timeline",
+      "type": "principle",
+      "book": "Финансы\\Финансы анализ книг NotebookLM"
+    },
+    {
+      "name": "Innovative projects",
+      "type": "concept",
+      "book": "Финансы\\Финансы анализ книг NotebookLM"
+    },
+    {
+      "name": "Project life cycle",
+      "type": "concept",
+      "book": "Финансы\\Финансы анализ книг NotebookLM"
+    },
+    {
+      "name": "Pre-investment stage",
+      "type": "stage",
+      "book": "Финансы\\Финансы анализ книг NotebookLM"
+    },
+    {
+      "name": "Business idea",
+      "type": "method",
+      "book": "Финансы\\Финансы анализ книг NotebookLM"
+    },
+    {
+      "name": "TEO",
+      "type": "document",
+      "book": "Финансы\\Финансы анализ книг NotebookLM"
+    },
+    {
+      "name": "Business plan",
+      "type": "document",
+      "book": "Финансы\\Финансы анализ книг NotebookLM"
+    },
+    {
+      "name": "Financing organization",
+      "type": "person",
+      "book": "Финансы\\Финансы анализ книг NotebookLM"
+    },
+    {
+      "name": "Investment stage",
+      "type": "stage",
+      "book": "Финансы\\Финансы анализ книг NotebookLM"
+    },
+    {
+      "name": "Tenders and procurements",
+      "type": "method",
+      "book": "Финансы\\Финансы анализ книг NotebookLM"
+    },
+    {
+      "name": "Construction...",
+      "type": "method",
+      "book": "Финансы\\Финансы анализ книг NotebookLM"
+    },
+    {
+      "name": "Commissioning",
+      "type": "stage",
+      "book": "Финансы\\Финансы анализ книг NotebookLM"
+    },
+    {
+      "name": "Operational stage",
+      "type": "stage",
+      "book": "Финансы\\Финансы анализ книг NotebookLM"
+    },
+    {
+      "name": "Product production",
+      "type": "method",
+      "book": "Финансы\\Финансы анализ книг NotebookLM"
+    },
+    {
+      "name": "Payment",
+      "type": "principle",
+      "book": "Финансы\\Финансы анализ книг NotebookLM"
+    }
+  ],
+  "entity_type_counts": {
+    "method": 19,
+    "person": 16,
+    "concept": 16,
+    "principle": 15,
+    "stage": 4,
+    "company": 3,
+    "document": 2,
+    "publisher": 1,
+    "person/principle": 1,
+    "tool": 1
+  },
+  "top_entities": {
+    "Роберт Кийосаки": 1,
+    "Богатый папа": 1,
+    "Бедный папа": 1,
+    "Бухтияров А.": 1,
+    "бизнес MLM": 1,
+    "planned spending": 1,
+    "waiting for discounts": 1,
+    "reusing items": 1,
+    "Анастасия Веселко": 1,
+    "ООО \"Альпина Паблишер\", 2026": 1,
+    "Meta Platforms Inc.": 1,
+    "рыночные отношения": 1,
+    "книжный рынок": 1,
+    "цель": 1,
+    "трудность": 1,
+    "работа": 1,
+    "постоянство": 1,
+    "воля": 1,
+    "ритм и гармония": 1,
+    "финансовая стратегия": 1,
+    "финансовая грамотность": 1,
+    "финансовая дисциплина": 1,
+    "резервный фонд": 1,
+    "Алексей Беляев": 1,
+    "Магия Финансов": 1,
+    "Amirbek": 1,
+    "Дарья Трутнева": 1,
+    "Лафасад": 1,
+    "Лакшми": 1,
+    "self-esteem": 1
+  },
+  "relationships": [
+    {
+      "source": "Роберт Кийосаки",
+      "target": "Богатый папа",
+      "relation": "автор",
+      "book": "Финансы\\robert-kiyosaki-bogatyy-papa-bednyy-papa"
+    },
+    {
+      "source": "Роберт Кийосаки",
+      "target": "Бедный папа",
+      "relation": "созданный персонаж",
+      "book": "Финансы\\robert-kiyosaki-bogatyy-papa-bednyy-papa"
+    },
+    {
+      "source": "Бухтияров А.",
+      "target": "замкнутый круг",
+      "relation": "описание",
+      "book": "Финансы\\Александр Бухтияров - Как выбраться из замкнутого круга"
+    },
+    {
+      "source": "бизнес MLM",
+      "target": "замкнутый круг",
+      "relation": "выход из замкнутого круга",
+      "book": "Финансы\\Александр Бухтияров - Как выбраться из замкнутого круга"
+    },
+    {
+      "source": "planned spending",
+      "target": "Think before buying unnecessary items",
+      "book": "Финансы\\Александр Левитас - 124 способа сэкономить, не ущемляя себя"
+    },
+    {
+      "source": "waiting for discounts",
+      "target": "Delay purchases to wait for cheaper prices on electronics and similar items",
+      "book": "Финансы\\Александр Левитас - 124 способа сэкономить, не ущемляя себя"
+    },
+    {
+      "source": "reusing items",
+      "target": "Reuse or exchange books instead of buying new ones",
+      "book": "Финансы\\Александр Левитас - 124 способа сэкономить, не ущемляя себя"
+    },
+    {
+      "source": "Анастасия Веселко",
+      "target": "book",
+      "relation": "author",
+      "book": "Финансы\\Анастасия Веселко - Быть в Плюсе  Новый подход к личным финансам"
+    },
+    {
+      "source": "ООО \"Альпина Паблишер\", 2026",
+      "target": "publisher",
+      "relation": "publisher",
+      "book": "Финансы\\Анастасия Веселко - Быть в Плюсе  Новый подход к личным финансам"
+    },
+    {
+      "source": "рыночные отношения",
+      "target": "книжный рынок",
+      "book": "Финансы\\Арк. Шах-Ч - Руководство к успеху в жизни и денежных делах"
+    },
+    {
+      "source": "цель",
+      "target": "трудность",
+      "book": "Финансы\\Арк. Шах-Ч - Руководство к успеху в жизни и денежных делах"
+    },
+    {
+      "source": "финансовая стратегия",
+      "target": "рыночные изменения",
+      "relation": "направление",
+      "book": "Финансы\\Артем Демиденко - Деньги под контроль  Финансовая стратегия для бизнеса"
+    },
+    {
+      "source": "финансовая грамотность",
+      "target": "компания",
+      "relation": "культура",
+      "book": "Финансы\\Артем Демиденко - Деньги под контроль  Финансовая стратегия для бизнеса"
+    },
+    {
+      "source": "финансовая дисциплина",
+      "target": "бизнес",
+      "relation": "краеугольный камень долгосрочного успеха",
+      "book": "Финансы\\Артем Демиденко - Деньги под контроль  Финансовая стратегия для бизнеса"
+    },
+    {
+      "source": "резервный фонд",
+      "target": "бизнес",
+      "relation": "обеспечение стабильности и безопасности",
+      "book": "Финансы\\Артем Демиденко - Деньги под контроль  Финансовая стратегия для бизнеса"
+    },
+    {
+      "source": "Алексей Беляев",
+      "target": "Магия Финансов",
+      "relation": "автор",
+      "book": "Финансы\\Беляев Алексей - Магия финансов"
+    },
+    {
+      "source": "Amirbek",
+      "target": "Sandjar",
+      "relation": "mentor",
+      "book": "Финансы\\Генрих Эрдман - Пять шагов к богатству, или Путь к финансовой своб"
+    },
+    {
+      "source": "Дарья Трутнева",
+      "target": "Лафасад",
+      "relation": "основательница",
+      "book": "Финансы\\Дарья Трутнева - Как пустить в свою жизнь большие деньги"
+    },
+    {
+      "source": "self-esteem",
+      "target": "success",
+      "relation": "influences",
+      "book": "Финансы\\Джо Карбо - Как заработать деньги будучи ленивым."
+    },
+    {
+      "source": "goal setting",
+      "target": "achievement",
+      "relation": "facilitates",
+      "book": "Финансы\\Джо Карбо - Как заработать деньги будучи ленивым."
+    },
+    {
+      "source": "visualization",
+      "target": "goal achievement",
+      "relation": "helps achieve",
+      "book": "Финансы\\Джо Карбо - Как заработать деньги будучи ленивым."
+    },
+    {
+      "source": "Кристина Бенито",
+      "target": "financial awareness",
+      "relation": "topic",
+      "book": "Финансы\\Кристина Бенито - Финансовая осознанность. Как зарабатывать, экономить и приумножать деньги"
+    },
+    {
+      "source": "Кристина Бенито",
+      "target": "mindfulness",
+      "relation": "comparison",
+      "book": "Финансы\\Кристина Бенито - Финансовая осознанность. Как зарабатывать, экономить и приумножать деньги"
+    },
+    {
+      "source": "Кристина Бенито",
+      "target": "consciousness of finances",
+      "relation": "topic",
+      "book": "Финансы\\Кристина Бенито - Финансовая осознанность. Как зарабатывать, экономить и приумножать деньги"
+    },
+    {
+      "source": "User",
+      "target": "Mobile application",
+      "relation": "Uses",
+      "book": "Финансы\\Ли Кун Яо - 200 способов сэкономить, улучшая качество жизни"
+    },
+    {
+      "source": "Mihir A. Desai",
+      "target": "How Finance Works: The HBR Guide to Thinking Smart About the Numbers",
+      "relation": "author",
+      "book": "Финансы\\Михир Десаи - Разумный финансист. Знает, что стоит за цифрами, управляет рисками, получает прибыль"
+    },
+    {
+      "source": "Company G, Company N",
+      "target": "capital structure",
+      "relation": "differ in capital structure",
+      "book": "Финансы\\Михир Десаи - Разумный финансист. Знает, что стоит за цифрами, управляет рисками, получает прибыль"
+    },
+    {
+      "source": "Napoleon Hill",
+      "target": "Thinking patterns",
+      "relation": "author's concept",
+      "book": "Финансы\\Наполеон Хилл - Механизмы работы мозга, которые делают нас богатыми. Понять, освоить, применить!"
+    },
+    {
+      "source": "Otec Divine",
+      "target": "Overcoming adversity",
+      "relation": "example of application",
+      "book": "Финансы\\Наполеон Хилл - Механизмы работы мозга, которые делают нас богатыми. Понять, освоить, применить!"
+    },
+    {
+      "source": "Наталья Легеза",
+      "target": "учетная система предприятия",
+      "relation": "обсуждает",
+      "book": "Финансы\\Наталья Легеза - Где деньги"
+    },
+    {
+      "source": "User",
+      "target": "WebMoney",
+      "relation": "uses",
+      "book": "Финансы\\Никита Сенченко - Курс обучения WebMoney"
+    },
+    {
+      "source": "Николай Волк",
+      "target": "Бунтарь",
+      "relation": "автор",
+      "book": "Финансы\\Николай Волк - Код денег. Сила простых денежных действий. Как определить свой денежный архитип, повы"
+    },
+    {
+      "source": "Анна",
+      "target": "Бунтарь",
+      "relation": "пример",
+      "book": "Финансы\\Николай Волк - Код денег. Сила простых денежных действий. Как определить свой денежный архитип, повы"
+    },
+    {
+      "source": "GTD",
+      "target": "краткосрочная память",
+      "relation": "метод/функция",
+      "book": "Финансы\\Николай Додонов - GTD. Практический курс. Самоучитель по тайм-менедж"
+    },
+    {
+      "source": "GTD",
+      "target": "Накопители",
+      "relation": "метод/принцип",
+      "book": "Финансы\\Николай Додонов - GTD. Практический курс. Самоучитель по тайм-менедж"
+    },
+    {
+      "source": "Book",
+      "target": "Financial Management",
+      "relation": "Explanation of method",
+      "book": "Финансы\\Николай Додонов - Как без вложений увеличить прибыль кафе или рестор"
+    },
+    {
+      "source": "Павел Волков",
+      "target": "Клава",
+      "relation": "mentor",
+      "book": "Финансы\\Павел Волков - Первые шаги к финансовой независимости"
+    },
+    {
+      "source": "Павел Волков",
+      "target": "Серьезных потерь средств в инвестировании",
+      "relation": "opposes",
+      "book": "Финансы\\Павел Волков - Первые шаги к финансовой независимости"
+    },
+    {
+      "source": "Project analysis",
+      "target": "Investment project",
+      "relation": "is a method for",
+      "book": "Финансы\\Финансы анализ книг NotebookLM"
+    },
+    {
+      "source": "Investment project",
+      "target": "Temporary enterprise",
+      "relation": "is a type of",
+      "book": "Финансы\\Финансы анализ книг NotebookLM"
+    },
+    {
+      "source": "Temporary enterprise",
+      "target": "Unique result",
+      "relation": "produces",
+      "book": "Финансы\\Финансы анализ книг NotebookLM"
+    },
+    {
+      "source": "Temporary enterprise",
+      "target": "Limited resources",
+      "relation": "requires",
+      "book": "Финансы\\Финансы анализ книг NotebookLM"
+    },
+    {
+      "source": "Investment project",
+      "target": "SMART goal",
+      "relation": "needs to have a",
+      "book": "Финансы\\Финансы анализ книг NotebookLM"
+    },
+    {
+      "source": "Investment project",
+      "target": "Budget and cost",
+      "relation": "has a budget and cost",
+      "book": "Финансы\\Финансы анализ книг NotebookLM"
+    },
+    {
+      "source": "Investment project",
+      "target": "Life cycle",
+      "relation": "goes through a life cycle",
+      "book": "Финансы\\Финансы анализ книг NotebookLM"
+    },
+    {
+      "source": "Investment project",
+      "target": "Classification",
+      "relation": "is classified by",
+      "book": "Финансы\\Финансы анализ книг NotebookLM"
+    },
+    {
+      "source": "Investment project",
+      "target": "Scale (small, mega-project...)",
+      "relation": "can be of different scales",
+      "book": "Финансы\\Финансы анализ книг NotebookLM"
+    },
+    {
+      "source": "Investment project",
+      "target": "Complexity",
+      "relation": "has a level of complexity",
+      "book": "Финансы\\Финансы анализ книг NotebookLM"
+    },
+    {
+      "source": "Investment project",
+      "target": "Timeline",
+      "relation": "takes a certain amount of time",
+      "book": "Финансы\\Финансы анализ книг NotebookLM"
+    },
+    {
+      "source": "Investment project",
+      "target": "Innovative projects",
+      "relation": "can be innovative",
+      "book": "Финансы\\Финансы анализ книг NotebookLM"
+    },
+    {
+      "source": "Investment project",
+      "target": "Project life cycle",
+      "relation": "follows the project life cycle",
+      "book": "Финансы\\Финансы анализ книг NotebookLM"
+    },
+    {
+      "source": "Pre-investment stage",
+      "target": "Business idea",
+      "relation": "develops a business idea",
+      "book": "Финансы\\Финансы анализ книг NotebookLM"
+    },
+    {
+      "source": "Pre-investment stage",
+      "target": "TEO",
+      "relation": "prepares TEO",
+      "book": "Финансы\\Финансы анализ книг NotebookLM"
+    },
+    {
+      "source": "Pre-investment stage",
+      "target": "Business plan",
+      "relation": "creates a business plan",
+      "book": "Финансы\\Финансы анализ книг NotebookLM"
+    },
+    {
+      "source": "Investment stage",
+      "target": "Financing organization",
+      "relation": "receives financing from",
+      "book": "Финансы\\Финансы анализ книг NotebookLM"
+    },
+    {
+      "source": "Investment stage",
+      "target": "Tenders and procurements",
+      "relation": "may involve tenders and procurements",
+      "book": "Финансы\\Финансы анализ книг NotebookLM"
+    },
+    {
+      "source": "Construction...",
+      "target": "Commissioning",
+      "relation": "leads to commissioning",
+      "book": "Финансы\\Финансы анализ книг NotebookLM"
+    },
+    {
+      "source": "Operational stage",
+      "target": "Product production",
+      "relation": "involves product production",
+      "book": "Финансы\\Финансы анализ книг NotebookLM"
+    },
+    {
+      "source": "Payment",
+      "target": "Investment project",
+      "relation": "is made for the investment project",
+      "book": "Финансы\\Финансы анализ книг NotebookLM"
+    }
+  ]
+}
