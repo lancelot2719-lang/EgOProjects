@@ -1,0 +1,89 @@
+{
+  "exported_at": "2026-08-04",
+  "session_id": "opencode-session-2026-08-04",
+  "project": {
+    "root": "D:\\AI_Project",
+    "description": "Общий AI-центр: агенты, знания, второй мозг, инструменты"
+  },
+
+  "project_file_map": {
+    "Ключевые конфиги": {
+      "AGENTS.md": "D:\\AI_Project\\AGENTS.md",
+      "CLAUDE.md": "D:\\AI_Project\\CLAUDE.md",
+      "opencode.json": "D:\\AI_Project\\opencode.json",
+      "README.md": "D:\\AI_Project\\README.md",
+      ".claude/memory.md": "D:\\AI_Project\\.claude\\memory.md",
+      ".claude/projects.md": "D:\\AI_Project\\.claude\\projects.md"
+    },
+    "Агенты и скиллы": {
+      "Скиллы": "D:\\AI_Project\\.agents\\skills",
+      "package book-analysis": "D:\\AI_Project\\.agents\\skills\\book-analysis\\SKILL.md",
+      "package notebooklm": "D:\\AI_Project\\.claude\\skills\\notebooklm\\SKILL.md"
+    },
+    "Второй мозг (маршрутизация)": {
+      "business": "D:\\AI_Project\\business",
+      "ai-clone": "D:\\AI_Project\\ai-clone",
+      "health": "D:\\AI_Project\\health",
+      "finance": "D:\\AI_Project\\finance",
+      "sales": "D:\\AI_Project\\sales",
+      "notes": "D:\\AI_Project\\notes",
+      "projects": "D:\\AI_Project\\projects",
+      "tech": "D:\\AI_Project\\tech",
+      "relationships": "D:\\AI_Project\\relationships"
+    },
+    "База знаний RAG": {
+      "rag_simple.py": "D:\\AI_Project\\rag_simple.py",
+      "booklm.py": "D:\\AI_Project\\booklm.py",
+      "booklm_chunks.pkl": "D:\\AI_Project\\booklm_chunks.pkl",
+      "convert_all_fb2.py": "D:\\AI_Project\\convert_all_fb2.py",
+      "move_books.py": "D:\\AI_Project\\move_books.py",
+      "my_knowledge.txt": "D:\\AI_Project\\my_knowledge.txt"
+    },
+    "Прочие категории": {
+      "Обучение": "D:\\AI_Project\\development",
+      "Философия/эзотерика": "D:\\AI_Project\\esoteric",
+      "Заметки полемики": "D:\\AI_Project\\polemica-notes",
+      "Бедхабит": "D:\\AI_Project\\badhabit",
+      "Мышление": "D:\\AI_Project\\thinking",
+      "Коммуникация": "D:\\AI_Project\\communication",
+      "Тайм-менеджмент": "D:\\AI_Project\\time_management"
+    },
+    "Утилиты из Downloads (для агентов 500+ AI)": {
+      "source_downloads": "Agenты скачаны пользователем в C:\\Users\\x2\\Downloads",
+      "пример_запуска": "agents/01-web-research-agent -> pip install -r requirements.txt; cp .env.example .env; python agent.py"
+    }
+  },
+
+  "session_history": [
+    {
+      "timestamp": "шаг 1",
+      "role": "user",
+      "message": "Ссылка и промо на коллекцию 500+ AI-агентов (ashishpatel26/500-AI-Agents-Projects): чат-боты, автоматизация, анализ данных, трейдинг, генерация контента, поиск информации, ассистенты. Просьба установить в диск D в Project.",
+      "assistant_summary": "Составлен PowerShell-скрипт установки: git clone репозитория 500-AI-Agents-Projects, копирование в структуру D:\\AI_Project, настройка окружения (pip install -r requirements.txt, cp .env.example .env, python agent.py), резервное копирование."
+    },
+    {
+      "timestamp": "шаг 2",
+      "role": "user",
+      "message": "Скачал файлы проектов с GitHub в C:\\Users\\x2\\Downloads.",
+      "assistant_summary": "Описана структура переноса из Downloads в центральный хаб D:\\AI_Project: папки projects/, second-brain/ (business, ai-clone, health, daily, learning, mafia), tools/mcp_servers/, knowledge-base/ (books_raw, chroma_db, rag-query.py). Даны команды git clone, настройки MCP-серверов, индексация через rag-query.py."
+    },
+    {
+      "timestamp": "шаг 3",
+      "role": "user",
+      "message": "Видишь ли ты установленных агентов? Как их посмотреть?",
+      "assistant_summary": "Пояснил, что в сессии видны только доступные агенты/скиллы (book-analysis, notebooklm). Для просмотра остальных нужно указать место хранения конфигов (cli-agents.yaml, .opencode/, D:\\AI_Project\\.claude\\skills\\...)."
+    },
+    {
+      "timestamp": "шаг 4",
+      "role": "user",
+      "message": "Объясни про агентов из скачанной коллекции: как их запускать и что они умеют.",
+      "assistant_summary": "Объяснение запуска агентов из 500-AI-Agents-Projects: переход в каталог конкретного агента (agents/XX-название), установка зависимостей, копирование .env, запуск agent.py. Описание возможностей (чат-боты, автоматизация, анализ, трейдинг, контент, поиск)."
+    },
+    {
+      "timestamp": "шаг 5",
+      "role": "user",
+      "message": "Просто выгрузи историю этого чата/сессии (переписка с ответами) в формате JSON с информацией о том, где находятся файлы проекта, чтобы не запутаться.",
+      "assistant_summary": "Создан файл D:\\AI_Project\\chat_history_export.json — история сессии + карта расположения файлов проекта."
+    }
+  ]
+}
