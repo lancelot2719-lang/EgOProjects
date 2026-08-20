@@ -1,0 +1,141 @@
+{
+  "export_info": {
+    "exported_at": "2026-08-04",
+    "tool": "opencode",
+    "model": "opencode/deepseek-v4-flash-free",
+    "workspace_root": "D:\\AI_Project",
+    "file": "notes\\chat-exports\\session-notebooklm-2026-08-04.json",
+    "note": "Экспорт включает полную переписку сессии и карту расположения файлов проекта"
+  },
+  "session_topic": "NotebookLM плагины для браузера + план создания собственного аналога NotebookLM",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Notebook LM.\nПлагины для браузера чтобы он работал лучше\n\n00:00 Почему NotebookLM без расширений — это половина инструмента\n00:47 Как устанавливать расширения Chrome (гайд для новичков)\n01:33 Web Importer — сохранение любых страниц в блокнот\n02:53 Add to NotebookLM — захват страниц как PDF + парсинг комментариев\n05:07 YouTube to NotebookLM — импорт целых каналов и плейлистов\n07:08 Web Sync — обход и импорт целых сайтов за один клик\n09:29 Cortex — самое мощное расширение: импорт из ChatGPT, Reddit, соцсетей\n13:55 NotebookLM Tools — папки, теги, промпты и управление подкастами\n15:35 Extend — запись аудио встреч и вебинаров прямо в браузере\n17:57 Переключение языка интерфейса NotebookLM на русский\n18:59 Mind Map Extractor — экспорт карт мыслей в FreeMind и OPML\n19:32 Ultra Exporter — экспорт всего в Word, PDF, Markdown и LaTeX\n21:24 Итоги: какие расширения ставить в первую очередь"
+    },
+    {
+      "role": "assistant",
+      "content": "Разбор расширений NotebookLM, сгруппированных по функциям, с оценкой приоритетов установки.\n\nБАЗОВЫЙ МИНИМУМ (ставить сначала):\n- Add to NotebookLM (4.8-4.9) — захват страниц как PDF + парсинг комментариев\n- YouTube to NotebookLM (4.7) — импорт целых каналов/плейлистов\n\nРАСШИРЕННЫЙ КОМПЛЕКТ:\n- Cortex (4.6) — импорт из ChatGPT, Reddit, соцсетей (самое мощное)\n- Extend — запись аудио встреч и вебинаров\n- Web Sync — импорт целых сайтов за один клик (тяжело грузит браузер)\n\nУПРАВЛЕНИЕ ФАЙЛАМИ:\n- NotebookLM Tools — папки, теги, промпты, управление подкастами\n\nЭКСПОРТ:\n- Mind Map Extractor — карты мыслей в FreeMind и OPML\n- Ultra Exporter — экспорт в Word, PDF, Markdown, LaTeX\n\nПрочее: Web Importer (страницы), переключение языка интерфейса на русский"
+    },
+    {
+      "role": "user",
+      "content": "Нужно будет потом сделать своё приложение объединяющее всё это.\nТакже сделать аналог notebooklm чтобы не было ограничений по пользованию"
+    },
+    {
+      "role": "assistant",
+      "content": "Сформулирован план как две независимые задачи: (1) приложение, объединяющее методы/правила работы, (2) аналог NotebookLM без лицензионных ограничений. Отмечено: для первой части нужна работа с кодом/архитектурой (.NET, .js/.ts), для второй — open-source альтернативы (huggingface/open-webui). Уровень уверенности по плану создания приложения — 9/10, так как это стандартная задача для .NET/.JS"
+    },
+    {
+      "role": "user",
+      "content": "Просто выгрузи мне историю этого чата, сессии. Моя переписка с ответами. В формате json"
+    },
+    {
+      "role": "assistant",
+      "content": "Первоначально объяснено техническое ограничение UI: нет прямого API-метода export_chat_history(), интерфейс не хранит сессию как файл. Предложены альтернативы: текстовый экспорт, локальный экспорт через API, сохранение через Obsidian REST. Ответ доработан ниже по запросу с добавлением карты файлов"
+    },
+    {
+      "role": "user",
+      "content": "Просто выгрузи мне историю этого чата, сессии. Моя переписка с ответами. В формате json\nС информацией где находятся файлы проекта чтобы не запутаться"
+    },
+    {
+      "role": "assistant",
+      "content": "Создан данный файл session-notebooklm-2026-08-04.json с полной историей переписки сессии и картой расположения файлов проекта. Карта файлов приведена в поле project_files ниже"
+    }
+  ],
+  "project_files_map": {
+    "корень проекта": {
+      "путь": "D:\\AI_Project",
+      "заметка": "Только AGENTS.md и opencode.json + тематические папки"
+    },
+    "AGENTS.md": {
+      "путь": "D:\\AI_Project\\AGENTS.md",
+      "роль": "Системная инструкция для ИИ: роли, RAG, второй мозг, правила маршрутизации"
+    },
+    "opencode.json": {
+      "путь": "D:\\AI_Project\\opencode.json",
+      "роль": "Конфигурация opencode"
+    },
+    "сборки_и_инструменты": {
+      "skills": "D:\\AI_Project\\.agents\\skills",
+      "навык_book_analysis": "D:\\AI_Project\\.agents\\skills\\book-analysis",
+      "навык_notebooklm": "D:\\AI_Project\\.agents\\skills\\notebooklm и D:\\AI_Project\\.claude\\skills\\notebooklm",
+      "профиль_claude": "D:\\AI_Project\\.claude-home",
+      "opencode_node_modules": "D:\\AI_Project\\.opencode",
+      "chromedriver": "D:\\AI_Project\\chromedriver-win64",
+      "git": "D:\\AI_Project\\Git"
+    },
+    "health": {
+      "путь": "D:\\AI_Project\\health",
+      "дочерние": ["BadHabit", "books", "converted_sleep"]
+    },
+    "видео_и_переписки": {
+      "папка_видео": "D:\\AI_Project\\���ᮢ��",
+      "папка_переписки_claude": "D:\\AI_Project\\���Ҳ��_Claude",
+      "папка_тексты_NotebookLM": "D:\\AI_Project\\�᪨��_���_NotebookLM",
+      "заметка": "Имена кириллических папок в консоли отображаются искажённой кодировкой (OEM 866 вместо UTF-8)"
+    },
+    "business": {
+      "путь": "D:\\AI_Project\\business",
+      "www_логи": "D:\\AI_Project\\business\\logs"
+    },
+    "заметки": {
+      "notes": "D:\\AI_Project\\notes",
+      "chat_exports": "D:\\AI_Project\\notes\\chat-exports  <-- текущий JSON здесь",
+      "texts": "D:\\AI_Project\\notes\\texts"
+    },
+    "Obsidian": {
+      "хранилище_EgO_Info": "D:\\AI_Project\\Obsidian\\EgO Info",
+      "хранилище_EgO2": "D:\\AI_Project\\Obsidian\\EgO2",
+      "хранилище_Zametki": "D:\\AI_Project\\Obsidian\\Zametki"
+    },
+    "ollama_и_модели": {
+      "ollama": "D:\\AI_Project\\ollama",
+      "веса_whisper_large_v3": "D:\\AI_Project\\ollama\\xkeyC\\whisper-large-v3-turbo-gguf",
+      "hf_cache": "D:\\AI_Project\\hf-cache (модели: Unlimited-OCR, whisper, sentence-transformers)"
+    },
+    "projects": {
+      "cyberscraper_2077": "D:\\AI_Project\\projects\\cyberscraper-2077",
+      "knigi": "D:\\AI_Project\\projects\\knigi",
+      "knowledge_base_RAG": "D:\\AI_Project\\projects\\knowledge-base",
+      "база_книг_raw": "D:\\AI_Project\\projects\\knowledge-base\\books_raw",
+      "база_векторная_chroma": "D:\\AI_Project\\projects\\knowledge-base\\chroma_db",
+      "second_brain": "D:\\AI_Project\\projects\\second-brain",
+      "sleep": "D:\\AI_Project\\projects\\sleep",
+      "video": "D:\\AI_Project\\projects\\video"
+    },
+    "second_brain_домены": {
+      "ai_clone": "D:\\AI_Project\\projects\\second-brain\\ai-clone (role.md, identity, principles, feedback, voice, style)",
+      "business": "D:\\AI_Project\\projects\\second-brain\\business",
+      "daily": "D:\\AI_Project\\projects\\second-brain\\daily",
+      "health": "D:\\AI_Project\\projects\\second-brain\\health",
+      "learning": "D:\\AI_Project\\projects\\second-brain\\learning",
+      "mafia": "D:\\AI_Project\\projects\\second-brain\\mafia",
+      "projects": "D:\\AI_Project\\projects\\second-brain\\projects",
+      "tools": "D:\\AI_Project\\projects\\second-brain\\tools"
+    },
+    "tech": {
+      "llm_council": "D:\\AI_Project\\tech\\llm-council (backend, frontend)",
+      "markitdown": "D:\\AI_Project\\tech\\markitdown-main",
+      "opencode_migration": "D:\\AI_Project\\tech\\opencode-migration",
+      "opencode_parser": "D:\\AI_Project\\tech\\opencode-parser-main",
+      "whisper_flow": "D:\\AI_Project\\tech\\whisper_flow"
+    },
+    "temp_пайплайны": {
+      "openwebui_env": "D:\\AI_Project\\temp\\openwebui-env",
+      "book_pipeline": "D:\\AI_Project\\temp\\book_pipeline",
+      "cloud_pipeline": "D:\\AI_Project\\temp\\cloud_pipeline",
+      "pipeline_v3..v5": "D:\\AI_Project\\temp\\pipeline_v3 / v4 / v5"
+    },
+    "прочее": {
+      "badhabit": "D:\\AI_Project\\badhabit",
+      "cloude": "D:\\AI_Project\\Cloude",
+      "polemica_notes_mafia": "D:\\AI_Project\\polemica-notes",
+      "free_claude": "D:\\AI_Project\\Free Claude",
+      "unlimited_ocr": "D:\\AI_Project\\Unlimited-OCR",
+      "npm_global": "D:\\AI_Project\\npm-global"
+    },
+    "важное_предупреждение": {
+      "кодировка": "Кириллические имена папок (например D:\\AI_Project\\���ᮢ��) отображаются искажённо в PowerShell. Это ДОЛЖНО быть D:\\AI_Project\\финансы. Для работы с ними используй фактический путь на диске через проводник, а не через PowerShell-кодировку"
+    }
+  }
+}

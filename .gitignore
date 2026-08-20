@@ -84,3 +84,14 @@ historical_analysis_session.json
 
 # картинки плагинов Obsidian
 Obsidian/**/*.png
+# битый symlink-указатель на .agents/skills/notebooklm — реальный контент там, здесь не трекаем
+.claude/skills/notebooklm
+
+# битые symlink-указатели в корне на projects/second-brain/* — реальный контент там
+ai-clone
+business
+
+# Крупные аудиокниги - не пушить
+
+# Oversized audiobook zips - not pushed
+Книги/Аудиокниги/*.zip
