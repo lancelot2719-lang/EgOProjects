@@ -25,8 +25,10 @@
 
 1. **Установить Windows на новый SSD** (не форматировать D: и E:).
 2. Скопировать `D:\SAVE\` (бекап) на новую систему.
-3. **Перенести работу на SSD**: `D:\AI_Project` → `SSD:\AI_Project` (152.8 ГБ целиком, на ≥1 ТБ влезет).
-   - Содержимое: Книги 71.5 ГБ, ollama 43.3 ГБ (модели), Ежедневник 18.3 ГБ, hf-cache 5.7, projects/tech и т.д.
+3. **Перенести работу на SSD**: `D:\AI_Project` → `C:\AI\Projects` (152.8 ГБ целиком, на 2TB влезет с огромным запасом).
+   - Содержимое: Книги 71.5 ГБ, ollama 43.3 ГБ (модели — переехать в `C:\AI\Ollama` через `OLLAMA_MODELS`), Ежедневник 18.3 ГБ, hf-cache 5.7 (→ `C:\AI\HuggingFace` через `HF_HOME`), projects/tech и т.д.
+   - Финальная разметка дисков (2TB / 250GB / HDD) и роли каждого — см. `tech/pc-build-plan.md`, раздел «Разметка дисков».
+   - После переноса настроить `tech/backup-ai-work.ps1` (ежедневный robocopy-mirror `C:\AI\Projects` → `E:\Backup\AI_Project`) через Task Scheduler.
 4. Восстановить сейвы: `Saved Games`, `AppData\Local\Larian Studios\Baldur's Gate 3` (PlayerProfiles+Mods).
 5. Восстановить конфиги: `AppData\Roaming\*`, `.config\` (OpenCode, Ollama), `.lmstudio`.
 6. Импортировать WiFi-пароли (`wifi_passwords.csv`).
