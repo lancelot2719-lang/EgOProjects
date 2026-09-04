@@ -2,10 +2,29 @@
   "$schema": "https://opencode.ai/config.json",
   "instructions": ["AGENTS.md"],
   "model": "ollama/qwen3.5:latest",
+  "default_agent": "plan",
+  "agent": {
+    "build": {
+      "mode": "primary",
+      "model": "ollama/qwen3.5:latest",
+      "permission": {
+        "edit": "allow",
+        "bash": "allow"
+      }
+    },
+    "plan": {
+      "mode": "primary",
+      "model": "ollama/qwen3.5:latest",
+      "permission": {
+        "edit": "deny",
+        "bash": "deny"
+      }
+    }
+  },
   "mcp": {
     "obsidian": {
       "type": "local",
-      "command": ["D:\\AI_Project\\npm-global\\obsidian-mcp-server.cmd"],
+      "command": ["npm-global\\obsidian-mcp-server.cmd"],
       "enabled": true,
       "environment": {
         "OBSIDIAN_API_KEY": "2fda89f1843c614667f350e37a39fdfb1caccf961d410bd5f725cc9b7e086efd"
@@ -46,6 +65,12 @@
         },
         "qwen3-coder:latest": {
           "name": "Qwen 3 Coder (local)"
+        },
+        "qwen3.6:latest": {
+          "name": "Qwen 3.6 (local)"
+        },
+        "gemma4:26b": {
+          "name": "Gemma 4 26B (local)"
         }
       }
     }
