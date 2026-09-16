@@ -1,0 +1,564 @@
+[2026-09-14 22:36:41] === КНИГА: parts_prodat === [D:\AI_Project\LocalTest\parts_prodat]
+[2026-09-14 22:36:41] Использую 37 готовых частей из D:\AI_Project\LocalTest\parts_prodat напрямую, без пересборки.
+[2026-09-14 22:36:41] Переключаю модель LM Studio -> openai/gpt-oss-20b (identifier=extractor, context=60000)
+[2026-09-14 22:36:41] Команда: lms load openai/gpt-oss-20b --identifier=extractor --context-length=60000 --gpu=max
+[2026-09-14 22:36:53] lms load stdout: [?25l
+Loading openai/gpt-oss-20b 0% в ‹[?25l
+Loading openai/gpt-oss-20b 0% в ™[?25l
+Loading openai/gpt-oss-20b 2% в ™[?25l
+Loading openai/gpt-oss-20b 2% в №[?25l
+Loading openai/gpt-oss-20b 4% в №[?25l
+Loading openai/gpt-oss-20b 4% в ё[?25l
+Loading openai/gpt-oss-20b 4% в ј[?25l
+Loading openai/gpt-oss-20b 6% в ј[?25l
+Loading openai/gpt-oss-20b 6% в ґ[?25l
+Loading openai/gpt-oss-20b 7% в ґ[?25l
+Loading openai/gpt-oss-20b 7% в ¦[?25l
+Loading openai/gpt-oss-20b 9% в ¦[?25l
+Loading openai/gpt-oss-20b 9% в §[?25l
+Loading openai/gpt-oss-20b 11% в §[?25l
+Loading openai/gpt-oss-20b 11% в ‡[?25l
+Loading openai/gpt-oss-20b 11% в Џ[?25l
+Loading openai/gpt-oss-20b 12% в Џ[?25l
+Loading openai/gpt-oss-20b 12% в ‹[?25l
+Loading openai/gpt-oss-20b 14% в ‹[?25l
+Loading openai/gpt-oss-20b 14% в ™[?25l
+Loading openai/gpt-oss-20b 15% в ™[?25l
+Loading openai/gpt-oss-20b 15% в №[?25l
+Loading openai/gpt-oss-20b 15% в ё[?25l
+Loading openai/gpt-oss-20b 17% в ё[?25l
+Loading openai/gpt-oss-20b 17% в ј[?25l
+Loading openai/gpt-oss-20b 18% в ј[?25l
+Loading openai/gpt-oss-20b 18% в ґ[?25l
+Loading openai/gpt-oss-20b 19% в ґ[?25l
+Loading openai/gpt-oss-20b 19% в ¦[?25l
+Loading openai/gpt-oss-20b 21% в ¦[?25l
+Loading openai/gpt-oss-20b 21% в §[?25l
+Loading openai/gpt-oss-20b 21% в ‡[?25l
+Loading openai/gpt-oss-20b 22% в ‡[?25l
+Loading openai/gpt-oss-20b 22% в Џ[?25l
+Loading openai/gpt-oss-20b 23% в Џ[?25l
+Loading openai/gpt-oss-20b 23% в ‹[?25l
+Loading openai/gpt-oss-20b 24% в ‹[?25l
+Loading openai/gpt-oss-20b 24% в ™[?25l
+Loading openai/gpt-oss-20b 24% в №[?25l
+Loading openai/gpt-oss-20b 26% в №[?25l
+Loading openai/gpt-oss-20b 26% в ё[?25l
+Loading openai/gpt-oss-20b 27% в ё[?25l
+Loading openai/gpt-oss-20b 27% в ј[?25l
+Loading openai/gpt-oss-20b 28% в ј[?25l
+Loading openai/gpt-oss-20b 28% в ґ[?25l
+Loading openai/gpt-oss-20b 29% в ґ[?25l
+Loading openai/gpt-oss-20b 29% в ¦[?25l
+Loading openai/gpt-oss-20b 29% в §[?25l
+Loading openai/gpt-oss-20b 30% в §[?25l
+Loading openai/gpt-oss-20b 30% в ‡[?25l
+Loading openai/gpt-oss-20b 31% в ‡[?25l
+Loading openai/gpt-oss-20b 31% в Џ[?25l
+Loading openai/gpt-oss-20b 32% в Џ[?25l
+Loading openai/gpt-oss-20b 32% в ‹[?25l
+Loading openai/gpt-oss-20b 32% в ™[?25l
+Loading openai/gpt-oss-20b 33% в ™[?25l
+Loading openai/gpt-oss-20b 33% в №[?25l
+Loading openai/gpt-oss-20b 34% в №[?25l
+Loading openai/gpt-oss-20b 34% в ё[?25l
+Loading openai/gpt-oss-20b 34% в ё[?25l
+Loading openai/gpt-oss-20b 34% в ј[?25l
+Loading openai/gpt-oss-20b 35% в ј[?25l
+Loading openai/gpt-oss-20b 35% в ґ[?25l
+Loading openai/gpt-oss-20b 35% в ¦[?25l
+Loading openai/gpt-oss-20b 36% в ¦[?25l
+Loading openai/gpt-oss-20b 36% в §[?25l
+Loading openai/gpt-oss-20b 37% в §[?25l
+Loading openai/gpt-oss-20b 37% в ‡[?25l
+Loading openai/gpt-oss-20b 38% в ‡[?25l
+Loading openai/gpt-oss-20b 38% в Џ[?25l
+Loading openai/gpt-oss-20b 38% в ‹[?25l
+Loading openai/gpt-oss-20b 38% в ‹[?25l
+Loading openai/gpt-oss-20b 38% в ™[?25l
+Loading openai/gpt-oss-20b 39% в ™[?25l
+Loading openai/gpt-oss-20b 39% в №[?25l
+Loading openai/gpt-oss-20b 40% в №[?25l
+Loading openai/gpt-oss-20b 40% в ё[?25l
+Loading openai/gpt-oss-20b 41% в ё[?25l
+Loading openai/gpt-oss-20b 41% в ј[?25l
+Loading openai/gpt-oss-20b 41% в ґ[?25l
+Loading openai/gpt-oss-20b 41% в ґ[?25l
+Loading openai/gpt-oss-20b 41% в ¦[?25l
+Loading openai/gpt-oss-20b 42% в ¦[?25l
+Loading openai/gpt-oss-20b 42% в §[?25l
+Loading openai/gpt-oss-20b 43% в §[?25l
+Loading openai/gpt-oss-20b 43% в ‡[?25l
+Loading openai/gpt-oss-20b 43% в Џ[?25l
+Loading openai/gpt-oss-20b 43% в Џ[?25l
+Loading openai/gpt-oss-20b 43% в ‹[?25l
+Loading openai/gpt-oss-20b 44% в ‹[?25l
+Loading openai/gpt-oss-20b 44% в ™[?25l
+Loading openai/gpt-oss-20b 45% в ™[?25l
+Loading openai/gpt-oss-20b 45% в №[?25l
+Loading openai/gpt-oss-20b 45% в №[?25l
+Loading openai/gpt-oss-20b 45% в ё[?25l
+Loading openai/gpt-oss-20b 45% в ј[?25l
+Loading openai/gpt-oss-20b 46% в ј[?25l
+Loading openai/gpt-oss-20b 46% в ґ[?25l
+Loading openai/gpt-oss-20b 46% в ґ[?25l
+Loading openai/gpt-oss-20b 46% в ¦[?25l
+Loading openai/gpt-oss-20b 47% в ¦[?25l
+Loading openai/gpt-oss-20b 47% в §[?25l
+Loading openai/gpt-oss-20b 47% в ‡[?25l
+Loading openai/gpt-oss-20b 48% в ‡[?25l
+Loading openai/gpt-oss-20b 48% в Џ[?25l
+Loading openai/gpt-oss-20b 48% в Џ[?25l
+Loading openai/gpt-oss-20b 48% в ‹[?25l
+Loading openai/gpt-oss-20b 49% в ‹[?25l
+Loading openai/gpt-oss-20b 49% в ™[?25l
+Loading openai/gpt-oss-20b 49% в ™[?25l
+Loading openai/gpt-oss-20b 49% в №[?25l
+Loading openai/gpt-oss-20b 49% в ё[?25l
+Loading openai/gpt-oss-20b 50% в ё[?25l
+Loading openai/gpt-oss-20b 50% в ј[?25l
+Loading openai/gpt-oss-20b 50% в ј[?25l
+Loading openai/gpt-oss-20b 50% в ґ[?25l
+Loading openai/gpt-oss-20b 51% в ґ[?25l
+Loading openai/gpt-oss-20b 51% в ¦[?25l
+Loading openai/gpt-oss-20b 51% в §[?25l
+Loading openai/gpt-oss-20b 51% в §[?25l
+Loading openai/gpt-oss-20b 51% в ‡[?25l
+Loading openai/gpt-oss-20b 52% в ‡[?25l
+Loading openai/gpt-oss-20b 52% в Џ[?25l
+Loading openai/gpt-oss-20b 52% в Џ[?25l
+Loading openai/gpt-oss-20b 52% в ‹[?25l
+Loading openai/gpt-oss-20b 53% в ‹[?25l
+Loading openai/gpt-oss-20b 53% в ™[?25l
+Loading openai/gpt-oss-20b 53% в №[?25l
+Loading openai/gpt-oss-20b 53% в №[?25l
+Loading openai/gpt-oss-20b 53% в ё[?25l
+Loading openai/gpt-oss-20b 53% в ё[?25l
+Loading openai/gpt-oss-20b 53% в ј[?25l
+Loading openai/gpt-oss-20b 54% в ј[?25l
+Loading openai/gpt-oss-20b 54% в ґ[?25l
+Loading openai/gpt-oss-20b 54% в ґ[?25l
+Loading openai/gpt-oss-20b 54% в ¦[?25l
+Loading openai/gpt-oss-20b 54% в §[?25l
+Loading openai/gpt-oss-20b 55% в §[?25l
+Loading openai/gpt-oss-20b 55% в ‡[?25l
+Loading openai/gpt-oss-20b 55% в ‡[?25l
+Loading openai/gpt-oss-20b 55% в Џ[?25l
+Loading openai/gpt-oss-20b 56% в Џ[?25l
+Loading openai/gpt-oss-20b 56% в ‹[?25l
+Loading openai/gpt-oss-20b 56% в ™[?25l
+Loading openai/gpt-oss-20b 56% в ™[?25l
+Loading openai/gpt-oss-20b 56% в №[?25l
+Loading openai/gpt-oss-20b 56% в №[?25l
+Loading openai/gpt-oss-20b 56% в ё[?25l
+Loading openai/gpt-oss-20b 57% в ё[?25l
+Loading openai/gpt-oss-20b 57% в ј[?25l
+Loading openai/gpt-oss-20b 57% в ґ[?25l
+Loading openai/gpt-oss-20b 57% в ґ[?25l
+Loading openai/gpt-oss-20b 57% в ¦[?25l
+Loading openai/gpt-oss-20b 57% в ¦[?25l
+Loading openai/gpt-oss-20b 57% в §[?25l
+Loading openai/gpt-oss-20b 58% в §[?25l
+Loading openai/gpt-oss-20b 58% в ‡[?25l
+Loading openai/gpt-oss-20b 58% в ‡[?25l
+Loading openai/gpt-oss-20b 58% в Џ[?25l
+Loading openai/gpt-oss-20b 58% в ‹[?25l
+Loading openai/gpt-oss-20b 58% в ‹[?25l
+Loading openai/gpt-oss-20b 58% в ™[?25l
+Loading openai/gpt-oss-20b 59% в ™[?25l
+Loading openai/gpt-oss-20b 59% в №[?25l
+Loading openai/gpt-oss-20b 59% в №[?25l
+Loading openai/gpt-oss-20b 59% в ё[?25l
+Loading openai/gpt-oss-20b 59% в ј[?25l
+Loading openai/gpt-oss-20b 59% в ј[?25l
+Loading openai/gpt-oss-20b 59% в ґ[?25l
+Loading openai/gpt-oss-20b 60% в ґ[?25l
+Loading openai/gpt-oss-20b 60% в ¦[?25l
+Loading openai/gpt-oss-20b 60% в ¦[?25l
+Loading openai/gpt-oss-20b 60% в §[?25l
+Loading openai/gpt-oss-20b 60% в §[?25l
+Loading openai/gpt-oss-20b 60% в ‡[?25l
+Loading openai/gpt-oss-20b 60% в Џ[?25l
+Loading openai/gpt-oss-20b 61% в Џ[?25l
+Loading openai/gpt-oss-20b 61% в ‹[?25l
+Loading openai/gpt-oss-20b 61% в ‹[?25l
+Loading openai/gpt-oss-20b 61% в ™[?25l
+Loading openai/gpt-oss-20b 61% в ™[?25l
+Loading openai/gpt-oss-20b 61% в №[?25l
+Loading openai/gpt-oss-20b 61% в ё[?25l
+Loading openai/gpt-oss-20b 62% в ё[?25l
+Loading openai/gpt-oss-20b 62% в ј[?25l
+Loading openai/gpt-oss-20b 62% в ј[?25l
+Loading openai/gpt-oss-20b 62% в ґ[?25l
+Loading openai/gpt-oss-20b 62% в ґ[?25l
+Loading openai/gpt-oss-20b 62% в ¦[?25l
+Loading openai/gpt-oss-20b 63% в ¦[?25l
+Loading openai/gpt-oss-20b 63% в §[?25l
+Loading openai/gpt-oss-20b 63% в ‡[?25l
+Loading openai/gpt-oss-20b 63% в ‡[?25l
+Loading openai/gpt-oss-20b 63% в Џ[?25l
+Loading openai/gpt-oss-20b 63% в Џ[?25l
+Loading openai/gpt-oss-20b 63% в ‹[?25l
+Loading openai/gpt-oss-20b 63% в ‹[?25l
+Loading openai/gpt-oss-20b 63% в ™[?25l
+Loading openai/gpt-oss-20b 64% в ™[?25l
+Loading openai/gpt-oss-20b 64% в №[?25l
+Loading openai/gpt-oss-20b 64% в ё[?25l
+Loading openai/gpt-oss-20b 64% в ё[?25l
+Loading openai/gpt-oss-20b 64% в ј[?25l
+Loading openai/gpt-oss-20b 64% в ј[?25l
+Loading openai/gpt-oss-20b 64% в ґ[?25l
+Loading openai/gpt-oss-20b 64% в ґ[?25l
+Loading openai/gpt-oss-20b 64% в ¦[?25l
+Loading openai/gpt-oss-20b 100% в ¦
+[K[?25h
+[2026-09-14 22:36:54] Модель 'extractor' загружена и готова.
+[2026-09-14 22:36:54] [1/37] Extractor...
+[2026-09-14 22:39:34] [1/37] Extractor OK (4484 симв.)
+[2026-09-14 22:39:34] [2/37] Extractor...
+[2026-09-14 22:40:25] [2/37] Extractor OK (12422 симв.)
+[2026-09-14 22:40:25] [3/37] Extractor...
+[2026-09-14 22:41:02] [3/37] Extractor OK (9850 симв.)
+[2026-09-14 22:41:02] [4/37] Extractor...
+[2026-09-14 22:41:54] [4/37] Extractor OK (12775 симв.)
+[2026-09-14 22:41:54] [5/37] Extractor...
+[2026-09-14 22:42:34] [5/37] Extractor OK (9929 симв.)
+[2026-09-14 22:42:34] [6/37] Extractor...
+[2026-09-14 22:43:16] [6/37] Extractor OK (10500 симв.)
+[2026-09-14 22:43:16] [7/37] Extractor...
+[2026-09-14 22:43:58] [7/37] Extractor OK (10335 симв.)
+[2026-09-14 22:43:58] [8/37] Extractor...
+[2026-09-14 22:44:41] [8/37] Extractor OK (10265 симв.)
+[2026-09-14 22:44:41] [9/37] Extractor...
+[2026-09-14 22:45:26] [9/37] Extractor OK (11095 симв.)
+[2026-09-14 22:45:26] [10/37] Extractor...
+[2026-09-14 22:46:08] [10/37] Extractor OK (10081 симв.)
+[2026-09-14 22:46:08] [11/37] Extractor...
+[2026-09-14 22:46:47] [11/37] Extractor OK (9626 симв.)
+[2026-09-14 22:46:47] [12/37] Extractor...
+[2026-09-14 22:47:29] [12/37] Extractor OK (10276 симв.)
+[2026-09-14 22:47:29] [13/37] Extractor...
+[2026-09-14 22:48:13] [13/37] Extractor OK (10873 симв.)
+[2026-09-14 22:48:13] [14/37] Extractor...
+[2026-09-14 22:49:00] [14/37] Extractor OK (10782 симв.)
+[2026-09-14 22:49:00] [15/37] Extractor...
+[2026-09-14 22:49:36] [15/37] Extractor OK (9808 симв.)
+[2026-09-14 22:49:36] [16/37] Extractor...
+[2026-09-14 22:50:33] [16/37] Extractor OK (13691 симв.)
+[2026-09-14 22:50:33] [17/37] Extractor...
+[2026-09-14 22:51:28] [17/37] Extractor OK (13190 симв.)
+[2026-09-14 22:51:28] [18/37] Extractor...
+[2026-09-14 22:52:07] [18/37] Extractor OK (10002 симв.)
+[2026-09-14 22:52:07] [19/37] Extractor...
+[2026-09-14 22:52:43] [19/37] Extractor OK (9056 симв.)
+[2026-09-14 22:52:43] [20/37] Extractor...
+[2026-09-14 22:53:26] [20/37] Extractor OK (10626 симв.)
+[2026-09-14 22:53:26] [21/37] Extractor...
+[2026-09-14 22:54:07] [21/37] Extractor OK (9905 симв.)
+[2026-09-14 22:54:07] [22/37] Extractor...
+[2026-09-14 22:54:45] [22/37] Extractor OK (9148 симв.)
+[2026-09-14 22:54:45] [23/37] Extractor...
+[2026-09-14 22:55:23] [23/37] Extractor OK (9668 симв.)
+[2026-09-14 22:55:23] [24/37] Extractor...
+[2026-09-14 22:56:05] [24/37] Extractor OK (10257 симв.)
+[2026-09-14 22:56:05] [25/37] Extractor...
+[2026-09-14 22:57:03] [25/37] Extractor OK (14521 симв.)
+[2026-09-14 22:57:03] [26/37] Extractor...
+[2026-09-14 22:57:46] [26/37] Extractor OK (10928 симв.)
+[2026-09-14 22:57:46] [27/37] Extractor...
+[2026-09-14 22:58:44] [27/37] Extractor OK (13823 симв.)
+[2026-09-14 22:58:44] [28/37] Extractor...
+[2026-09-14 22:59:40] [28/37] Extractor OK (13964 симв.)
+[2026-09-14 22:59:40] [29/37] Extractor...
+[2026-09-14 23:00:23] [29/37] Extractor OK (10921 симв.)
+[2026-09-14 23:00:23] [30/37] Extractor...
+[2026-09-14 23:01:04] [30/37] Extractor OK (10055 симв.)
+[2026-09-14 23:01:04] [31/37] Extractor...
+[2026-09-14 23:01:45] [31/37] Extractor OK (10294 симв.)
+[2026-09-14 23:01:45] [32/37] Extractor...
+[2026-09-14 23:02:40] [32/37] Extractor OK (13743 симв.)
+[2026-09-14 23:02:40] [33/37] Extractor...
+[2026-09-14 23:03:27] [33/37] Extractor OK (12014 симв.)
+[2026-09-14 23:03:27] [34/37] Extractor...
+[2026-09-14 23:04:12] [34/37] Extractor OK (11326 симв.)
+[2026-09-14 23:04:12] [35/37] Extractor...
+[2026-09-14 23:04:47] [35/37] Extractor OK (8778 симв.)
+[2026-09-14 23:04:47] [36/37] Extractor...
+[2026-09-14 23:05:35] [36/37] Extractor OK (11076 симв.)
+[2026-09-14 23:05:35] [37/37] Extractor...
+[2026-09-14 23:06:17] [37/37] Extractor OK (10237 симв.)
+[2026-09-14 23:06:17] Переключаю модель LM Studio -> qwen/qwen3.6-27b (identifier=validator, context=24576)
+[2026-09-14 23:06:18] Команда: lms load qwen/qwen3.6-27b --identifier=validator --context-length=24576 --gpu=max
+[2026-09-14 23:06:32] lms load stdout: [?25l
+Loading qwen/qwen3.6-27b 0% в ‹[?25l
+Loading qwen/qwen3.6-27b 0% в ™[?25l
+Loading qwen/qwen3.6-27b 2% в ™[?25l
+Loading qwen/qwen3.6-27b 2% в №[?25l
+Loading qwen/qwen3.6-27b 4% в №[?25l
+Loading qwen/qwen3.6-27b 4% в ё[?25l
+Loading qwen/qwen3.6-27b 4% в ј[?25l
+Loading qwen/qwen3.6-27b 6% в ј[?25l
+Loading qwen/qwen3.6-27b 6% в ґ[?25l
+Loading qwen/qwen3.6-27b 7% в ґ[?25l
+Loading qwen/qwen3.6-27b 7% в ¦[?25l
+Loading qwen/qwen3.6-27b 9% в ¦[?25l
+Loading qwen/qwen3.6-27b 9% в §[?25l
+Loading qwen/qwen3.6-27b 11% в §[?25l
+Loading qwen/qwen3.6-27b 11% в ‡[?25l
+Loading qwen/qwen3.6-27b 11% в Џ[?25l
+Loading qwen/qwen3.6-27b 12% в Џ[?25l
+Loading qwen/qwen3.6-27b 12% в ‹[?25l
+Loading qwen/qwen3.6-27b 14% в ‹[?25l
+Loading qwen/qwen3.6-27b 14% в ™[?25l
+Loading qwen/qwen3.6-27b 15% в ™[?25l
+Loading qwen/qwen3.6-27b 15% в №[?25l
+Loading qwen/qwen3.6-27b 15% в ё[?25l
+Loading qwen/qwen3.6-27b 17% в ё[?25l
+Loading qwen/qwen3.6-27b 17% в ј[?25l
+Loading qwen/qwen3.6-27b 18% в ј[?25l
+Loading qwen/qwen3.6-27b 18% в ґ[?25l
+Loading qwen/qwen3.6-27b 19% в ґ[?25l
+Loading qwen/qwen3.6-27b 19% в ¦[?25l
+Loading qwen/qwen3.6-27b 21% в ¦[?25l
+Loading qwen/qwen3.6-27b 21% в §[?25l
+Loading qwen/qwen3.6-27b 21% в ‡[?25l
+Loading qwen/qwen3.6-27b 22% в ‡[?25l
+Loading qwen/qwen3.6-27b 22% в Џ[?25l
+Loading qwen/qwen3.6-27b 23% в Џ[?25l
+Loading qwen/qwen3.6-27b 23% в ‹[?25l
+Loading qwen/qwen3.6-27b 24% в ‹[?25l
+Loading qwen/qwen3.6-27b 24% в ™[?25l
+Loading qwen/qwen3.6-27b 24% в №[?25l
+Loading qwen/qwen3.6-27b 26% в №[?25l
+Loading qwen/qwen3.6-27b 26% в ё[?25l
+Loading qwen/qwen3.6-27b 27% в ё[?25l
+Loading qwen/qwen3.6-27b 27% в ј[?25l
+Loading qwen/qwen3.6-27b 28% в ј[?25l
+Loading qwen/qwen3.6-27b 28% в ґ[?25l
+Loading qwen/qwen3.6-27b 29% в ґ[?25l
+Loading qwen/qwen3.6-27b 29% в ¦[?25l
+Loading qwen/qwen3.6-27b 29% в §[?25l
+Loading qwen/qwen3.6-27b 30% в §[?25l
+Loading qwen/qwen3.6-27b 30% в ‡[?25l
+Loading qwen/qwen3.6-27b 31% в ‡[?25l
+Loading qwen/qwen3.6-27b 31% в Џ[?25l
+Loading qwen/qwen3.6-27b 32% в Џ[?25l
+Loading qwen/qwen3.6-27b 32% в ‹[?25l
+Loading qwen/qwen3.6-27b 32% в ™[?25l
+Loading qwen/qwen3.6-27b 33% в ™[?25l
+Loading qwen/qwen3.6-27b 33% в №[?25l
+Loading qwen/qwen3.6-27b 34% в №[?25l
+Loading qwen/qwen3.6-27b 34% в ё[?25l
+Loading qwen/qwen3.6-27b 34% в ё[?25l
+Loading qwen/qwen3.6-27b 34% в ј[?25l
+Loading qwen/qwen3.6-27b 35% в ј[?25l
+Loading qwen/qwen3.6-27b 35% в ґ[?25l
+Loading qwen/qwen3.6-27b 35% в ¦[?25l
+Loading qwen/qwen3.6-27b 36% в ¦[?25l
+Loading qwen/qwen3.6-27b 36% в §[?25l
+Loading qwen/qwen3.6-27b 37% в §[?25l
+Loading qwen/qwen3.6-27b 37% в ‡[?25l
+Loading qwen/qwen3.6-27b 38% в ‡[?25l
+Loading qwen/qwen3.6-27b 38% в Џ[?25l
+Loading qwen/qwen3.6-27b 38% в ‹[?25l
+Loading qwen/qwen3.6-27b 38% в ‹[?25l
+Loading qwen/qwen3.6-27b 38% в ™[?25l
+Loading qwen/qwen3.6-27b 39% в ™[?25l
+Loading qwen/qwen3.6-27b 39% в №[?25l
+Loading qwen/qwen3.6-27b 40% в №[?25l
+Loading qwen/qwen3.6-27b 40% в ё[?25l
+Loading qwen/qwen3.6-27b 41% в ё[?25l
+Loading qwen/qwen3.6-27b 41% в ј[?25l
+Loading qwen/qwen3.6-27b 41% в ґ[?25l
+Loading qwen/qwen3.6-27b 41% в ґ[?25l
+Loading qwen/qwen3.6-27b 41% в ¦[?25l
+Loading qwen/qwen3.6-27b 42% в ¦[?25l
+Loading qwen/qwen3.6-27b 42% в §[?25l
+Loading qwen/qwen3.6-27b 43% в §[?25l
+Loading qwen/qwen3.6-27b 43% в ‡[?25l
+Loading qwen/qwen3.6-27b 43% в Џ[?25l
+Loading qwen/qwen3.6-27b 43% в Џ[?25l
+Loading qwen/qwen3.6-27b 43% в ‹[?25l
+Loading qwen/qwen3.6-27b 44% в ‹[?25l
+Loading qwen/qwen3.6-27b 44% в ™[?25l
+Loading qwen/qwen3.6-27b 45% в ™[?25l
+Loading qwen/qwen3.6-27b 45% в №[?25l
+Loading qwen/qwen3.6-27b 45% в №[?25l
+Loading qwen/qwen3.6-27b 45% в ё[?25l
+Loading qwen/qwen3.6-27b 45% в ј[?25l
+Loading qwen/qwen3.6-27b 46% в ј[?25l
+Loading qwen/qwen3.6-27b 46% в ґ[?25l
+Loading qwen/qwen3.6-27b 46% в ґ[?25l
+Loading qwen/qwen3.6-27b 46% в ¦[?25l
+Loading qwen/qwen3.6-27b 47% в ¦[?25l
+Loading qwen/qwen3.6-27b 47% в §[?25l
+Loading qwen/qwen3.6-27b 47% в ‡[?25l
+Loading qwen/qwen3.6-27b 48% в ‡[?25l
+Loading qwen/qwen3.6-27b 48% в Џ[?25l
+Loading qwen/qwen3.6-27b 48% в Џ[?25l
+Loading qwen/qwen3.6-27b 48% в ‹[?25l
+Loading qwen/qwen3.6-27b 49% в ‹[?25l
+Loading qwen/qwen3.6-27b 49% в ™[?25l
+Loading qwen/qwen3.6-27b 49% в ™[?25l
+Loading qwen/qwen3.6-27b 49% в №[?25l
+Loading qwen/qwen3.6-27b 49% в ё[?25l
+Loading qwen/qwen3.6-27b 50% в ё[?25l
+Loading qwen/qwen3.6-27b 50% в ј[?25l
+Loading qwen/qwen3.6-27b 50% в ј[?25l
+Loading qwen/qwen3.6-27b 50% в ґ[?25l
+Loading qwen/qwen3.6-27b 51% в ґ[?25l
+Loading qwen/qwen3.6-27b 51% в ¦[?25l
+Loading qwen/qwen3.6-27b 51% в §[?25l
+Loading qwen/qwen3.6-27b 51% в §[?25l
+Loading qwen/qwen3.6-27b 51% в ‡[?25l
+Loading qwen/qwen3.6-27b 52% в ‡[?25l
+Loading qwen/qwen3.6-27b 52% в Џ[?25l
+Loading qwen/qwen3.6-27b 52% в Џ[?25l
+Loading qwen/qwen3.6-27b 52% в ‹[?25l
+Loading qwen/qwen3.6-27b 53% в ‹[?25l
+Loading qwen/qwen3.6-27b 53% в ™[?25l
+Loading qwen/qwen3.6-27b 53% в №[?25l
+Loading qwen/qwen3.6-27b 53% в №[?25l
+Loading qwen/qwen3.6-27b 53% в ё[?25l
+Loading qwen/qwen3.6-27b 53% в ё[?25l
+Loading qwen/qwen3.6-27b 53% в ј[?25l
+Loading qwen/qwen3.6-27b 54% в ј[?25l
+Loading qwen/qwen3.6-27b 54% в ґ[?25l
+Loading qwen/qwen3.6-27b 54% в ¦[?25l
+Loading qwen/qwen3.6-27b 54% в ¦[?25l
+Loading qwen/qwen3.6-27b 54% в §[?25l
+Loading qwen/qwen3.6-27b 55% в §[?25l
+Loading qwen/qwen3.6-27b 55% в ‡[?25l
+Loading qwen/qwen3.6-27b 55% в ‡[?25l
+Loading qwen/qwen3.6-27b 55% в Џ[?25l
+Loading qwen/qwen3.6-27b 56% в Џ[?25l
+Loading qwen/qwen3.6-27b 56% в ‹[?25l
+Loading qwen/qwen3.6-27b 56% в ™[?25l
+Loading qwen/qwen3.6-27b 56% в ™[?25l
+Loading qwen/qwen3.6-27b 56% в №[?25l
+Loading qwen/qwen3.6-27b 56% в №[?25l
+Loading qwen/qwen3.6-27b 56% в ё[?25l
+Loading qwen/qwen3.6-27b 57% в ё[?25l
+Loading qwen/qwen3.6-27b 57% в ј[?25l
+Loading qwen/qwen3.6-27b 57% в ґ[?25l
+Loading qwen/qwen3.6-27b 57% в ґ[?25l
+Loading qwen/qwen3.6-27b 57% в ¦[?25l
+Loading qwen/qwen3.6-27b 57% в ¦[?25l
+Loading qwen/qwen3.6-27b 57% в §[?25l
+Loading qwen/qwen3.6-27b 58% в §[?25l
+Loading qwen/qwen3.6-27b 58% в ‡[?25l
+Loading qwen/qwen3.6-27b 58% в ‡[?25l
+Loading qwen/qwen3.6-27b 58% в Џ[?25l
+Loading qwen/qwen3.6-27b 58% в ‹[?25l
+Loading qwen/qwen3.6-27b 58% в ‹[?25l
+Loading qwen/qwen3.6-27b 58% в ™[?25l
+Loading qwen/qwen3.6-27b 59% в ™[?25l
+Loading qwen/qwen3.6-27b 59% в №[?25l
+Loading qwen/qwen3.6-27b 59% в №[?25l
+Loading qwen/qwen3.6-27b 59% в ё[?25l
+Loading qwen/qwen3.6-27b 59% в ј[?25l
+Loading qwen/qwen3.6-27b 59% в ј[?25l
+Loading qwen/qwen3.6-27b 59% в ґ[?25l
+Loading qwen/qwen3.6-27b 60% в ґ[?25l
+Loading qwen/qwen3.6-27b 60% в ¦[?25l
+Loading qwen/qwen3.6-27b 60% в ¦[?25l
+Loading qwen/qwen3.6-27b 60% в §[?25l
+Loading qwen/qwen3.6-27b 60% в §[?25l
+Loading qwen/qwen3.6-27b 60% в ‡[?25l
+Loading qwen/qwen3.6-27b 60% в Џ[?25l
+Loading qwen/qwen3.6-27b 61% в Џ[?25l
+Loading qwen/qwen3.6-27b 61% в ‹[?25l
+Loading qwen/qwen3.6-27b 61% в ‹[?25l
+Loading qwen/qwen3.6-27b 61% в ™[?25l
+Loading qwen/qwen3.6-27b 61% в ™[?25l
+Loading qwen/qwen3.6-27b 61% в №[?25l
+Loading qwen/qwen3.6-27b 61% в ё[?25l
+Loading qwen/qwen3.6-27b 62% в ё[?25l
+Loading qwen/qwen3.6-27b 62% в ј[?25l
+Loading qwen/qwen3.6-27b 62% в ј[?25l
+Loading qwen/qwen3.6-27b 62% в ґ[?25l
+Loading qwen/qwen3.6-27b 62% в ґ[?25l
+Loading qwen/qwen3.6-27b 62% в ¦[?25l
+Loading qwen/qwen3.6-27b 63% в ¦[?25l
+Loading qwen/qwen3.6-27b 63% в §[?25l
+Loading qwen/qwen3.6-27b 63% в ‡[?25l
+Loading qwen/qwen3.6-27b 63% в ‡[?25l
+Loading qwen/qwen3.6-27b 63% в Џ[?25l
+Loading qwen/qwen3.6-27b 63% в Џ[?25l
+Loading qwen/qwen3.6-27b 63% в ‹[?25l
+Loading qwen/qwen3.6-27b 63% в ‹[?25l
+Loading qwen/qwen3.6-27b 63% в ™[?25l
+Loading qwen/qwen3.6-27b 63% в №[?25l
+Loading qwen/qwen3.6-27b 64% в №[?25l
+Loading qwen/qwen3.6-27b 64% в ё[?25l
+Loading qwen/qwen3.6-27b 64% в ё[?25l
+Loading qwen/qwen3.6-27b 64% в ј[?25l
+Loading qwen/qwen3.6-27b 64% в ј[?25l
+Loading qwen/qwen3.6-27b 64% в ґ[?25l
+Loading qwen/qwen3.6-27b 64% в ґ[?25l
+Loading qwen/qwen3.6-27b 64% в ¦[?25l
+Loading qwen/qwen3.6-27b 64% в §[?25l
+Loading qwen/qwen3.6-27b 65% в §[?25l
+Loading qwen/qwen3.6-27b 65% в ‡[?25l
+Loading qwen/qwen3.6-27b 65% в ‡[?25l
+Loading qwen/qwen3.6-27b 65% в Џ[?25l
+Loading qwen/qwen3.6-27b 65% в Џ[?25l
+Loading qwen/qwen3.6-27b 65% в ‹[?25l
+Loading qwen/qwen3.6-27b 65% в ™[?25l
+Loading qwen/qwen3.6-27b 65% в ™[?25l
+Loading qwen/qwen3.6-27b 65% в №[?25l
+Loading qwen/qwen3.6-27b 66% в №[?25l
+Loading qwen/qwen3.6-27b 66% в ё[?25l
+Loading qwen/qwen3.6-27b 66% в ё[?25l
+Loading qwen/qwen3.6-27b 66% в ј[?25l
+Loading qwen/qwen3.6-27b 66% в ј[?25l
+Loading qwen/qwen3.6-27b 66% в ґ[?25l
+Loading qwen/qwen3.6-27b 66% в ¦[?25l
+Loading qwen/qwen3.6-27b 66% в ¦[?25l
+Loading qwen/qwen3.6-27b 66% в §[?25l
+Loading qwen/qwen3.6-27b 67% в §[?25l
+Loading qwen/qwen3.6-27b 67% в ‡[?25l
+Loading qwen/qwen3.6-27b 67% в ‡[?25l
+Loading qwen/qwen3.6-27b 67% в Џ[?25l
+Loading qwen/qwen3.6-27b 67% в ‹[?25l
+Loading qwen/qwen3.6-27b 67% в ‹[?25l
+Loading qwen/qwen3.6-27b 67% в ™[?25l
+Loading qwen/qwen3.6-27b 67% в ™[?25l
+Loading qwen/qwen3.6-27b 67% в №[?25l
+Loading qwen/qwen3.6-27b 67% в №[?25l
+Loading qwen/qwen3.6-27b 67% в ё[?25l
+Loading qwen/qwen3.6-27b 67% в ј[?25l
+Loading qwen/qwen3.6-27b 68% в ј[?25l
+Loading qwen/qwen3.6-27b 68% в ґ[?25l
+Loading qwen/qwen3.6-27b 68% в ґ[?25l
+Loading qwen/qwen3.6-27b 68% в ¦[?25l
+Loading qwen/qwen3.6-27b 68% в ¦[?25l
+Loading qwen/qwen3.6-27b 68% в §[?25l
+Loading qwen/qwen3.6-27b 68% в §[?25l
+Loading qwen/qwen3.6-27b 68% в ‡[?25l
+Loading qwen/qwen3.6-27b 68% в Џ[?25l
+Loading qwen/qwen3.6-27b 68% в ‹[?25l
+Loading qwen/qwen3.6-27b 68% в ™[?25l
+Loading qwen/qwen3.6-27b 68% в №[?25l
+Loading qwen/qwen3.6-27b 68% в ё
+[K[?25h
+[2026-09-14 23:06:32] lms load вернул код 1: Error: Failed to load model. 
+
+
+   (X) CAUSE  
+
+Failed to initialize the context: failed to allocate buffer for kv cache
+[2026-09-14 23:07:02] Внимание: не удалось подтвердить готовность 'validator' через lms ps, продолжаю всё равно.
+[2026-09-14 23:07:02] [1/37] Validator...
+[2026-09-14 23:07:02] Попытка 1/3 не удалась: HTTP Error 400: Bad Request
+[2026-09-14 23:07:17] Попытка 2/3 не удалась: HTTP Error 400: Bad Request
+[2026-09-14 23:07:32] Попытка 3/3 не удалась: HTTP Error 400: Bad Request
+[2026-09-14 23:07:32] [1/37] Validator ОШИБКА: Не удалось получить ответ от модели 'validator': HTTP Error 400: Bad Request
+[2026-09-14 23:07:32] [2/37] Validator...
+[2026-09-14 23:07:32] Попытка 1/3 не удалась: HTTP Error 400: Bad Request
+[2026-09-14 23:07:47] Попытка 2/3 не удалась: HTTP Error 400: Bad Request
+[2026-09-14 23:08:02] Попытка 3/3 не удалась: HTTP Error 400: Bad Request
+[2026-09-14 23:08:02] [2/37] Validator ОШИБКА: Не удалось получить ответ от модели 'validator': HTTP Error 400: Bad Request
+[2026-09-14 23:08:02] [3/37] Validator...
+[2026-09-14 23:08:02] Попытка 1/3 не удалась: HTTP Error 400: Bad Request
+[2026-09-14 23:08:17] Попытка 2/3 не удалась: HTTP Error 400: Bad Request
