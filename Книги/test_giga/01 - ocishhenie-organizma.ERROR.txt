@@ -1,0 +1,44 @@
+Traceback (most recent call last):
+  File "D:\AI_Project\Книги\Claude outputs\transcribe_books.py", line 129, in run_gigaam
+    result = model.transcribe_longform(str(mp3_path))
+  File "C:\Users\x2\AppData\Local\Programs\Python\Python310\lib\site-packages\torch\utils\_contextlib.py", line 124, in decorate_context
+    return func(*args, **kwargs)
+  File "D:\AI_Project\GigaAM\gigaam\model.py", line 210, in transcribe_longform
+    from .vad_utils import segment_audio_file
+  File "D:\AI_Project\GigaAM\gigaam\vad_utils.py", line 7, in <module>
+    from pyannote.audio import Model, Pipeline
+  File "C:\Users\x2\AppData\Local\Programs\Python\Python310\lib\site-packages\pyannote\audio\__init__.py", line 28, in <module>
+    from .core.inference import Inference
+  File "C:\Users\x2\AppData\Local\Programs\Python\Python310\lib\site-packages\pyannote\audio\core\inference.py", line 32, in <module>
+    from lightning.pytorch.utilities.memory import is_oom_error
+  File "C:\Users\x2\AppData\Local\Programs\Python\Python310\lib\site-packages\lightning\__init__.py", line 20, in <module>
+    from lightning.pytorch.callbacks import Callback  # noqa: E402
+  File "C:\Users\x2\AppData\Local\Programs\Python\Python310\lib\site-packages\lightning\pytorch\__init__.py", line 27, in <module>
+    from lightning.pytorch.callbacks import Callback  # noqa: E402
+  File "C:\Users\x2\AppData\Local\Programs\Python\Python310\lib\site-packages\lightning\pytorch\callbacks\__init__.py", line 14, in <module>
+    from lightning.pytorch.callbacks.batch_size_finder import BatchSizeFinder
+  File "C:\Users\x2\AppData\Local\Programs\Python\Python310\lib\site-packages\lightning\pytorch\callbacks\batch_size_finder.py", line 26, in <module>
+    from lightning.pytorch.callbacks.callback import Callback
+  File "C:\Users\x2\AppData\Local\Programs\Python\Python310\lib\site-packages\lightning\pytorch\callbacks\callback.py", line 22, in <module>
+    from lightning.pytorch.utilities.types import STEP_OUTPUT
+  File "C:\Users\x2\AppData\Local\Programs\Python\Python310\lib\site-packages\lightning\pytorch\utilities\types.py", line 36, in <module>
+    from torchmetrics import Metric
+  File "C:\Users\x2\AppData\Local\Programs\Python\Python310\lib\site-packages\torchmetrics\__init__.py", line 37, in <module>
+    from torchmetrics import functional  # noqa: E402
+  File "C:\Users\x2\AppData\Local\Programs\Python\Python310\lib\site-packages\torchmetrics\functional\__init__.py", line 56, in <module>
+    from torchmetrics.functional.image._deprecated import (
+  File "C:\Users\x2\AppData\Local\Programs\Python\Python310\lib\site-packages\torchmetrics\functional\image\__init__.py", line 14, in <module>
+    from torchmetrics.functional.image.arniqa import arniqa
+  File "C:\Users\x2\AppData\Local\Programs\Python\Python310\lib\site-packages\torchmetrics\functional\image\arniqa.py", line 31, in <module>
+    from torchvision import transforms
+  File "C:\Users\x2\AppData\Local\Programs\Python\Python310\lib\site-packages\torchvision\__init__.py", line 8, in <module>
+    from torchvision import (
+  File "C:\Users\x2\AppData\Local\Programs\Python\Python310\lib\site-packages\torchvision\_meta_registrations.py", line 164, in <module>
+    def meta_nms(dets, scores, iou_threshold):
+  File "C:\Users\x2\AppData\Local\Programs\Python\Python310\lib\site-packages\torch\library.py", line 1087, in register
+    use_lib._register_fake(
+  File "C:\Users\x2\AppData\Local\Programs\Python\Python310\lib\site-packages\torch\library.py", line 204, in _register_fake
+    handle = entry.fake_impl.register(
+  File "C:\Users\x2\AppData\Local\Programs\Python\Python310\lib\site-packages\torch\_library\fake_impl.py", line 50, in register
+    if torch._C._dispatch_has_kernel_for_dispatch_key(self.qualname, "Meta"):
+RuntimeError: operator torchvision::nms does not exist
