@@ -1,0 +1,5 @@
+.env
+food_bot.db
+__pycache__/
+venv/
+*.pyc
