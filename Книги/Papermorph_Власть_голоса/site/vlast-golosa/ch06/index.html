@@ -1,0 +1,475 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Высота, громкость, тембр и мозг — Власть голоса</title>
+<link rel="stylesheet" href="../lib/engine.css">
+<link rel="expect" href="#bar" blocking="render"><!-- hold the first frame until the player exists, so the page transition can run -->
+</head>
+<body>
+<script src="../lib/engine.js"></script>
+<script src="audio/ru/timings.js"></script>
+<script>
+'use strict';
+const CHAPTER = { number: 6, title: 'Высота, громкость, тембр и мозг', minutes: 9, language: 'ru' };
+
+/* ---------- colours of this chapter: one idea, one colour ---------- */
+const C_PITCH = COL.whole, C_LOUD = COL.int, C_RHY = COL.rat, C_KEY = COL.irr, C_NERVE = '#fbf7ec', C_SND = COL.real;
+
+/* ---------- chapter drawing helpers (prefixed v to avoid engine names) ---------- */
+const vtext = (p, str, x, y, t0, { size = 30, fill = COL.chalk, anchor = 'start', weight = 500, font = UI } = {}) => {
+  const e = T(p, str, { x, y, size, fill, anchor, weight, font, o: 0 }); show(e, t0); return e;
+};
+const vline = (p, d, color, w, t0, dur = .8) => { const e = path(p, d, { stroke: color, 'stroke-width': w }, { d: 0 }); draw(e, t0, dur); return e; };
+// A pill with text, centred on (x, y).
+function vpill(p, str, x, y, color, { size = 30, o = 0, pad = 26, fillText = COL.board } = {}) {
+  const g = G(p, { x, y, o, s: o ? 1 : .85 });
+  ctx2d.font = `650 ${size}px ${UI}`;
+  const w = ctx2d.measureText(str).width + pad * 2;
+  mk('rect', { x: -w / 2, y: -size * .95, width: w, height: size * 1.6, rx: size * .8, fill: color }, g);
+  T(g, str, { y: size * .15, size, fill: fillText, anchor: 'middle', weight: 650 });
+  g._w = w;
+  return g;
+}
+// Vocal folds seen from above: two bands meeting at the front (top). vibrate(t0, dur, amp, speed) opens and closes them.
+function vFolds(p, x, y, sc = 1) {
+  const g = G(p, { x, y, s: sc, o: 0 });
+  mk('ellipse', { cx: 0, cy: 110, rx: 92, ry: 128, fill: '#2a3d37', stroke: COL.faint, 'stroke-width': 3 }, g);
+  const L = G(g), R = G(g);
+  mk('path', { d: 'M0 0C-14 60 -30 150 -40 222L-62 222C-50 150 -30 60 -4 0Z', fill: C_PITCH }, L);
+  mk('path', { d: 'M0 0C14 60 30 150 40 222L62 222C50 150 30 60 4 0Z', fill: C_PITCH }, R);
+  put(L, { r: 0 }); put(R, { r: 0 });
+  g.vibrate = (t0, dur, amp = 5, hz = 3) => prog(q => {
+    const a = amp * (.5 + .5 * Math.sin(q * dur * hz * 2 * Math.PI - Math.PI / 2));
+    put(L, { r: a }); put(R, { r: -a });
+  }, t0, dur, lin);
+  return g;
+}
+// Two palms seen edge-on; clap(t0, n, gap) brings them together n times; they stop `gap` px apart from the centre.
+function vPalms(p, x, y, color = COL.chalk) {
+  const g = G(p, { x, y, o: 0 });
+  const mkPalm = dir => {
+    const h = G(g, { x: dir * 120 });
+    mk('rect', { x: dir < 0 ? -64 : 0, y: -110, width: 64, height: 220, rx: 30, fill: color, class: 'palm' }, h);
+    return h;
+  };
+  const L = mkPalm(-1), R = mkPalm(1);
+  g.L = L; g.R = R;
+  g.clap = (t0, n = 3, gap = 0, per = .5) => {
+    for (let k = 0; k < n; k++) {
+      tw(L, { x: -gap }, t0 + k * per, per * .45, io); tw(R, { x: gap }, t0 + k * per, per * .45, io);
+      tw(L, { x: -120 }, t0 + k * per + per * .5, per * .45, io); tw(R, { x: 120 }, t0 + k * per + per * .5, per * .45, io);
+    }
+  };
+  g.tint = (colr, t0, dur = .6) => { for (const r of g.querySelectorAll('.palm')) tw(r, { c_fill: colr }, t0, dur); };
+  return g;
+}
+function vDrop(p, x, y, color = COL.whole, s = 1) {
+  const g = G(p, { x, y, o: 0, s });
+  mk('path', { d: 'M0 -46C16 -20 30 -2 30 16A30 30 0 0 1 -30 16C-30 -2 -16 -20 0 -46Z', fill: color }, g);
+  return g;
+}
+// Numbered takeaway line (wrap and practice beats).
+function vItem(p, i, str, y, t0, color = COL.task, size = 32) {
+  const g = G(p, { x: -16, y, o: 0 });
+  mk('circle', { cx: 200, cy: -11, r: 26, fill: color }, g);
+  T(g, String(i), { x: 200, y: -1, size: 28, fill: COL.board, weight: 700, anchor: 'middle' });
+  T(g, str, { x: 256, size, weight: 600 });
+  tw(g, { o: 1, x: 0 }, t0, .6);
+  return g;
+}
+
+/* ---------- scales ---------- */
+const FQ = f => 640 + Math.log(f / 50) / Math.log(20) * 860;     // pitch axis: 50…1000 Hz, logarithmic
+const YD = v => 800 - v * 5;                                        // loudness axis: 0…130 dB
+const TSEC = s => 200 + s * 150;                                       // rhythm timeline: seconds → x
+const SPD = v => 400 + v * .62;                                      // speed of sound bars: m/s → x
+
+/* ---------- beats: [id, title, run(m, D), { ask }?] ---------- */
+const BEATS = [
+  ['intro', 'Глава 6', (m, D) => {
+    const g = G(scene, { o: 0, y: 24 });
+    T(g, 'Юнит 1 · Голос как инструмент · Глава 6', { x: 800, y: 330, size: 28, fill: COL.dim, anchor: 'middle' });
+    T(g, 'Высота, громкость,', { x: 800, y: 430, size: 80, weight: 600, anchor: 'middle' });
+    T(g, 'тембр и мозг', { x: 800, y: 525, size: 80, weight: 600, anchor: 'middle' });
+    tw(g, { o: 1, y: 0 }, .2, 1.1, out);
+    const r = vtext(scene, 'голос можно измерить — и понять, почему от волнения он садится', 800, 640, m('sub'), { size: 32, fill: COL.dim, anchor: 'middle' });
+    tw(g, { o: 0, y: -24 }, D - .9, .8); hide(r, D - .9, .8);
+  }],
+
+  ['pitch', 'Высота: герцы', (m, D) => {
+    const p = panel(0);
+    const f = vFolds(p, 300, 250, 1.15);
+    show(f, .2);
+    f.vibrate(.4, D - .4, 5, 2.2);
+    vtext(p, 'голосовые связки, вид сверху', 300, 600, .5, { size: 24, fill: COL.dim, anchor: 'middle' });
+    vtext(p, '(колебания замедлены)', 300, 632, .7, { size: 22, fill: COL.faint, anchor: 'middle' });
+    const hz = vpill(p, 'герцы = смыканий связок в секунду', 1070, 150, C_PITCH, { size: 30 });
+    pop(hz, m('hz'));
+    // logarithmic frequency axis
+    vline(p, `M${FQ(50)} 560H${FQ(1000)}`, COL.chalk, 3, m('hz', .6), .8);
+    [50, 100, 200, 500, 1000].forEach((v, i) => {
+      const g = G(p, { o: 0 });
+      path(g, `M${FQ(v)} 550V570`, { stroke: COL.dim, 'stroke-width': 2.5 });
+      T(g, String(v), { x: FQ(v), y: 606, size: 24, fill: COL.dim, font: MATH, anchor: 'middle' });
+      show(g, m('hz', .8 + i * .08));
+    });
+    vtext(p, 'Гц', FQ(1000) + 24, 568, m('hz', 1.2), { size: 26, fill: COL.dim });
+    vtext(p, 'шкала логарифмическая: равные шаги — это умножение частоты', 1070, 740, m('hz', 1.4), { size: 22, fill: COL.faint, anchor: 'middle' });
+    const mark = (v, str, up, t0) => {
+      const g = G(p, { o: 0 });
+      mk('circle', { cx: FQ(v), cy: 560, r: 11, fill: C_PITCH, stroke: COL.board, 'stroke-width': 3 }, g);
+      path(g, `M${FQ(v)} ${up ? 548 : 572}V${up ? 470 : 640}`, { stroke: C_PITCH, 'stroke-width': 2 });
+      T(g, str, { x: FQ(v), y: up ? 456 : 668, size: 28, fill: C_PITCH, weight: 650, anchor: 'middle' });
+      pop(g, t0); return g;
+    };
+    mark(150, 'мужской ≈150', false, m('male'));
+    mark(210, 'женский ≈210', true, m('female'));
+    // singing range: several octaves
+    const br = G(p, { o: 0 });
+    path(br, `M${FQ(80)} 372V352H${FQ(1000)}V372`, { stroke: COL.task, 'stroke-width': 3 });
+    T(br, 'в пении — несколько октав', { x: (FQ(80) + FQ(1000)) / 2, y: 334, size: 26, fill: COL.task, weight: 600, anchor: 'middle' });
+    show(br, m('range'));
+  }],
+
+  ['a440', 'Ля = 440 Гц', (m, D) => {
+    const p = panel(0);
+    const a = vpill(p, 'ля первой октавы = 440 Гц', 800, 110, C_PITCH, { size: 34 });
+    pop(a, .3);
+    // 22 cycles = exactly 0.05 s at 440 Hz
+    let d = 'M200 300';
+    for (let i = 1; i <= 440; i++) { const x = 200 + i * 1200 / 440; d += `L${x.toFixed(1)} ${(300 - 62 * Math.sin(i / 440 * 22 * 2 * Math.PI)).toFixed(1)}`; }
+    vline(p, d, C_PITCH, 3, m('a', .3), 1.6);
+    vline(p, 'M200 410H1400', COL.faint, 2, m('a', .3), .6);
+    vtext(p, 'на рисунке — 0,05 секунды: 22 колебания', 800, 448, m('a', 1), { size: 24, fill: COL.dim, anchor: 'middle' });
+    // counter 0 → 440 over one second
+    const cnt = vtext(p, '0', 1080, 560, m('count'), { size: 64, fill: C_PITCH, weight: 700, font: MATH, anchor: 'end' });
+    prog(q => { cnt.textContent = String(Math.round(q * 440)); }, m('count', .2), 1, lin);
+    vtext(p, 'смыканий за 1 секунду', 1100, 556, m('count', .1), { size: 30, fill: COL.chalk });
+    const hands = vPalms(p, 520, 640, COL.chalk);
+    put(hands, { s: .55 });
+    show(hands, m('palms'));
+    hands.clap(m('palms', .2), 8, 0, .32);
+    vtext(p, '440 хлопков в секунду?', 520, 800, m('palms', .3), { size: 26, fill: COL.dim, anchor: 'middle' });
+    hands.tint(COL.bad, m('heat'), .8);
+    const hot = vtext(p, 'раскалились бы', 720, 650, m('heat', .2), { size: 30, fill: COL.bad, weight: 650 });
+    const drop = vDrop(p, 1240, 690, C_PITCH, 1.1);
+    pop(drop, m('water'));
+    vtext(p, 'слизистая всё время увлажняется', 1240, 790, m('water', .3), { size: 26, fill: C_PITCH, anchor: 'middle' });
+    hands.tint(COL.chalk, m('water', .5), 1);
+    hide(hot, m('water', .5));
+  }],
+
+  ['q1', 'Быстрая проверка', () => {
+    const p = panel(0);
+    const f = vFolds(p, 330, 230, 1);
+    show(f, .1); f.vibrate(.2, 30, 4, 2);
+    vtext(p, 'ля малой октавы', 330, 560, .3, { size: 30, fill: COL.dim, anchor: 'middle' });
+    vtext(p, '220 Гц', 330, 640, .4, { size: 64, fill: C_PITCH, weight: 700, font: MATH, anchor: 'middle' });
+  }, { ask: done => quiz({ x: 700, y: 140, w: 820, cls: 'side', maxH: 640 }, [{
+    id: 'c-cycles', prompt: ['Певец держит ноту 220 Гц ровно 2 секунды. Сколько раз за это время сомкнутся его голосовые связки?'],
+    build: choice([['220'], ['440'], ['110'], ['880']], 1,
+      '220 смыканий в секунду × 2 секунды = 440.',
+      ['220 — это за одну секунду, а нота звучит две.', null, '110 — это половина секунды; время нужно умножить, а не разделить.', '880 — так было бы при 440 Гц; частота ноты здесь 220 Гц.']),
+  }], done) }],
+
+  ['loud', 'Громкость: децибелы', (m, D) => {
+    const p = panel(0);
+    vtext(p, 'дБ', 520, 112, .2, { size: 28, fill: C_LOUD, weight: 650, anchor: 'middle' });
+    vline(p, `M520 ${YD(0)}V${YD(130)}`, COL.chalk, 3, .2, .8);
+    for (let v = 0; v <= 130; v += 10) {
+      const g = G(p, { o: 0 });
+      path(g, `M510 ${YD(v)}H530`, { stroke: COL.dim, 'stroke-width': 2.5 });
+      T(g, String(v), { x: 496, y: YD(v) + 8, size: 22, fill: COL.dim, font: MATH, anchor: 'end' });
+      show(g, .3 + v * .004);
+    }
+    const pin = (v, str, colr, t0) => {
+      const g = G(p, { o: 0, x: -14 });
+      mk('circle', { cx: 520, cy: YD(v), r: 10, fill: colr, stroke: COL.board, 'stroke-width': 3 }, g);
+      path(g, `M534 ${YD(v)}H570`, { stroke: colr, 'stroke-width': 2.5 });
+      T(g, str, { x: 582, y: YD(v) + 10, size: 28, fill: colr, weight: 600 });
+      tw(g, { o: 1, x: 0 }, t0, .5); return g;
+    };
+    const painBand = rect(p, 512, YD(130), 16, YD(120) - YD(130), COL.bad);
+    pin(30, 'шёпот ≈30', C_LOUD, m('whisper'));
+    pin(60, 'спокойный разговор ≈60', C_LOUD, m('talk'));
+    pin(90, 'крик ≈90', C_LOUD, m('shout'));
+    pin(120, 'болевой порог ≈120', COL.bad, m('pain'));
+    show(painBand, m('pain'));
+    // energy: one square per unit of sound energy
+    const sq = 17, gap = 4, X0 = 1040;
+    const blocks = (n, y, cols, t0) => {
+      const g = G(p);
+      for (let i = 0; i < n; i++) {
+        const r = rect(g, X0 + (i % cols) * (sq + gap), y + Math.floor(i / cols) * (sq + gap), sq, sq, C_LOUD);
+        show(r, t0 + i * (n > 10 ? .012 : .05), .25);
+      }
+      return g;
+    };
+    vtext(p, 'звуковая энергия', 1180, 200, m('log'), { size: 28, fill: COL.chalk, weight: 600, anchor: 'middle' });
+    vtext(p, '60 дБ', 1010, 274, m('log', .3), { size: 28, fill: C_LOUD, font: MATH, anchor: 'end' });
+    blocks(1, 258, 10, m('log', .4));
+    vtext(p, '70 дБ', 1010, 344, m('log', .9), { size: 28, fill: C_LOUD, font: MATH, anchor: 'end' });
+    blocks(10, 328, 10, m('log', 1));
+    vtext(p, '×10', 1270, 344, m('log', 1.5), { size: 28, fill: COL.task, weight: 700 });
+    const e80 = S.e80 = G(p);   // hidden during the quick check, which asks about it
+    vtext(e80, '80 дБ', 1010, 414, m('log', 1.8), { size: 28, fill: C_LOUD, font: MATH, anchor: 'end' });
+    e80.append(blocks(100, 398, 10, m('log', 1.9)));
+    vtext(e80, '×100', 1270, 414, m('log', 3.1), { size: 28, fill: COL.task, weight: 700 });
+    vtext(e80, 'а на слух: +10 дБ ≈ вдвое громче', 1180, 700, m('twice'), { size: 30, fill: COL.chalk, weight: 600, anchor: 'middle' });
+  }],
+
+  ['q2', 'Быстрая проверка', () => { if (S.e80) hide(S.e80, 0, .4); }, { ask: done => quiz({ x: 1000, y: 440, w: 570, cls: 'side', maxH: 440 }, [{
+    id: 'c-db', prompt: ['Вы говорите на 60 дБ, собеседник перешёл на 80 дБ. Во сколько раз выросла звуковая энергия его голоса?'],
+    build: choice([['в 20 раз'], ['в 100 раз'], ['в 2 раза'], ['в 1,3 раза']], 1,
+      '+10 дБ — это ×10, ещё +10 дБ — ещё ×10. Итого 10 × 10 = 100.',
+      ['Децибелы не складываются в разы напрямую: каждые +10 дБ умножают энергию на 10.', null, 'Примерно так это ощущается на слух на каждые +10 дБ, но энергия растёт куда быстрее.', 'Это отношение 80 к 60, но шкала децибел логарифмическая.']),
+  }], done) }],
+
+  ['rhythm', 'Ритм и паузы', (m, D) => {
+    const p = panel(0);
+    vtext(p, 'ритм = звук и паузы во времени', 800, 120, .2, { size: 34, fill: C_RHY, weight: 650, anchor: 'middle' });
+    // time axis in seconds
+    vline(p, `M${TSEC(0)} 230H${TSEC(8.4)}`, COL.dim, 2.5, m('sec'), .8);
+    for (let s = 0; s <= 8; s++) {
+      const g = G(p, { o: 0 });
+      path(g, `M${TSEC(s)} 222V238`, { stroke: COL.dim, 'stroke-width': 2 });
+      T(g, s + ' с', { x: TSEC(s), y: 210, size: 20, fill: COL.dim, font: MATH, anchor: 'middle' });
+      show(g, m('sec', .3 + s * .05));
+    }
+    const word = (g, [t0s, dur, str, filler], y, t0, colr = C_RHY) => {
+      const b = G(g, { o: 0, y: 12 });
+      mk('rect', { x: TSEC(t0s), y: y - 30, width: dur * 150, height: 52, rx: 14, fill: filler ? '#3a4d47' : colr }, b);
+      T(b, str, { x: TSEC(t0s) + dur * 75, y: y + 6, size: 23, fill: filler ? COL.dim : COL.board, weight: 650, anchor: 'middle' });
+      tw(b, { o: 1, y: 0 }, t0, .4, out); return b;
+    };
+    const ROW1 = [[0, .45, 'Мы'], [.85, .45, 'э…', 1], [1.75, .8, 'снизим'], [3.0, .6, 'ваши'], [3.75, .9, 'затраты'], [5.35, .45, 'э…', 1], [6.2, 1, 'на треть']];
+    const ROW2 = [[0, .45, 'Мы'], [.55, .8, 'снизим'], [1.45, .6, 'ваши'], [2.15, .9, 'затраты'], [4.15, 1, 'на треть']];
+    const r1 = G(p);
+    vtext(r1, 'спонтанно: паузы случайны', TSEC(0), 320, m('random'), { size: 26, fill: COL.dim });
+    ROW1.forEach((w, i) => word(r1, w, 380, m('random', .3 + i * .22)));
+    const r2 = G(p);
+    vtext(r2, 'подготовлено: пауза рассчитана', TSEC(0), 510, m('rhet'), { size: 26, fill: COL.dim });
+    ROW2.forEach((w, i) => word(r2, w, 570, m('rhet', .3 + i * .22)));
+    // the calculated pause
+    const gapB = G(p, { o: 0 });
+    mk('rect', { x: TSEC(3.15), y: 540, width: TSEC(4.05) - TSEC(3.15), height: 52, rx: 10, fill: 'none', stroke: COL.task, 'stroke-width': 3, 'stroke-dasharray': '8 7' }, gapB);
+    T(gapB, 'пауза ≈1 с', { x: (TSEC(3.15) + TSEC(4.05)) / 2, y: 640, size: 26, fill: COL.task, weight: 650, anchor: 'middle' });
+    show(gapB, m('key'));
+    const keyWord = r2.lastChild;
+    tw(keyWord, { y: -8 }, m('key', .5), .3, out); tw(keyWord, { y: 0 }, m('key', .8), .4);
+    vtext(p, 'перед словом, которому нужен вес', TSEC(5.25) + 30, 580, m('key', .6), { size: 26, fill: COL.task, weight: 600 });
+    vtext(p, 'кто держит паузу — тот управляет вниманием', 800, 760, m('power'), { size: 34, fill: COL.chalk, weight: 600, anchor: 'middle' });
+    tw(r1, { o: .35 }, m('power', -.2), .6);
+  }],
+
+  ['keys', 'Три ключа', (m, D) => {
+    const p = panel(0);
+    const k1 = vpill(p, 'смыкание', 400, 150, C_KEY, { size: 32 }), k2 = vpill(p, 'вибрация', 800, 150, C_KEY, { size: 32 }), k3 = vpill(p, 'увлажнение', 1200, 150, C_KEY, { size: 32 });
+    S.keys = [k1, k2, k3];
+    pop(k1, m('close')); pop(k2, m('vib')); pop(k3, m('wet'));
+    const low = S.keysLow = G(p);
+    const hands = vPalms(low, 800, 470);
+    show(hands, m('clap', -.3));
+    hands.clap(m('clap', .2), 3, 0, .6);
+    const say = (str, t0, t1, colr = COL.chalk) => { const e = vtext(low, str, 800, 730, t0, { size: 32, fill: colr, weight: 600, anchor: 'middle' }); if (t1) hide(e, t1, .3); return e; };
+    const hlop = vtext(low, 'хлоп!', 800, 320, m('clap', .45), { size: 40, fill: COL.task, weight: 700, anchor: 'middle' });
+    hide(hlop, m('clap', 2.2));
+    say('звук рождается в момент контакта', m('clap', .6), m('ball', -.3));
+    const ball = G(low, { x: 800, y: 470, o: 0, s: .4 });
+    mk('circle', { r: 30, fill: '#f6f1e3', stroke: COL.dim, 'stroke-width': 2 }, ball);
+    pop(ball, m('ball'));
+    hands.clap(m('ball', .5), 2, 30, .7);
+    const tuk = vtext(low, 'тук', 800, 340, m('ball', .8), { size: 32, fill: COL.dim, weight: 600, anchor: 'middle' });
+    hide(tuk, m('polyp', -.2));
+    say('полип или узелок = шарик между ладонями', m('polyp'), m('tired', -.3));
+    tw(k1, { s: 1.15 }, m('polyp', .3), .3, out); tw(k1, { s: 1 }, m('polyp', 1.2), .4);
+    hide(ball, m('tired', -.3), .3);
+    hands.clap(m('tired', .2), 2, 70, .8);
+    say('усталые мышцы: связки не смыкаются → голос еле слышен', m('tired', .1), m('dry', -.3));
+    tw(k1, { s: 1.15 }, m('tired', .4), .3, out); tw(k1, { s: 1 }, m('tired', 1.3), .4);
+    const drop = vDrop(low, 1240, 440, COL.whole, 1);
+    show(drop, m('dry', -.2), .3);
+    const x = vline(low, 'M1205 400L1275 480M1275 400L1205 480', COL.bad, 6, m('dry', .3), .4);
+    hands.tint('#c9b7a0', m('dry', .4), .8);
+    say('без влаги связки сохнут → хрипота', m('dry', .2), null, COL.chalk);
+    tw(k3, { s: 1.15 }, m('dry', .5), .3, out); tw(k3, { s: 1 }, m('dry', 1.4), .4);
+  }],
+
+  ['q3', 'Быстрая проверка', () => { if (S.keysLow) hide(S.keysLow, 0, .4); }, { ask: done => quiz({ x: 170, y: 240, w: 1260, cls: 'side', maxH: 640 }, [{
+    id: 'c-keys', prompt: ['Какой из трёх ключей нарушен в каждом случае?'],
+    build: grid([
+      { parts: ['Узелок на голосовой связке'], ans: ['c'], why: 'Узелок, как шарик между ладонями, мешает связкам сомкнуться.' },
+      { parts: ['Весь день в самолёте с очень сухим воздухом'], ans: ['w'], why: 'Сухой воздух забирает влагу со слизистой связок.' },
+      { parts: ['Кислотный рефлюкс по ночам'], ans: ['w'], why: 'Кислота из желудка сушит глотку и гортань.' },
+      { parts: ['Восемь часов переговоров подряд, мышцы устали'], ans: ['c'], why: 'Усталые мышцы не доводят связки до полного смыкания.' },
+      { parts: ['Зимняя хрипота при ларингите'], ans: ['v'], why: 'При инфекционном ларингите страдает сама вибрация связок.' },
+    ], [['c', 'Смыкание', C_KEY], ['v', 'Вибрация', C_KEY], ['w', 'Увлажнение', C_KEY]], { multi: false, text: true }),
+  }], done) }],
+
+  ['vagus', 'Блуждающий нерв', (m, D) => {
+    const p = panel(0);
+    const body = G(p, { o: 0 });
+    // schematic body, front view (the patient's left is the viewer's right)
+    mk('ellipse', { cx: 520, cy: 185, rx: 165, ry: 108, fill: '#2a3d37', stroke: COL.dim, 'stroke-width': 3 }, body);
+    T(body, 'мозг', { x: 520, y: 175, size: 26, fill: COL.dim, anchor: 'middle' });
+    path(body, 'M462 290C462 340 458 390 452 440C400 455 330 465 290 500M578 290C578 340 582 390 588 440C640 455 710 465 750 500', { stroke: COL.dim, 'stroke-width': 3 });
+    mk('ellipse', { cx: 395, cy: 640, rx: 62, ry: 105, fill: 'none', stroke: '#3f544c', 'stroke-width': 3 }, body);   // lungs
+    mk('ellipse', { cx: 665, cy: 640, rx: 62, ry: 105, fill: 'none', stroke: '#3f544c', 'stroke-width': 3 }, body);
+    path(body, 'M520 425V540', { stroke: '#3f544c', 'stroke-width': 14 });                                            // trachea
+    const larynx = G(body, { x: 520, y: 395 });
+    mk('rect', { x: -24, y: -28, width: 48, height: 56, rx: 12, fill: C_PITCH }, larynx);
+    T(body, 'гортань', { x: 482, y: 404, size: 22, fill: C_PITCH, anchor: 'end' });
+    path(body, 'M545 680C545 600 640 600 640 680', { stroke: '#a8473f', 'stroke-width': 14 });                         // aortic arch
+    T(body, 'дуга аорты', { x: 660, y: 600, size: 22, fill: '#d0685d' });
+    const stomach = G(body, { x: 520, y: 805 });
+    mk('path', { d: 'M-46 -38C-16 -58 60 -48 60 0C60 38 10 56 -38 38C-58 28 -38 0 -46 -38Z', fill: '#2a3d37', stroke: COL.dim, 'stroke-width': 3 }, stomach);
+    T(body, 'желудок', { x: 600, y: 815, size: 22, fill: COL.dim });
+    show(body, .2);
+    // twelve pairs of cranial nerves
+    const pairs = G(p);
+    for (let i = 0; i < 12; i++) {
+      const a = (-60 + i * 11) * Math.PI / 180, x0 = 520, y0 = 285, len = 70;
+      for (const sgn of [-1, 1]) {
+        const e = path(pairs, `M${x0 + sgn * 18} ${y0}L${x0 + sgn * (18 + len * Math.cos(a))} ${y0 + len * Math.sin(a) * .6 + 20}`, { stroke: i === 9 ? C_NERVE : COL.dim, 'stroke-width': i === 9 ? 4 : 2.5 }, { d: 0 });
+        draw(e, m('pairs', .2 + i * .06), .4);
+      }
+    }
+    const side = (str, y, t0, colr = COL.chalk, size = 28) => vtext(p, str, 860, y, t0, { size, fill: colr, weight: 600 });
+    side('12 пар черепных нервов', 150, m('pairs'), COL.dim);
+    side('X пара — блуждающий нерв', 215, m('ten'), C_NERVE, 32);
+    hide(pairs, m('down', -.3), .6);
+    // the vagus on both sides: down the neck to heart, lungs and stomach
+    vline(p, 'M492 290C488 380 484 470 486 560C488 660 496 720 505 770', C_NERVE, 4, m('down'), 2);
+    vline(p, 'M548 290C552 380 560 470 562 560C565 660 552 720 540 770', C_NERVE, 4, m('down', .2), 2);
+    side('спускается к сердцу, лёгким, желудку', 280, m('down', .4), COL.dim, 26);
+    // left recurrent branch: hooks under the aortic arch and climbs back to the larynx
+    vline(p, 'M562 560C564 650 586 700 600 700C620 700 616 640 592 620C572 604 544 560 544 425', C_NERVE, 5, m('loop'), 1.8);
+    side('ветвь к левой связке огибает', 345, m('loop', .3), C_NERVE, 26);
+    side('дугу аорты и идёт обратно вверх', 380, m('loop', .4), C_NERVE, 26);
+    pulse(larynx, m('ctrl', .2), 1.4); pulse(larynx, m('ctrl', 1.2), 1.4);
+    side('натягивает · размыкает · смыкает связки', 450, m('ctrl'), C_PITCH, 26);
+    side('«нерв стресса», по автору', 530, m('stress'), C_NERVE, 30);
+    tw(stomach, { s: 1.12 }, m('stress', .5), .3, out); tw(stomach, { s: 1 }, m('stress', .9), .5);
+    // reflux: acid rises from the stomach to the larynx (drawn beside the trachea)
+    vline(p, 'M516 768V436', COL.bad, 6, m('reflux', .4), 1.3);
+    vline(p, 'M500 458L516 434L532 458', COL.bad, 6, m('reflux', 1.6), .3);
+    tw(larynx, { s: .82 }, m('reflux', .2), .5);
+    side('волнение: горло сжимается', 600, m('reflux'), COL.bad, 26);
+    side('и растёт рефлюкс — кислота сушит связки', 640, m('reflux', 1.2), COL.bad, 26);
+  }],
+
+  ['room', 'Гелий, вода и зал', (m, D) => {
+    const p = panel(0);
+    vtext(p, 'скорость звука', 250, 110, .2, { size: 30, fill: C_SND, weight: 650 });
+    const bar = (y, v, name, val, t0) => {
+      const g = G(p, { o: 0 });
+      T(g, name, { x: 380, y: y + 10, size: 28, fill: COL.chalk, anchor: 'end' });
+      const r = put(mk('rect', { x: 400, y: y - 20, height: 36, rx: 8, fill: C_SND }, g), { a_width: 0 });
+      const t = T(g, val, { x: SPD(v) + 16, y: y + 10, size: 26, fill: C_SND, weight: 650, font: MATH, o: 0 });
+      show(g, t0, .2); tw(r, { a_width: SPD(v) - 400 }, t0, 1.1, out); show(t, t0 + .9, .4);
+      return g;
+    };
+    bar(180, 331, 'воздух, 0 °C', '≈330 м/с', m('air'));
+    bar(250, 970, 'гелий', '≈1000 м/с', m('he'));
+    bar(320, 1480, 'вода', '≈1500 м/с', m('water'));
+    // the myth, crossed out
+    const myth = vtext(p, 'в гелии связки вибрируют быстрее', 250, 440, m('myth'), { size: 30, fill: COL.chalk });
+    vline(p, 'M240 430H780', COL.bad, 5, m('no'), .5);
+    tw(myth, { o: .55 }, m('no', .3), .4);
+    vtext(p, 'высота почти та же', 250, 490, m('no', .5), { size: 30, fill: C_PITCH, weight: 650 });
+    // spectrum: harmonics of one voice; the resonance envelope shifts in helium
+    const SX = 260, SY = 820, f0 = 46;
+    vline(p, `M${SX - 10} ${SY}H${SX + 560}`, COL.dim, 2.5, m('res', -.4), .5);
+    vtext(p, 'обертоны (тембр)', SX, 548, m('res', -.3), { size: 26, fill: C_SND, weight: 600 });
+    vtext(p, 'частота →', SX + 560, SY + 36, m('res', -.3), { size: 20, fill: COL.dim, anchor: 'end' });
+    const env = (k, c) => 210 * Math.exp(-(((k * f0) - c) ** 2) / (2 * 120 ** 2)) + 18;
+    for (let k = 1; k <= 11; k++) {
+      const x = SX + k * f0;
+      const r = put(mk('rect', { x: x - 7, width: 14, fill: k === 1 ? C_PITCH : C_SND }, p), { a_y: SY, a_height: 0, o: 1 });
+      tw(r, { a_y: SY - env(k, 140), a_height: env(k, 140) }, m('res', -.2 + k * .03), .5, out);
+      tw(r, { a_y: SY - env(k, 330), a_height: env(k, 330) }, m('res', 1.4 + k * .03), 1.2);
+    }
+    vtext(p, 'основной тон на месте', SX + f0 - 12, SY + 36, m('res', .4), { size: 20, fill: C_PITCH });
+    vtext(p, 'резонансы сдвигаются вверх →', SX + 250, 548, m('res', 1.6), { size: 22, fill: C_SND });
+    // empty vs full hall
+    const hall = G(p);
+    S.hall = hall;
+    const room = (x, full, t0) => {
+      const g = G(hall, { o: 0 });
+      path(g, `M${x} 760V560Q${x + 160} 470 ${x + 320} 560V760Z`, { stroke: COL.dim, 'stroke-width': 3 });
+      if (full) for (let i = 0; i < 36; i++) mk('circle', { cx: x + 30 + (i % 12) * 23, cy: 680 + Math.floor(i / 12) * 24, r: 7, fill: COL.task }, g);
+      T(g, full ? 'полный зал' : 'пустой зал', { x: x + 160, y: 800, size: 24, fill: COL.dim, anchor: 'middle' });
+      show(g, t0); return g;
+    };
+    room(870, false, m('hall'));
+    room(1220, true, m('hall', 1));
+    vtext(hall, 'тепло и влажность меняют обертоны', 1210, 470, m('hall', 1.6), { size: 26, fill: C_SND, weight: 600, anchor: 'middle' });
+    vtext(hall, 'музыканты подстраиваются в антракте', 1210, 860, m('tune'), { size: 24, fill: COL.dim, anchor: 'middle' });
+  }],
+
+  ['q4', 'Быстрая проверка', () => { if (S.hall) hide(S.hall, 0, .4); }, { ask: done => quiz({ x: 860, y: 420, w: 680, cls: 'side', maxH: 460 }, [{
+    id: 'c-helium', prompt: ['Почему после вдоха гелия голос звучит «мультяшно»?'],
+    build: choice([['Связки начинают вибрировать быстрее'], ['Звук в гелии быстрее, и резонансы сдвигаются вверх'], ['Гелий делает голос громче']], 1,
+      'Основной тон почти не меняется: меняется тембр, потому что резонансы глотки и рта в гелии смещаются вверх.',
+      ['Это популярный миф: связки вибрируют почти с той же частотой, высота почти та же.', null, 'Громкость тут ни при чём: меняется набор обертонов, то есть тембр.']),
+  }], done) }],
+
+  ['wrap', 'Итоги', (m) => {
+    const p = panel(0);
+    vtext(p, 'Итоги главы', 190, 170, .2, { size: 30, fill: COL.dim, weight: 600 });
+    [['Высота — в герцах: смыканий связок в секунду', 'w1', C_PITCH], ['Громкость — в децибелах: +10 дБ = ×10 энергии', 'w2', C_LOUD],
+     ['Ритм — это паузы: рассчитанная пауза даёт вес слову', 'w3', C_RHY], ['Голосу нужны смыкание, вибрация и влага', 'w4', C_KEY]]
+      .forEach(([str, mk_, colr], i) => vItem(p, i + 1, str, 290 + i * 135, m(mk_), colr));
+    vtext(p, 'а волнение бьёт по всем трём через блуждающий нерв', 240, 770, m('w4', 2.2), { size: 26, fill: C_NERVE });
+  }],
+
+  ['practice', 'Для практики', (m) => {
+    const p = panel(0);
+    vtext(p, 'Для практики', 190, 170, .2, { size: 34, fill: COL.task, weight: 700 });
+    vItem(p, 1, 'Пейте воду в течение дня, берегитесь сухого воздуха', 310, m('p1'), COL.task, 30);
+    vtext(p, 'влага нужна связкам заранее, а не за минуту до выступления', 240, 360, m('p1', 1.5), { size: 24, fill: COL.dim });
+    vItem(p, 2, 'Перед главной цифрой — пауза в секунду', 470, m('p2'), COL.task, 30);
+    vtext(p, '«Мы снизим ваши затраты …… на треть»', 240, 520, m('p2', 1), { size: 24, fill: C_RHY });
+    vItem(p, 3, 'Перед важным звонком — несколько медленных выдохов', 630, m('p3'), COL.task, 30);
+    vtext(p, 'отпустить горло до того, как зазвучит голос', 240, 680, m('p3', 1.5), { size: 24, fill: COL.dim });
+  }],
+
+  ['final1', 'Практика 1', () => { panel(0); }, { ask: done => quiz(SCREEN, [
+    { id: 'p-hz', prompt: ['Что измеряют в герцах, когда говорят о голосе?'],
+      build: choice([['Громкость'], ['Высоту: число колебаний связок в секунду'], ['Длину пауз'], ['Силу выдоха']], 1,
+        'Герц — одно колебание в секунду. Чем чаще смыкаются связки, тем выше голос.',
+        ['Громкость измеряют в децибелах.', null, 'Паузы и ритм измеряют в секундах.', 'Сила выдоха влияет на громкость, но её не измеряют в герцах.']) },
+    { id: 'p-db', prompt: ['Шёпот — около 30 дБ, разговор — около 60 дБ. Во сколько раз звуковая энергия разговора больше, чем шёпота?'],
+      build: blanks([{ parts: ['в ', { box: '1000' }, ' раз'], why: '+30 дБ — это три шага по +10 дБ: 10 × 10 × 10 = 1000.', hint: 'Каждые +10 дБ умножают энергию на 10. Сколько таких шагов от 30 до 60?' }]) },
+    { id: 'p-pause', prompt: ['Где поставить риторическую паузу во фразе «Мы снизим ваши затраты на треть»?'],
+      build: choice([['Перед «Мы»'], ['После «снизим»'], ['Перед «на треть»']], 2,
+        'Пауза ставится прямо перед словом, которому нужен вес: здесь это результат — «на треть».',
+        ['Пауза в начале просто задерживает старт; она не выделяет главное.', 'Так пауза разрывает действие и звучит как поиск слова.', null]) },
+  ], done, 'Практика 1/2 · вопрос') }],
+
+  ['final2', 'Практика 2', () => { panel(0); }, { ask: done => quiz(SCREEN, [
+    { id: 'p-keys', prompt: ['Какой ключ нарушен?'],
+      build: grid([
+        { parts: ['Полип на связке'], ans: ['c'], why: 'Полип мешает связкам сомкнуться, как шарик между ладонями.' },
+        { parts: ['Одна связка парализована, человек говорит шёпотом'], ans: ['c'], why: 'Без второй связки смыкание невозможно, остаётся только шёпот.' },
+        { parts: ['Ороговение слизистой (кератоз) от постоянной сухости'], ans: ['w'], why: 'Недостаток влаги — причина кератоза.' },
+      ], [['c', 'Смыкание', C_KEY], ['v', 'Вибрация', C_KEY], ['w', 'Увлажнение', C_KEY]], { multi: false, text: true }) },
+    { id: 'p-vagus', prompt: ['Почему перед важным выступлением садится голос?'],
+      build: choice([['Волнение через блуждающий нерв сжимает горло и усиливает рефлюкс'], ['От страха связки укорачиваются навсегда'], ['Стресс понижает частоту голоса до нуля']], 0,
+        'Блуждающий нерв управляет и связками, и желудком, поэтому волнение бьёт по голосу дважды.',
+        [null, 'Изменения от волнения временные; связки не меняют длину навсегда.', 'Частота меняется, но не исчезает; голос садится из-за напряжения и сухости.']) },
+    { id: 'p-he', prompt: ['Голос в полном зале звучит иначе, чем на репетиции в пустом. Что изменилось?'],
+      build: choice([['Обертоны: тепло и влажность от публики меняют тембр'], ['Частота связок выросла из-за публики'], ['Ничего, это иллюзия']], 0,
+        'Температура и влажность меняют скорость звука и обертоны; поэтому музыканты подстраиваются в антракте.',
+        [null, 'Частота связок зависит от певца, а не от зала.', 'Изменение реальное: на это и реагируют музыканты.']) },
+  ], done, 'Практика 2/2 · вопрос') }],
+
+  ['finish', 'Готово', () => { panel(0); }, { ask: finishCard }],
+].map(([id, title, run, extra]) => ({ id, title, run, ...extra }));
+
+boot();
+</script>
+</body>
+</html>
